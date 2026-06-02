@@ -1,20 +1,5 @@
 [
   {
-    "slug": "adp-agregacao",
-    "title": "A.D.P (agregação)",
-    "area": "Hematologia",
-    "metodo": "LTA",
-    "amostra": "Plasma",
-    "material_colheita": "Tubo c/ citrato",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "2h, ambiente",
-    "tempo_resposta": "1d",
-    "setor": "L.HM",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "acanthamoeba-1",
     "title": "Acanthamoeba,  DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
@@ -58,51 +43,6 @@
     "setor": "Microbiologia",
     "codigo_interno": "ACANTA",
     "observacoes": "![image.png](uploads/image-27.png)"
-  },
-  {
-    "slug": "acetominofeno-paracetamol",
-    "title": "Acetominofeno (Paracetamol)",
-    "area": "Química Clínica",
-    "metodo": "Enzimático",
-    "amostra": "Soro",
-    "material_colheita": "Tubo c/ gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "8h, ambiente\n2s, 2-8ºC\n45d, -20ºC",
-    "tempo_resposta": "1d",
-    "setor": "L.Core HP",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
-    "slug": "actividade-citotoxica-das-celulas-nk-in-vitro",
-    "title": "Actividade citotóxica das células NK, in vitro",
-    "area": "Citometria de Fluxo",
-    "metodo": "Citometria de fluxo",
-    "amostra": "Sangue total",
-    "material_colheita": "Tubo c/ EDTA",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Até 24 horas após colheita",
-    "tempo_resposta": "96 horas",
-    "setor": "UFCF",
-    "codigo_interno": "",
-    "observacoes": "![image388.jpg](uploads/image388.jpg)"
-  },
-  {
-    "slug": "adalimumab-e-respetivos-anticorpos-anti-adalimumab",
-    "title": "Adalimumab e respetivos Anticorpos anti-Adalimumab",
-    "area": "Imunologia/Autoimunidade",
-    "metodo": "ELISA",
-    "amostra": "Soro",
-    "material_colheita": "Tubo c/ gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "24h, ambiente\n7d, 2-8ºC\n3m, -20ºC",
-    "tempo_resposta": "1-4s",
-    "setor": "L.IM",
-    "codigo_interno": "",
-    "observacoes": ""
   },
   {
     "slug": "adenovirus-dna-carga-viral",
