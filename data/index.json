@@ -90,21 +90,6 @@
     "observacoes": "![image.png](uploads/image-28.png)"
   },
   {
-    "slug": "anexina-a5-pesquisa-do-haplotipo-m2",
-    "title": "Anexina A5, pesquisa do haplótipo M2",
-    "area": "Hematologia",
-    "metodo": "PCR e restrição enzimática",
-    "amostra": "Sangue total",
-    "material_colheita": "Tubo c/ EDTA",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "2d, ambiente  \n5d, 2-8ºC",
-    "tempo_resposta": "4s (urgência,2d)",
-    "setor": "L.BM",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "bartonella-sp-dna-qualitativo-1",
     "title": "Bartonella sp., DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
