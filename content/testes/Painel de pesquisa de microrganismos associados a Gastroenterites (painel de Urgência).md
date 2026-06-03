@@ -1,6 +1,6 @@
 ---
 title: Painel de Gastroenterites (painel de Urgência)
-area: Bacteriologia - Biologia Molecular e Virologia
+area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e Nested PCR
 amostra: "Fezes liquídas "
 material_colheita: Contentor estéril
