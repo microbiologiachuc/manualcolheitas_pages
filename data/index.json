@@ -195,21 +195,6 @@
     "observacoes": "![image.png](blob:https:/app.pagescms.org/93c91a50-e080-4320-aef3-d80c33e69e0a)"
   },
   {
-    "slug": "biopsia-gastrica-pesquisa-de-helicobacter-pylori",
-    "title": "Biópsia gástrica; pesquisa de Helicobacter pylori",
-    "area": "Bacteriologia",
-    "metodo": "Cultura",
-    "amostra": "Bióspia gástrica",
-    "material_colheita": "Contentor estéril ou meio de transporte apropriado",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "biopsia-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes",
     "title": "Biópsia; Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes",
     "area": "Bacteriologia",
@@ -1167,6 +1152,21 @@
     "tempo_resposta": "Até 96H",
     "setor": "Microbiologia",
     "codigo_interno": "4904",
+    "observacoes": ""
+  },
+  {
+    "slug": "biopsia-gastrica-pesquisa-de-helicobacter-pylori",
+    "title": "Helicobacter pylori",
+    "area": "Bacteriologia",
+    "metodo": "Cultura",
+    "amostra": "Bióspia gástrica",
+    "material_colheita": "Contentor estéril ou meio de transporte apropriado",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "Microbiologia",
+    "codigo_interno": "",
     "observacoes": ""
   },
   {
