@@ -1,5 +1,5 @@
 ---
-title: Biópsia gástrica; pesquisa de Helicobacter pylori
+title: "Helicobacter pylori "
 area: Bacteriologia
 metodo: Cultura
 amostra: Bióspia gástrica
