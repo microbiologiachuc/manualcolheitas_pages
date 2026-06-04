@@ -2175,21 +2175,6 @@
     "observacoes": "![image388.jpg](uploads/image388-8.jpg)"
   },
   {
-    "slug": "neisseria-gonorrhoeae-chlamydia-trachomatis",
-    "title": "Neisseria gonorrhoeae/ Chlamydia trachomatis",
-    "area": "Microbiologia",
-    "metodo": "PCR tempo real",
-    "amostra": "Exsudado vaginal/retal/oral  \nUrina",
-    "material_colheita": "Zaragatoas genitais/retal/ orais em meio de transporte  \nContentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato\n48h, 2-8ºC",
-    "tempo_resposta": "Até 24H",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "neisseria-meningitidis-spneumoniae-listeria-dna-qualitativo",
     "title": "Neisseria meningitidis/ S.Pneumoniae / Listeria DNA qualitativo",
     "area": "Microbiologia",
