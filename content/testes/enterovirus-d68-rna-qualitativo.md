@@ -11,5 +11,5 @@ tempo_resposta: Até 96H
 setor: Microbiologia
 codigo_interno: EVD68
 observacoes: |+
-  ![image.png](blob:https:/app.pagescms.org/8764144e-e186-424a-ad78-19a64e2ba6b3)
+  ![image.png](uploads/image-49.png)
 ---
