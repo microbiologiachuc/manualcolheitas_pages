@@ -1,7 +1,7 @@
 ---
 title: Exsudado de ferida não cirúrgica; Pesquisa de aeróbios, anaeróbios,
   fungos leveduriformes Cultura
-area: Microbiologia
+area: Bacteriologia
 metodo: Cultura
 amostra: Exsudado de ferida não cirúrgica
 material_colheita: |+
@@ -10,6 +10,6 @@ material_colheita: |+
   ![](uploads/zaragatoa_meio_trans.png)
 
 transporte_estabilidade: Envio imediato à temperatura ambiente
-tempo_resposta: 3d
-setor: L.MIC
+tempo_resposta: Até 1 semana
+setor: Microbiologia
 ---
