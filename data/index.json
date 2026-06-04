@@ -1470,6 +1470,21 @@
     "observacoes": ""
   },
   {
+    "slug": "hiv-2-genotipagemresistencia-aos-antirretrovirais",
+    "title": "HIV-2 - Genotipagem/Resistência aos antirretrovirais",
+    "area": "Virologia",
+    "metodo": "Sequenciação de nova geração",
+    "amostra": "Plasma,",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediata/ 72H a 4ºC após centrifugação",
+    "tempo_resposta": "Até 1 mês",
+    "setor": "Microbiologia",
+    "codigo_interno": "TRAHIV2",
+    "observacoes": ""
+  },
+  {
     "slug": "humor-aquoso-pesquisa-de-aerobios-fungos-leveduriformes",
     "title": "Humor aquoso; Pesquisa de aeróbios, fungos leveduriformes",
     "area": "Microbiologia",
