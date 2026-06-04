@@ -1305,6 +1305,21 @@
     "observacoes": ""
   },
   {
+    "slug": "herpes-simplex-hsv12-dna-carga-viral",
+    "title": "Herpes Simplex (HSV1/2), DNA Carga viral",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Plasma",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC, após centrifugação",
+    "tempo_resposta": "Até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "4910",
+    "observacoes": ""
+  },
+  {
     "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
     "title": "Hidatidose (Ech. granulosus); Deteção de anticorpos IgG",
     "area": "Microbiologia",
