@@ -5,7 +5,7 @@ metodo: Microscopia, pesquisa de anticorpos IgG, pesquisa de antigénio
 amostra: "Fezes, Soro "
 material_colheita: "Contentor estéril ou Tubo com gel "
 transporte_estabilidade: 3h, ambiente
-tempo_resposta: 7d
+tempo_resposta: Até 1 semana
 setor: Microbiologia
 observacoes: |-
   Helmintas e Protozoários: pesquisa por microscopia
