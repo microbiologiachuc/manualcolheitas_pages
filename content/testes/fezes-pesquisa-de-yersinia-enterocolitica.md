@@ -7,6 +7,6 @@ material_colheita: Contentor estéril
 transporte_estabilidade: |-
   Envio imediato
   Temperatura ambiente
-tempo_resposta: 3-7d
+tempo_resposta: Até 1 semana
 setor: Microbiologia
 ---
