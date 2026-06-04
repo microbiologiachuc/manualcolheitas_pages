@@ -1365,6 +1365,21 @@
     "observacoes": ""
   },
   {
+    "slug": "hev-rna-carga-viral",
+    "title": "HEV, RNA Carga Viral",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Plasma,",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC após centrifugação",
+    "tempo_resposta": "Até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "4951",
+    "observacoes": ""
+  },
+  {
     "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
     "title": "Hidatidose (Ech. granulosus); Deteção de anticorpos IgG",
     "area": "Microbiologia",
