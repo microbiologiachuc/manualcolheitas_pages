@@ -705,6 +705,21 @@
     "observacoes": ""
   },
   {
+    "slug": "enterovirus-rna-qualitativo",
+    "title": "Enterovirus, RNA qualitativo",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR/Outros produtos",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "4908",
+    "observacoes": ""
+  },
+  {
     "slug": "enterovirus-rna-quantitativo",
     "title": "Enterovirus, RNA quantitativo",
     "area": "Virologia",
