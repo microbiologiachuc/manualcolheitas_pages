@@ -5,6 +5,6 @@ metodo: Microscopia ótica
 amostra: Fezes
 material_colheita: Contentor estéril
 transporte_estabilidade: 2d, 2-8ºC
-tempo_resposta: <5d
+tempo_resposta: Até 1 semana
 setor: L.MIC
 ---
