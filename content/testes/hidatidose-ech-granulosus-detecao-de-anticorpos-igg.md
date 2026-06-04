@@ -12,5 +12,5 @@ transporte_estabilidade: |-
   5d, 2-8ºC
   6m, -20ºC
 tempo_resposta: <30d
-setor: L.MIC
+setor: Microbiologia
 ---
