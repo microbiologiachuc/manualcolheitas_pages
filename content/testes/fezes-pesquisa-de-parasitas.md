@@ -1,12 +1,12 @@
 ---
 title: Fezes, Pesquisa de parasitas
-area: Microbiologia
+area: Parasitologia
 metodo: Microscopia, pesquisa de anticorpos IgG, pesquisa de antigénio
 amostra: "Fezes, Soro "
 material_colheita: "Contentor estéril ou Tubo com gel "
 transporte_estabilidade: 3h, ambiente
 tempo_resposta: 7d
-setor: L.MIC
+setor: Microbiologia
 observacoes: |-
   Helmintas e Protozoários: pesquisa por microscopia
 
