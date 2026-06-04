@@ -5,6 +5,6 @@ metodo: "Cultura "
 amostra: Bílis
 material_colheita: Contentor estéril
 transporte_estabilidade: Envio imediato
-tempo_resposta: 3d
+tempo_resposta: Até 1 semana
 setor: Microbiologia
 ---
