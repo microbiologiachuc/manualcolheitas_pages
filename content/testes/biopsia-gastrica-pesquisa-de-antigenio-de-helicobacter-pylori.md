@@ -1,9 +1,9 @@
 ---
-title: "Biópsia gástrica; pesquisa de antigénio de Helicobacter pylori "
-area: Microbiologia
+title: "Pesquisa de antigénio de Helicobacter pylori "
+area: Bacteriologia
 metodo: "Imunocromatográfico "
 amostra: "Fezes "
-material_colheita: Contentor estéril ou meio de transporte apropriado
+material_colheita: "Contentor estéril "
 transporte_estabilidade: Envio imediato
 tempo_resposta: 2d
 setor: Microbiologia
