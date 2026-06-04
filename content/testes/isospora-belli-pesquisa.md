@@ -1,10 +1,10 @@
 ---
 title: Isospora belli; Pesquisa
-area: Microbiologia
+area: Parasitologia
 metodo: Microscopia óptica
 amostra: Fezes
 material_colheita: Contentor estéril
 transporte_estabilidade: 3h, ambiente
-tempo_resposta: <5d
-setor: L.MIC
+tempo_resposta: Até 1 semana
+setor: Microbiologia
 ---
