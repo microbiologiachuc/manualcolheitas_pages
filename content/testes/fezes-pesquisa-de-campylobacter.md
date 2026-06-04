@@ -1,12 +1,12 @@
 ---
 title: Fezes, Pesquisa de Campylobacter
-area: Microbiologia
+area: Bacteriologia
 metodo: Cultura
 amostra: Fezes
 material_colheita: Contentor estéril
-transporte_estabilidade: |
+transporte_estabilidade: |-
   Envio imediato
   Temperatura ambiente
-tempo_resposta: 3-7d
-setor: L.MIC
+tempo_resposta: Até 1 semana
+setor: Microbiologia
 ---
