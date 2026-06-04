@@ -1110,6 +1110,21 @@
     "observacoes": ""
   },
   {
+    "slug": "hbv-genotipagemresistencia-aos-antivirais",
+    "title": "HBV - Genotipagem/Resistencia aos antivirais",
+    "area": "Virologia",
+    "metodo": "Sequenciação de nova geração",
+    "amostra": "Plasma",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC após centrifugação",
+    "tempo_resposta": "Até 1 mês",
+    "setor": "Microbiologia",
+    "codigo_interno": "HBVRES",
+    "observacoes": ""
+  },
+  {
     "slug": "helicobacter-pylori-gene-claritromicina-dna-qualitativo",
     "title": "Helicobacter pylori (+ gene claritromicina),  DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
