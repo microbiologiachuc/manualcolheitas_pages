@@ -212,14 +212,14 @@
   {
     "slug": "biopsia-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes",
     "title": "Biópsia; Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes",
-    "area": "Microbiologia",
+    "area": "Bacteriologia",
     "metodo": "Cultura",
     "amostra": "Biópsia",
     "material_colheita": "Contentor estéril",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "3d",
+    "tempo_resposta": "Até 15 dias",
     "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
