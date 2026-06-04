@@ -1230,6 +1230,21 @@
     "observacoes": ""
   },
   {
+    "slug": "herpes-6-dna-qualitativo",
+    "title": "Herpes 6  -  DNA qualitativo",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR/ Outros produtos",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72 a 4ºC",
+    "tempo_resposta": "Até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "4946",
+    "observacoes": ""
+  },
+  {
     "slug": "herpes-6-hhv-6-dna-qualitativo",
     "title": "Herpes 6 (HHV-6),  DNA qualitativo",
     "area": "Virologia",
