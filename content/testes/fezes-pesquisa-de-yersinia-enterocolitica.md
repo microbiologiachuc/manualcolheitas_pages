@@ -1,6 +1,6 @@
 ---
 title: Fezes, Pesquisa de Yersinia enterocolitica
-area: Microbiologia
+area: Bacteriologia
 metodo: Cultura
 amostra: Fezes
 material_colheita: Contentor estéril
@@ -8,5 +8,5 @@ transporte_estabilidade: |-
   Envio imediato
   Temperatura ambiente
 tempo_resposta: 3-7d
-setor: L.MIC
+setor: Microbiologia
 ---
