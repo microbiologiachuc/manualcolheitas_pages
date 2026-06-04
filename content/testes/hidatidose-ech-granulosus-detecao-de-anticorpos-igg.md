@@ -1,6 +1,6 @@
 ---
 title: Hidatidose (Ech. granulosus); Deteção de anticorpos IgG
-area: Microbiologia
+area: Parasitologia
 metodo: IFI, Western Blot
 amostra: Soro
 material_colheita: |+
@@ -11,6 +11,6 @@ material_colheita: |+
 transporte_estabilidade: |-
   5d, 2-8ºC
   6m, -20ºC
-tempo_resposta: <30d
+tempo_resposta: Até 1 mês
 setor: Microbiologia
 ---
