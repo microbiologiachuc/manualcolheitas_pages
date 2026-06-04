@@ -11,5 +11,5 @@ tempo_resposta: até 96H
 setor: Microbiologia
 codigo_interno: "4909"
 observacoes: |+
-  ![image.png](blob:https:/app.pagescms.org/97b97c99-beaa-4135-9114-f59fcbd0e414)
+  ![image.png](blob:https:/app.pagescms.org/78e22b47-84fe-400b-b6e6-c2444cc6738c)
 ---
