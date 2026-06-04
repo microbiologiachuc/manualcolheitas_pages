@@ -1832,15 +1832,15 @@
   {
     "slug": "leishmaniose-detecao-de-anticorpos-igg",
     "title": "Leishmaniose; Deteção de  anticorpos IgG",
-    "area": "Microbiologia",
+    "area": "Parasitologia",
     "metodo": "IFI/Western Blot",
     "amostra": "Soro",
     "material_colheita": "Tubo c/ gel",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "5d, 2-8ºC\n6m, -20ºC",
-    "tempo_resposta": "<30d",
-    "setor": "L.MIC",
+    "tempo_resposta": "Até 1 mês",
+    "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
   },
