@@ -10,5 +10,5 @@ material_colheita: |-
   Tubo c/ gel
 transporte_estabilidade: Envio imediato
 tempo_resposta: <14d
-setor: M
+setor: Microbiologia
 ---
