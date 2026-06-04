@@ -765,6 +765,21 @@
     "observacoes": "![image.png](uploads/image-32.png)"
   },
   {
+    "slug": "epstein-barr-ebv-dna-carga-viral",
+    "title": "Epstein Barr (EBV) - DNA - Carga Viral",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Plasma",
+    "material_colheita": "|2+",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "Até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "4913",
+    "observacoes": ""
+  },
+  {
     "slug": "epstein-barr-ebv-dna-qualitativo",
     "title": "Epstein Barr [EBV] - DNA qualitativo",
     "area": "Virologia",
