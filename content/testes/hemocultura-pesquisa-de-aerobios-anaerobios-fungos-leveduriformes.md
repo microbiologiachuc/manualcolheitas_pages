@@ -1,6 +1,6 @@
 ---
 title: Hemocultura; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
-area: Microbiologia
+area: Bacteriologia
 metodo: Cultura
 amostra: Sangue
 material_colheita: |+
@@ -10,5 +10,5 @@ material_colheita: |+
 
 transporte_estabilidade: Envio imediato. Conservar a 37ºC ou temperatura ambiente.
 tempo_resposta: 5d
-setor: L.MIC
+setor: Microbiologia
 ---
