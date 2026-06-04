@@ -167,7 +167,7 @@
   {
     "slug": "bilis-pesquisa-de-aerobios-anaerobios-e-fungos-leveduriformes",
     "title": "Bílis; pesquisa de aeróbios, anaeróbios e fungos leveduriformes",
-    "area": "Microbiologia",
+    "area": "Bacteriologia",
     "metodo": "Cultura",
     "amostra": "Bílis",
     "material_colheita": "Contentor estéril",
@@ -175,7 +175,7 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "3d",
-    "setor": "L.MIC",
+    "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
   },
