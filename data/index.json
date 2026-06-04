@@ -1440,6 +1440,21 @@
     "observacoes": ""
   },
   {
+    "slug": "hiv-1-rna-carga-viral",
+    "title": "HIV-1, RNA Carga viral",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Plasma,",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC, após centrifugação",
+    "tempo_resposta": "Até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "HIV1",
+    "observacoes": ""
+  },
+  {
     "slug": "humor-aquoso-pesquisa-de-aerobios-fungos-leveduriformes",
     "title": "Humor aquoso; Pesquisa de aeróbios, fungos leveduriformes",
     "area": "Microbiologia",
