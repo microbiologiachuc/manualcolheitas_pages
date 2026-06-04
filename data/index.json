@@ -1575,6 +1575,21 @@
     "observacoes": ""
   },
   {
+    "slug": "influenza-a-e-b-sars-cov-2-e-rsv-teste-triplo",
+    "title": "Influenza A e B, SARS-CoV-2 e RSV - teste triplo",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Exsudado da nasofaringe/ orofaringe",
+    "material_colheita": "Zaragatoa com meio de transporte vírico, com inactivador",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato, 72H a 4ºC",
+    "tempo_resposta": "Até 4h",
+    "setor": "Microbiologia",
+    "codigo_interno": "COVFLU/COV19",
+    "observacoes": ""
+  },
+  {
     "slug": "isospora-belli-pesquisa",
     "title": "Isospora belli; Pesquisa",
     "area": "Microbiologia",
