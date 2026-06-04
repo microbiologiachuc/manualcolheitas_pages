@@ -9,6 +9,6 @@ material_colheita: |+
   ![](uploads/mrsa.png)
 
 transporte_estabilidade: Envio imediato
-tempo_resposta: 2d
+tempo_resposta: Até 2 dias
 setor: Microbiologia
 ---
