@@ -7,6 +7,7 @@ material_colheita: Zaragatoa com meio de transporte vírico com inactivador
 transporte_estabilidade: Imediato
 tempo_resposta: Até 4h
 setor: Microbiologia
+codigo_interno: RESSU(HUC) / 4945 (HP)
 observacoes: >-
   RESSU
 
