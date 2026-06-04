@@ -2175,21 +2175,6 @@
     "observacoes": "![image388.jpg](uploads/image388-8.jpg)"
   },
   {
-    "slug": "neisseria-meningitidis-spneumoniae-listeria-dna-qualitativo",
-    "title": "Neisseria meningitidis/ S.Pneumoniae / Listeria DNA qualitativo",
-    "area": "Microbiologia",
-    "metodo": "PCR tempo real",
-    "amostra": "Sangue Total\nLíquido pleural \nAspirado/Lavado bronco-alveolar \nLCR",
-    "material_colheita": "Tubo EDTA\nContentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato\nSangue: 6h, 2-8ºC\nOutros produtos: 48h, 2-8ºC",
-    "tempo_resposta": "3d",
-    "setor": "L.MIC",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "painel-agentes-infecao-respiratoria-inferior-disponivel-apos-consulta-pat-clinico-escala-de-microbiologia",
     "title": "Painel agentes infeção respiratória inferior (disponível após consulta",
     "area": "Bacteriologia - Biologia Molecular",
