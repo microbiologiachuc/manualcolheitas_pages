@@ -7,7 +7,7 @@ material_colheita: |+
   Tubo de EDTA com gel
 
 transporte_estabilidade: Imediato/ 72H a 4ºC após centrifugação
-tempo_resposta: Até 96H
+tempo_resposta: Até 1 semana
 setor: Microbiologia
 codigo_interno: HIV2
 ---
