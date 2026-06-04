@@ -467,7 +467,7 @@
   {
     "slug": "cryptococcus-neoformans-pesquisa-de-antigenio",
     "title": "Cryptococcus neoformans; Pesquisa de antigénio",
-    "area": "Microbiologia",
+    "area": "Micologia",
     "metodo": "Imunocromatografia",
     "amostra": "LCR\nSoro",
     "material_colheita": "Contentor estéril\nTubo c/ gel",
@@ -475,7 +475,7 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "<14d",
-    "setor": "L.MIC",
+    "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
   },
