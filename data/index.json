@@ -1515,6 +1515,21 @@
     "observacoes": ""
   },
   {
+    "slug": "hiv-2-rna-carga-viral-1",
+    "title": "HIV-2, RNA Carga viral",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR,",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72Ha 4ºC",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "Microbiologia",
+    "codigo_interno": "HIV2-CR",
+    "observacoes": ""
+  },
+  {
     "slug": "humor-aquoso-pesquisa-de-aerobios-fungos-leveduriformes",
     "title": "Humor aquoso; Pesquisa de aeróbios, fungos leveduriformes",
     "area": "Microbiologia",
