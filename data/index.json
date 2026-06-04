@@ -2087,7 +2087,7 @@
   {
     "slug": "mrsa-detecao-staphylococcus-aureus-meticilina-resistente",
     "title": "MRSA, deteção Staphylococcus aureus meticilina resistente",
-    "area": "Microbiologia",
+    "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Zaragatoa nasal",
     "material_colheita": "Zaragatoa nasal com meio de transporte adequado\n\n![](uploads/mrsa.png)",
@@ -2095,7 +2095,7 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "2d",
-    "setor": "L.MIC",
+    "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
   },
