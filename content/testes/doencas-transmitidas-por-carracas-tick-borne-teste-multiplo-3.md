@@ -10,5 +10,5 @@ material_colheita: Contentor estéril
 transporte_estabilidade: Imediato/ 72h a 4ºc
 tempo_resposta: até 72 horas
 setor: Microbiologia
-observacoes: TICKLS
+codigo_interno: TICKLS
 ---
