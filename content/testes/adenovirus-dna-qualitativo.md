@@ -11,5 +11,5 @@ tempo_resposta: Até 72 horas
 setor: Microbiologia
 codigo_interno: "4917"
 observacoes: |+
-  ![image.png](uploads/image-28.png)
+  ![image.png](blob:https:/app.pagescms.org/2fa93d75-7e3e-46db-b2dd-b037be563a95)
 ---
