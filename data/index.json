@@ -1742,15 +1742,15 @@
   {
     "slug": "lcr-pesquisa-de-antigenio-de-cryptococcus-neoformans",
     "title": "LCR; Pesquisa de antigénio de Cryptococcus neoformans",
-    "area": "Microbiologia",
+    "area": "Micologia",
     "metodo": "Imunocromatográfico",
     "amostra": "LCR",
     "material_colheita": "Tubo estéril tampa verde",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "5-7d",
-    "setor": "L.MIC",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
   },
