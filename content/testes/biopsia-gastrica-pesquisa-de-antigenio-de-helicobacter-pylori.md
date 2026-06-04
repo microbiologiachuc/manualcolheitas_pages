@@ -6,5 +6,5 @@ amostra: "Fezes "
 material_colheita: Contentor estéril ou meio de transporte apropriado
 transporte_estabilidade: Envio imediato
 tempo_resposta: 2d
-setor: L.MIC
+setor: Microbiologia
 ---
