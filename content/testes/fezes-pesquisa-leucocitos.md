@@ -1,10 +1,10 @@
 ---
 title: "Fezes, Pesquisa leucócitos "
-area: Microbiologia
+area: Parasitologia
 metodo: Microscopia ótica
 amostra: Fezes
 material_colheita: Contentor estéril
 transporte_estabilidade: 5d, 2-8ºC
-tempo_resposta: <5d
-setor: L.MIC
+tempo_resposta: Até 1 semana
+setor: Microbiologia
 ---
