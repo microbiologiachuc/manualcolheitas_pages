@@ -1,19 +1,14 @@
 ---
-title: Painel de Gastroenterites - Rotina
+title: Painel de Gastroenterites (Rotina)
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Fezes
 material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/ 72H a 4ºC
+transporte_estabilidade: Imediato / 72h a 4ºC
 tempo_resposta: até 72 horas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: TAQGAS
 observacoes: >-
-  
-
-  &nbsp;
-
-
   Microorganismos no Painel:
 
 
