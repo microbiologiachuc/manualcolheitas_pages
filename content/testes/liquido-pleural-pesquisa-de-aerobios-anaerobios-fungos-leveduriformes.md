@@ -1,9 +1,9 @@
 ---
 title: Líquido pleural; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
-area: Microbiologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Líquido pleural
-material_colheita: |
+material_colheita: |-
   Contentor estéril
   Meio de transporte anaeróbios
 transporte_estabilidade: Envio imediato
