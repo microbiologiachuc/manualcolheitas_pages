@@ -1,5 +1,5 @@
 ---
-title: "Herpes 8 DNA, Carga Viral "
+title: Vírus Herpes 8, DNA Carga Viral - Plasma
 area: Virologia
 metodo: PCR em tempo real
 amostra: Plasma
