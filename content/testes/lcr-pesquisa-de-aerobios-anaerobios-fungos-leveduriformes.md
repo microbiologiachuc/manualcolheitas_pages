@@ -1,10 +1,10 @@
 ---
 title: LCR; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: LCR
 material_colheita: Tubo estéril tampa verde
 transporte_estabilidade: Envio imediato
 tempo_resposta: Até 1 semana
-setor: Microbiologia
+setor: L.MIC
 ---
