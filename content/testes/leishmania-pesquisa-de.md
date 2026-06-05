@@ -1,6 +1,6 @@
 ---
 title: Pesquisa de Leishmania
-area: Microbiologia
+area: Parasitologia
 metodo: Microscopia óptica
 amostra: Esfregaço de medula óssea
 material_colheita: Tubo c/ EDTA
