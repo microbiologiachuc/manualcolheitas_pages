@@ -1,5 +1,5 @@
 ---
-title: HCV - Genotipagem/resistência aos antivirais
+title: Vírus Hepatite C (HCV), Genotipagem/resistência aos antivirais - Plasma
 area: Virologia
 metodo: Sequenciação de nova geração
 amostra: |+
@@ -8,6 +8,6 @@ amostra: |+
 material_colheita: " Tubo de EDTA com gel"
 transporte_estabilidade: Imediato/ 72H a 4ºC após centrifugação
 tempo_resposta: Até 1 mês
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: "188"
 ---
