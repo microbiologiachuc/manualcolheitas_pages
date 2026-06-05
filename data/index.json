@@ -797,7 +797,7 @@
   {
     "slug": "exsudado-ouvido-medio-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Exsudado ouvido médio; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes",
-    "area": "Bacteriologia",
+    "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Exsudado ouvido médio",
     "material_colheita": "Zaragatoa c/ meio transporte\nContentor estéril",
@@ -805,7 +805,7 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
+    "setor": "L.MIC",
     "codigo_interno": "",
     "observacoes": ""
   },
