@@ -1,9 +1,10 @@
 ---
-title: Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum)
+title: Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum) -
+  Exsudado oral
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
-  Exs.oral
+  Exsudado oral
 
 material_colheita: |2+
    Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa com meio de
@@ -11,12 +12,9 @@ material_colheita: |2+
 
 transporte_estabilidade: Imediato/ 72H a 4ºC
 tempo_resposta: Até 72 horas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: ULGEEO
-observacoes: >-
-  
-
-  Microrganismos pesquisados: ·     *Cytomegalovirus, Haemophilus ducreyi,*
-  Herpes simplex virus type 1, Herpes simplex virus type 2, *Lymphogranuloma
-  venereum, Treponema pallidum, Varicella-zoster virus.*
+observacoes: "Microrganismos pesquisados: ·     *Cytomegalovirus, Haemophilus
+  ducreyi,* Herpes simplex virus type 1, Herpes simplex virus type 2,
+  *Lymphogranuloma venereum, Treponema pallidum, Varicella-zoster virus.*"
 ---
