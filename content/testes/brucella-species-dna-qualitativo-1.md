@@ -1,5 +1,5 @@
 ---
-title: Brucella species, DNA qualitativo
+title: Brucella species, DNA qualitativo - Líquido sinovial
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Liquido sinovial
