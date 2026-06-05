@@ -1,5 +1,5 @@
 ---
-title: Fasciolose; Deteção Ac. IgG
+title: Fasciolose, Deteção anticorpos IgG
 area: Parasitologia
 metodo: Hemaglutinação indireta; Western Blot
 amostra: Soro
@@ -8,5 +8,6 @@ transporte_estabilidade: |-
   3d, 2-8 ºC
   1m, -20ºC
 tempo_resposta: Até 1 mês
-setor: Microbiologia
+setor: L.MIC
+codigo_interno: PSF
 ---
