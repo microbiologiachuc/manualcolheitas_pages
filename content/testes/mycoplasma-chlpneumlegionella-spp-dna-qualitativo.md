@@ -1,6 +1,6 @@
 ---
-title: Mycoplasma /Chl.pneum./Legionella sp., DNA qualitativo - Liq. Pleural/
-  LCR/Outros produtos
+title: Mycoplasma pneum./Chl. pneum./Legionella sp., DNA qualitativo - Liq.
+  Pleural/ LCR/Outros produtos
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
