@@ -360,21 +360,6 @@
     "observacoes": ""
   },
   {
-    "slug": "citomegalovirus-cmv-dna-qualitativo-1",
-    "title": "Citomegalovírus (CMV) DNA qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Outros produtos,",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "CVCMV-O",
-    "observacoes": ""
-  },
-  {
     "slug": "citomegalovirus-cmv-dna-qualitativo-2",
     "title": "Citomegalovirus (CMV) DNA Qualitativo",
     "area": "Virologia",
@@ -433,6 +418,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "CMVPM",
     "observacoes": "![image388.jpg](uploads/image388-3.jpg)"
+  },
+  {
+    "slug": "citomegalovirus-cmv-dna-qualitativo-1",
+    "title": "Citomegalovírus (CMV), DNA qualitativo - Outros produtos",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Outros produtos",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "CVCMV-O",
+    "observacoes": ""
   },
   {
     "slug": "cryptococcus-neoformans-pesquisa-de-antigenio",
