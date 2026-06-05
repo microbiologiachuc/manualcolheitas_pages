@@ -1800,21 +1800,6 @@
     "observacoes": "Microorganismos no Painel:  \n\nCampylobacter (C. jejuni / C. coli / C. upsaliensis), Clostridioides\n(Clostridium) difficile (toxin A/B), Plesiomonas shigelloides, Salmonella,\nYersinia enterocolitica, Vibrio (V. parahaemolyticus / V. vulnificus / V.\ncholerae), Vibrio cholerae, Enteroaggregative E. coli (EAEC), Enteropathogenic\nE. coli (EPEC), Enterotoxigenic E. coli (ETEC) lt/st, Shiga-like\ntoxin-producing E. coli (STEC) stx1/stx2, E. coli O157,\nShigella/Enteroinvasive, E. coli (EIEC), Cryptosporidium, Cyclospora\ncayetanensis, Entamoeba histolytica, Giardia lamblia"
   },
   {
-    "slug": "painel-diagnostico-de-encefalitesmeningites-painel-de-rotina",
-    "title": "Painel diagnóstico de encefalites/meningites (painel de rotina)",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "LCR",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato /72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "TAQVIR",
-    "observacoes": "Microrganismos  pesquisados: ·     **Virus:** Adenovirus (AdV) , Astrovirus,\nChikungunya vírus, Coxsackievirus types A9, Coxsackievirus types B2,\nCoxsackievirus types B5, Cytomegalovirus, Dengue vírus, Enterovirus,\nEnterovirus 71, Epstein-Barr vírus, Hepatitis E vírus, Human coronavirus 229E,\nHuman coronavirus HKU1, Human coronavirus NL63, Human coronavirus OC43, Human\nHerpes simplex virus 1, Human Herpes simplex virus 2, Human Herpes vírus 7,\nHuman herpesvirus 6, Human parainfluenza virus 1, Human parainfluenza virus 2,\nHuman parainfluenza virus 3, Human parainfluenza virus 4, Human parechovirus,\nInfluenza A virus, Influenza B virus, JC. Lymphocytic choriomeningitis virus,\nMeasles virus, Mumps virus, Parechovirus, Parvovirus B19, Rubella virus,\nTick-borne encephalitis virus, Toscana virus, Varicella zoster virus, West\nNile virus, Zika virus **Bactérias:** *Escherichia coli K1, Group B\nStreptococcus, Haemophilus influenzae, Listeria monocytogenes, Neisseria\nmeningitidis, Streptococcus pneumoniae* **Fungos:** *Cryptococcus sp.*"
-  },
-  {
     "slug": "painel-diagnostico-de-encefalitesmeningites-painel-de-urgencia",
     "title": "Painel diagnóstico de encefalites/meningites (painel de urgência)",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1828,6 +1813,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "MENIN (HUC), 4987 (HP)",
     "observacoes": "Microrganismos pesquisados: ·     *Escherichia coli K1, Haemophilus\ninfluenzae, Listeria monocytogenes, Neisseria meningitidis, Streptococcus\nagalactiae, Streptococcus pneumoniae,* Cytomegalovirus (CMV), Enterovirus\n(EV), Herpes simplex virus 1 (HSV-1), Herpes simplex virus 2 (HSV-2),\nHerpesvirus 6 (HHV-6), Human parechovirus (HPeV), Varicella zoster virus\n(VZV), Cryptococcus (C. neoformans/C. gattii)"
+  },
+  {
+    "slug": "painel-diagnostico-de-encefalitesmeningites-painel-de-rotina",
+    "title": "Painel Diagnóstico de Encefalites/Meningites (Rotina)",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72h a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "TAQVIR",
+    "observacoes": "Microrganismos  pesquisados:   \n\n**Virus:** Adenovirus (AdV) , Astrovirus, Chikungunya vírus, Coxsackievirus\ntypes A9, Coxsackievirus types B2, Coxsackievirus types B5, Cytomegalovirus,\nDengue vírus, Enterovirus, Enterovirus 71, Epstein-Barr vírus, Hepatitis E\nvírus, Human coronavirus 229E, Human coronavirus HKU1, Human coronavirus NL63,\nHuman coronavirus OC43, Human Herpes simplex virus 1, Human Herpes simplex\nvirus 2, Human Herpes vírus 7, Human herpesvirus 6, Human parainfluenza virus\n1, Human parainfluenza virus 2, Human parainfluenza virus 3, Human\nparainfluenza virus 4, Human parechovirus, Influenza A virus, Influenza B\nvirus, JC. Lymphocytic choriomeningitis virus, Measles virus, Mumps virus,\nParechovirus, Parvovirus B19, Rubella virus, Tick-borne encephalitis virus,\nToscana virus, Varicella zoster virus, West Nile virus, Zika virus.\n**Bactérias:** *Escherichia coli K1, Group B Streptococcus, Haemophilus\ninfluenzae, Listeria monocytogenes, Neisseria meningitidis, Streptococcus\npneumoniae.* **Fungos:** *Cryptococcus sp.*"
   },
   {
     "slug": "painel-infecoes-osteoarticulares",
