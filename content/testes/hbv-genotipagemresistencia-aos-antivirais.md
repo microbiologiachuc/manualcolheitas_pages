@@ -1,11 +1,11 @@
 ---
-title: HBV - Genotipagem/Resistencia aos antivirais
+title: Vírus Hepatite B (HBV), Genotipagem/Resistencia aos antivirais - Plasma
 area: Virologia
 metodo: Sequenciação de nova geração
 amostra: Plasma
 material_colheita: Tubo de EDTA com gel
 transporte_estabilidade: Imediato/ 72H a 4ºC após centrifugação
 tempo_resposta: Até 1 mês
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: HBVRES
 ---
