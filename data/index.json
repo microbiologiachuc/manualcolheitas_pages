@@ -450,21 +450,6 @@
     "observacoes": ""
   },
   {
-    "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo-1",
-    "title": "Doenças transmitidas por carraças (Tick-borne - Rickettsia spp., Babesia",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Biópsia cutânea",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72h a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "TICKBC",
-    "observacoes": ""
-  },
-  {
     "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo-2",
     "title": "Doenças transmitidas por carraças (Tick-borne - Rickettsia spp., Babesia",
     "area": "Bacteriologia - Biologia Molecular",
@@ -523,6 +508,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "TICK",
     "observacoes": "![image388.jpg](uploads/image388-4.jpg)"
+  },
+  {
+    "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo-1",
+    "title": "Doenças transmitidas por carraças (Tick-borne), DNA qualitativo",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Biópsia cutânea",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72h a 4ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "TICKBC",
+    "observacoes": "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia"
   },
   {
     "slug": "dst-chlam-trachomatis-myco-genitalium-myco-hominis-neiss-gonorrhoea-trich-vaginalis-ureapl-parvum-ureapl-urealyticum-dna-qualitativo-1",
