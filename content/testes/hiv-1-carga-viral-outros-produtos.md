@@ -1,13 +1,13 @@
 ---
-title: HIV-1 Carga viral (Outros Produtos)
+title: HIV-1, Carga viral - Outros Produtos
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
-  Outros produtos, 
+  Outros produtos
 
 material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/ 72H a 4ºC
+transporte_estabilidade: Imediato / 72h a 4ºC
 tempo_resposta: Até 96H
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: HIV1-O
 ---
