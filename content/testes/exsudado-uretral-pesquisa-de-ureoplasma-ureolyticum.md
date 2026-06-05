@@ -1,5 +1,5 @@
 ---
-title: Exsudado uretral; Pesquisa de  Ureoplasma ureolyticum
+title: Exsudado uretral; Pesquisa de Ureoplasma ureolyticum
 area: Bacteriologia
 metodo: Cultura
 amostra: Exsudado uretral
@@ -8,5 +8,6 @@ transporte_estabilidade: |-
   Envio imediato
   Conservar a 2-4ºC até envio (< 12 horas)
 tempo_resposta: Até 1 semana
-setor: Microbiologia
+setor: L.MIC
+codigo_interno: EXU
 ---
