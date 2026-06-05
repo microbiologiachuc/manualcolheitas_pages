@@ -1,8 +1,8 @@
 ---
-title: DST, DNA qualitativo
+title: DST, DNA qualitativo - Exsudado retal
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: "Exs Retal, "
+amostra: Exsudado retal
 material_colheita: Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa
   com meio de transporte vírico com inactivador
 transporte_estabilidade: Imediato/ 72H a 4ºC
