@@ -1,11 +1,11 @@
 ---
-title: Herpes 6 (HHV-6),  DNA qualitativo
+title: Vírus Herpes 6 (HHV-6), DNA qualitativo - Medula óssea
 area: Virologia
 metodo: PCR em tempo real
 amostra: Medula óssea
 material_colheita: Tubo de EDTA (tubo de hemograma)
-transporte_estabilidade: Imediato/ 72H a 4ºC
+transporte_estabilidade: Imediato / 72h a 4ºC
 tempo_resposta: Até 96H
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: 4946M
 ---
