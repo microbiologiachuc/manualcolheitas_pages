@@ -1,10 +1,8 @@
 ---
-title: Vírus Herpes Simplex (HSV1/2), DNA qualitativo
+title: Vírus Herpes Simplex (HSV1/2), DNA qualitativo - Medula óssea
 area: Virologia
 metodo: PCR em tempo real
-amostra: |+
-  Medula óssea
-
+amostra: Medula óssea
 material_colheita: Tubo de EDTA, (tubo hemograma)
 transporte_estabilidade: "Imediato/ 72 a 4ºC "
 tempo_resposta: Até 96H
