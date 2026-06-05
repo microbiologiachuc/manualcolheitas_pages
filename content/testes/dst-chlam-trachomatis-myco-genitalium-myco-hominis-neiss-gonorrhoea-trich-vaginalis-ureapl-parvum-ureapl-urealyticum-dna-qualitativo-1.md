@@ -1,7 +1,5 @@
 ---
-title: DST (Chlam. trachomatis, Myco. genitalium, Myco. hominis, Neiss.
-  gonorrhoea, Trich. vaginalis, Ureapl. parvum, Ureapl. urealyticum), DNA
-  qualitativo
+title: DST, DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: "Exs Retal, "
@@ -11,8 +9,7 @@ transporte_estabilidade: Imediato/ 72H a 4ºC
 tempo_resposta: até 72 horas
 setor: Microbiologia
 codigo_interno: DSTZA
-observacoes: |+
-  ![image4257.png](uploads/image4257.png)
-
-  ![image2066.png](uploads/image2066.png)
+observacoes: "Microorganismos presentes no painel: Chlam. trachomatis, Myco.
+  genitalium, Myco. hominis, Neiss. gonorrhoea, Trich. vaginalis, Ureapl.
+  parvum, Ureapl. urealyticum"
 ---
