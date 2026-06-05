@@ -1,6 +1,6 @@
 ---
 title: Pús de abcesso; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
-area: Microbiologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Pus de abcesso
 material_colheita: |+
