@@ -675,21 +675,6 @@
     "observacoes": "![image.png](uploads/image-49.png)"
   },
   {
-    "slug": "enterovirus-rna-qualitativo-1",
-    "title": "Enterovirus, RNA qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Secreções respiratórias./Outros produtos",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "até 96H",
-    "setor": "Microbiologia",
-    "codigo_interno": "4909",
-    "observacoes": "![image.png](blob:https:/app.pagescms.org/78e22b47-84fe-400b-b6e6-c2444cc6738c)"
-  },
-  {
     "slug": "enterovirus-rna-qualitativo",
     "title": "Enterovirus, RNA qualitativo",
     "area": "Virologia",
@@ -703,6 +688,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "4908",
     "observacoes": "![image.png](uploads/image-33.png)"
+  },
+  {
+    "slug": "enterovirus-rna-qualitativo-1",
+    "title": "Enterovirus, RNA qualitativo - Secreções respiratórias, Outros produtos",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Secreções respiratórias, Outros produtos",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "4909",
+    "observacoes": ""
   },
   {
     "slug": "enterovirus-rna-quantitativo",
