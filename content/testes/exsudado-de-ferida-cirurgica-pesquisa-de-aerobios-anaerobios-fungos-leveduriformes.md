@@ -1,7 +1,7 @@
 ---
-title: Exsudado de ferida cirúrgica, Pesquisa de aeróbios, anaeróbios, fungos
+title: Exsudado de ferida cirúrgica; Pesquisa de aeróbios, anaeróbios, fungos
   leveduriformes
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Exsudado de ferida cirúrgica
 material_colheita: |+
