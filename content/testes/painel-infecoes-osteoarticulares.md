@@ -1,12 +1,12 @@
 ---
-title: Painel infeções osteoarticulares
+title: Painel Diagnóstico Infeções Osteoarticulares
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e nested PCR
 amostra: Liquido sinovial
 material_colheita: Contentor estéril
 transporte_estabilidade: Imediato / 72H a 4ºC
 tempo_resposta: Até 4h
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: BFJI
 observacoes: >-
   
