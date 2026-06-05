@@ -1,6 +1,6 @@
 ---
 title: Biópsia ganglionar, Estudo micobacteriológico
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Fragmento de biópsia ganglionar
 material_colheita: Contentor estéril
