@@ -6,7 +6,7 @@ amostra: "Fezes, Soro "
 material_colheita: "Contentor estéril ou Tubo com gel "
 transporte_estabilidade: 3h, ambiente
 tempo_resposta: Até 1 semana
-setor: Microbiologia
+setor: L.MIC
 observacoes: |-
   Helmintas e Protozoários: pesquisa por microscopia
 
