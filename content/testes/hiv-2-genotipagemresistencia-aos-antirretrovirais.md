@@ -1,13 +1,13 @@
 ---
-title: HIV-2 - Genotipagem/Resistência aos antirretrovirais
+title: HIV-2, Genotipagem/Resistência aos antirretrovirais - Plasma
 area: Virologia
 metodo: Sequenciação de nova geração
 amostra: |+
-  Plasma,  
+  Plasma
 
 material_colheita: Tubo de EDTA com gel
 transporte_estabilidade: Imediata/ 72H a 4ºC após centrifugação
 tempo_resposta: Até 1 mês
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: TRAHIV2
 ---
