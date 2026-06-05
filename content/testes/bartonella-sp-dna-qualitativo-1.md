@@ -1,5 +1,5 @@
 ---
-title: "Bartonella sp., DNA qualitativo "
+title: Bartonella sp., DNA qualitativo - Biópsia
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Biópsia
