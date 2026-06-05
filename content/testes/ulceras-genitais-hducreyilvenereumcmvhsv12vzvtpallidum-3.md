@@ -1,15 +1,16 @@
 ---
-title: Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum)
+title: Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum) -
+  Zaragatoa Vaginal
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: "Zar.Vaginal, "
+amostra: Zaragatoa Vaginal
 material_colheita: >+
   Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa com meio de
   transporte vírico com inactivador
 
 transporte_estabilidade: Imediato/ 72H a 4ºC
 tempo_resposta: Até 72 horas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: ULGEEA
 observacoes: >-
   
