@@ -1,12 +1,9 @@
 ---
-title: Monkeypox vírus (VMPX) DNA Qualitativo
+title: Vírus Monkeypox (VMPX), DNA Qualitativo - Zaragatoa orofaringe
 area: Virologia
 metodo: PCR em tempo real
-amostra: "Zaragatoa orofaringe, "
-material_colheita: |-
-  
-
-  Zaragatoa com meio de transporte vírico com inactivador
+amostra: Zaragatoa orofaringe
+material_colheita: Zaragatoa com meio de transporte vírico com inactivador
 transporte_estabilidade: Imediato /Até 72h  a 4ºC
 tempo_resposta: Até 72 horas
 setor: Microbiologia
