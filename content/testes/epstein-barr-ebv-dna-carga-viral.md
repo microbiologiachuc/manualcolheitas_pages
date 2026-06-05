@@ -1,5 +1,5 @@
 ---
-title: Epstein Barr (EBV) - DNA - Carga Viral
+title: Vírus Epstein Barr (EBV), DNA Carga Viral -  Plasma
 area: Virologia
 metodo: PCR em tempo real
 amostra: Plasma
