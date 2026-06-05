@@ -1,5 +1,6 @@
 ---
-title: Doenças transmitidas por carraças (Tick-borne), DNA qualitativo
+title: "Doenças transmitidas por carraças (Tick-borne), DNA qualitativo -
+  Líquido sinovial "
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: "Liquido sinovial "
