@@ -1,5 +1,5 @@
 ---
-title: Borrelia burgdorferi sl. (16S rRNA qualitativo)
+title: Borrelia burgdorferi sl, 16S rRNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Sangue total
