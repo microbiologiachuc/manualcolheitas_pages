@@ -1,12 +1,13 @@
 ---
-title: "Mycoplasma pneum./Chl.pneumoniae/Legionella spp. - DNA qualitativo "
+title: "Mycoplasma pneum./Chl.pneumoniae/Legionella sp., DNA qualitativo -
+  Sangue total "
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: "Sangue total "
 material_colheita: Tubo de EDTA (tubo de hemograma)
 transporte_estabilidade: Imediato /72H a 4ºC
 tempo_resposta: até 72 horas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: "4936"
 observacoes: |+
   ![image388.jpg](uploads/image388-7.jpg)
