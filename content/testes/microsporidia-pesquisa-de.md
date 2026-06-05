@@ -1,6 +1,6 @@
 ---
-title: Microsporidia; Pesquisa de
-area: Microbiologia
+title: Pesquisa de Microsporidia
+area: Parasitologia
 metodo: Microscopia óptica
 amostra: Fezes
 material_colheita: Contentor estéril
