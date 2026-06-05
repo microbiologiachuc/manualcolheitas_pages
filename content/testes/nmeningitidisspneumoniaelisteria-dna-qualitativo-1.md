@@ -1,9 +1,10 @@
 ---
-title: "N.meningitidis/S.pneumoniae./Listeria -DNA qualitativo  "
+title: N.meningitidis/S.pneumoniae./Listeria, DNA qualitativo - Liq. Pleural/
+  LCR/ Outros produtos
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
-  Liq. Pleural/ LCR/ Outras amostras
+  Liq. Pleural/ LCR/ Outros produtos
 
 material_colheita: contentor estéril
 transporte_estabilidade: Imediato/72H a 4ºC
