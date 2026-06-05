@@ -1,6 +1,6 @@
 ---
 title: Material necropsia; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
-area: Microbiologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Material necropsia
 material_colheita: Contentor estéril
