@@ -1,5 +1,5 @@
 ---
-title: Brucella species, DNA qualitativo
+title: Brucella species, DNA qualitativo - Biópsia de gânglio
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Biópsia de ganglio
