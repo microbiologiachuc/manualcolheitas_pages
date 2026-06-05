@@ -1,10 +1,8 @@
 ---
-title: Cryptococcus neoformans; Pesquisa de antigénio
+title: Cryptococcus neoformans, Pesquisa de antigénio - LCR, Soro
 area: Micologia
 metodo: Imunocromatografia
-amostra: |-
-  LCR
-  Soro
+amostra: LCR, Soro
 material_colheita: |-
   Contentor estéril
   Tubo c/ gel
