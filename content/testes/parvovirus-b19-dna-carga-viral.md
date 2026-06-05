@@ -1,15 +1,13 @@
 ---
-title: "Parvovírus B19  DNA Carga viral "
+title: Parvovírus B19, DNA Carga viral - Plasma
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
-  Plasma,  
+  Plasma
 
 material_colheita: Tubo de EDTA com gel
 transporte_estabilidade: imediato/72H  a4ºC
 tempo_resposta: Até 72 horas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: "4941"
-observacoes: |+
-  ![image.png](uploads/image-22.png)
 ---
