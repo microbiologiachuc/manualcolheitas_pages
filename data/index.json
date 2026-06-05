@@ -61,10 +61,10 @@
   },
   {
     "slug": "adenovirus-dna-carga-viral",
-    "title": "Adenovírus - DNA Carga viral",
+    "title": "Adenovírus - DNA Carga viral, plasma",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
-    "amostra": "Plasma,",
+    "amostra": "Plasma",
     "material_colheita": "Tubo de EDTA com gel",
     "descricao_clinica": "",
     "indicacao": "",
