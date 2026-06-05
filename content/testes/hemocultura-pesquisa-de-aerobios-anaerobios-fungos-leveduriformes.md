@@ -11,5 +11,5 @@ material_colheita: |+
 transporte_estabilidade: Envio imediato. Conservar a 37ºC ou temperatura ambiente.
 tempo_resposta: 5d
 setor: L.MIC
-codigo_interno: HEV, HEV2, HEV3
+codigo_interno: HEV, HEV2, HEV3, HEC, HEC1, HEC2
 ---
