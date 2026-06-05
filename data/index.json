@@ -857,7 +857,7 @@
   {
     "slug": "exsudado-vaginal-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Exsudado vaginal; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes",
-    "area": "Bacteriologia",
+    "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Exsudado vaginal",
     "material_colheita": "Zaragatoa c/ meio transporte",
@@ -865,8 +865,8 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
+    "setor": "L.MIC",
+    "codigo_interno": "EXV",
     "observacoes": ""
   },
   {
