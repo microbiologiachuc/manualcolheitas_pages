@@ -1,6 +1,6 @@
 ---
 title: Prótese vascular; Pesquisa de aeróbios, fungos leveduriformes
-area: Microbiologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Prótese vascular
 material_colheita: Contentor estéril
