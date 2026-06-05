@@ -1,5 +1,5 @@
 ---
-title: Brucella species, DNA qualitativo - Medula óssea
+title: Brucella sp., DNA qualitativo - Medula óssea
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Medula óssea
