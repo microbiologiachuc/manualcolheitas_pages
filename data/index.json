@@ -1290,21 +1290,6 @@
     "observacoes": ""
   },
   {
-    "slug": "kingella-kingae-dna-qualitativo-2",
-    "title": "Kingella kingae, DNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "",
-    "material_colheita": "Biópsia,",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Contentor estéril",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "KINGB",
-    "observacoes": ""
-  },
-  {
     "slug": "kingella-kingae-dna-qualitativo",
     "title": "Kingella kingae, DNA qualitativo -  Lavado / Aspirado Broncoalveolar",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1317,6 +1302,21 @@
     "tempo_resposta": "até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "KINGLBA",
+    "observacoes": ""
+  },
+  {
+    "slug": "kingella-kingae-dna-qualitativo-2",
+    "title": "Kingella kingae, DNA qualitativo - Biópsia",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "",
+    "material_colheita": "Biópsia",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Contentor estéril",
+    "tempo_resposta": "até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "KINGB",
     "observacoes": ""
   },
   {
