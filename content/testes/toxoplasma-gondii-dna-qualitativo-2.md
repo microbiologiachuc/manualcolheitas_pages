@@ -1,13 +1,13 @@
 ---
-title: Toxoplasma gondii, DNA qualitativo
+title: Toxoplasma gondii, DNA qualitativo - LCR
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
-  LCR,  
+  LCR
 
 material_colheita: contentor estéril
-transporte_estabilidade: Imediato/ 72h a 4ºC
+transporte_estabilidade: Imediato / 72h a 4ºC
 tempo_resposta: Até 72 horas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: TOXOLC
 ---
