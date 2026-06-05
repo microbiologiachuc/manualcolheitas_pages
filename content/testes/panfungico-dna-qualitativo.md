@@ -6,6 +6,6 @@ amostra: Qualquer amostra biológica
 material_colheita: Contentor estéril / Zaragatoa com meio de transporte líquido
   (Amies) ou Zaragatoa com meio de transporte vírico com inactivador
 tempo_resposta: Até 72 horas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: PANFUN
 ---
