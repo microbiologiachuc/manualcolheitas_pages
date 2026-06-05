@@ -1290,21 +1290,6 @@
     "observacoes": ""
   },
   {
-    "slug": "isospora-belli-pesquisa",
-    "title": "Isospora belli; Pesquisa",
-    "area": "Parasitologia",
-    "metodo": "Microscopia óptica",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "3h, ambiente",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "jc-virus-dna-carga-viral-1",
     "title": "JC Virus, DNA Carga viral",
     "area": "Virologia",
@@ -2157,6 +2142,21 @@
     "tempo_resposta": "Até 4h",
     "setor": "Microbiologia",
     "codigo_interno": "ZPCE",
+    "observacoes": ""
+  },
+  {
+    "slug": "isospora-belli-pesquisa",
+    "title": "Pesquisa de Isospora belli",
+    "area": "Parasitologia",
+    "metodo": "Microscopia óptica",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "3h, ambiente",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "L.MIC",
+    "codigo_interno": "",
     "observacoes": ""
   },
   {
