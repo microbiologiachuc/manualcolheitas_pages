@@ -285,21 +285,6 @@
     "observacoes": ""
   },
   {
-    "slug": "borrelia-burgdorferi-sl-16s-rrna-qualitativo",
-    "title": "Borrelia burgdorferi sl, 16S rRNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Sangue total",
-    "material_colheita": "Tubo de EDTA (Tubo de hemograma)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72h a ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "BORRST",
-    "observacoes": ""
-  },
-  {
     "slug": "borrelia-burgdorferi-sl-16s-rrna-qualitativo-1",
     "title": "Borrelia burgdorferi sl, 16S rRNA qualitativo - LCR",
     "area": "Bacteriologia - Biologia Molecular",
@@ -312,6 +297,21 @@
     "tempo_resposta": "até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "BORRLC",
+    "observacoes": ""
+  },
+  {
+    "slug": "borrelia-burgdorferi-sl-16s-rrna-qualitativo",
+    "title": "Borrelia burgdorferi sl, 16S rRNA qualitativo - Sangue total",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Sangue total",
+    "material_colheita": "Tubo de EDTA (Tubo de hemograma)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72h a ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "BORRST",
     "observacoes": ""
   },
   {
