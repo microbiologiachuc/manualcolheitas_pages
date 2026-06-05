@@ -1,16 +1,17 @@
 ---
-title: Painel agentes infeção respiratória inferior (disponível após consulta
-  Pat. Clinico - escala de microbiologia)
+title: Painel agentes infeção respiratória inferior
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e nested PCR
 amostra: Aspirado traqueobronquico e lavado bronco-alveolar
 material_colheita: Contentor estéril
 transporte_estabilidade: Imediato/ 72H  a 4ºC
 tempo_resposta: Até 4h
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: RESIN
 observacoes: >-
-  
+  Disponível apenas após consulta com Microbiologista de Serviço - segundo
+  escala de microbiologia.
+
 
   Microrganismos pesquisados: Adenovirus, Coronavirus, Human metapneumovirus,
   Human rhinovirus/enterovirus, Influenza A vírus, Influenza B vírus,
