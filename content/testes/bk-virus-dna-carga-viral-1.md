@@ -3,7 +3,7 @@ title: BK Virus, DNA Carga viral - Urina
 area: Virologia
 metodo: PCR em tempo real
 amostra: Urina
-material_colheita: Contentor estéil, sem conservante
+material_colheita: Contentor estéril
 transporte_estabilidade: Imediato/72H a 4ºC
 tempo_resposta: Até 72 horas
 setor: Microbiologia
