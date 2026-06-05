@@ -1,13 +1,13 @@
 ---
-title: Varicela Zoster (VZV) DNA  qualitativo
+title: Varicela Zoster (VZV), DNA qualitativo - LCR/Outros produtos
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
-  LCR/Outros produtos, 
+  LCR/Outros produtos
 
 material_colheita: Contentor estéril
 transporte_estabilidade: Imediato/ 72H a 4ºC
 tempo_resposta: Até 72 horas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: "4940"
 ---
