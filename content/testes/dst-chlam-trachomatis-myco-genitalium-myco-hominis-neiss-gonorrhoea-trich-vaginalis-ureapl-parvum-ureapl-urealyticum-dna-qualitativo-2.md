@@ -1,5 +1,5 @@
 ---
-title: DST, DNA qualitativo
+title: DST, DNA qualitativo - Exsudado vaginal
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Exsudado vaginal
