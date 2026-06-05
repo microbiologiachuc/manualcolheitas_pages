@@ -1,5 +1,5 @@
 ---
-title: Vírus Herpes Simplex (HSV1/2), DNA Carga viral
+title: Vírus Herpes Simplex (HSV1/2), DNA Carga viral - Plasma
 area: Virologia
 metodo: PCR em tempo real
 amostra: Plasma
