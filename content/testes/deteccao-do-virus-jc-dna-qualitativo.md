@@ -1,5 +1,5 @@
 ---
-title: Detecção do vírus JC, DNA qualitativo
+title: "Vírus JC, DNA qualitativo - Outros produtos "
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
