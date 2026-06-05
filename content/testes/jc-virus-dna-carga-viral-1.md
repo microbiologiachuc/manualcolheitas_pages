@@ -1,13 +1,13 @@
 ---
-title: "JC Virus, DNA Carga viral "
+title: Vírus JC, DNA Carga viral - LCR
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
-  LCR,
+  LCR
 
 material_colheita: " Contentor estéril"
 transporte_estabilidade: Imediato/ 72H a 4ºC
 tempo_resposta: Até 96H
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: JCVLCR
 ---
