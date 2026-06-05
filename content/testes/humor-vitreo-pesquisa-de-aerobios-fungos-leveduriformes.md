@@ -1,6 +1,6 @@
 ---
 title: "Humor vítreo; Pesquisa de aeróbios, fungos leveduriformes "
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Humor vítreo
 material_colheita: Colheita da amostra para meio líquido “Brain heart infusion”
