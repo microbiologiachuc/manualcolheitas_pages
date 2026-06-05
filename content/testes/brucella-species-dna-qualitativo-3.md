@@ -1,5 +1,5 @@
 ---
-title: Brucella species, DNA qualitativo
+title: Brucella sp., DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: "Sangue total "
