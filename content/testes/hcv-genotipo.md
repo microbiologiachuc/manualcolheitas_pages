@@ -1,5 +1,5 @@
 ---
-title: "HCV - Genótipo "
+title: HCV - Genotipagem/resistência aos antivirais
 area: Virologia
 metodo: Sequenciação de nova geração
 amostra: |+
