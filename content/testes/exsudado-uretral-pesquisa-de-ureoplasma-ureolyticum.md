@@ -9,5 +9,5 @@ transporte_estabilidade: |-
   Conservar a 2-4ºC até envio (< 12 horas)
 tempo_resposta: Até 1 semana
 setor: L.MIC
-codigo_interno: EXU
+codigo_interno: UMYC
 ---
