@@ -1665,21 +1665,6 @@
     "observacoes": ""
   },
   {
-    "slug": "monkeypox-virus-vmpx-dna-qualitativo-1",
-    "title": "Monkeypox vírus (VMPX) DNA Qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Zaragatoa lesão / Outros produtos",
-    "material_colheita": "Zaragatoa com meio de transporte vírico com inactivador/ contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "VMPX",
-    "observacoes": ""
-  },
-  {
     "slug": "monkeypox-virus-vmpx-dna-qualitativo-2",
     "title": "Monkeypox vírus (VMPX) DNA Qualitativo",
     "area": "Virologia",
@@ -2832,6 +2817,21 @@
     "tempo_resposta": "até 96H",
     "setor": "Microbiologia",
     "codigo_interno": "JCN-O",
+    "observacoes": ""
+  },
+  {
+    "slug": "monkeypox-virus-vmpx-dna-qualitativo-1",
+    "title": "Vírus Monkeypox (VMPX), DNA Qualitativo - Zaragatoa lesão / Outros produtos",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Zaragatoa lesão / Outros produtos",
+    "material_colheita": "Zaragatoa com meio de transporte vírico com inactivador/ contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/72H a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "VMPX",
     "observacoes": ""
   }
 ]
