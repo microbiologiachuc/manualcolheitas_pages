@@ -360,21 +360,6 @@
     "observacoes": ""
   },
   {
-    "slug": "citomegalovirus-cmv-dna-carga-viral",
-    "title": "Citomegalovírus (CMV) DNA - Carga Viral",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Plasma,",
-    "material_colheita": "Tubo de EDTA com gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "4914",
-    "observacoes": "O tubo deve ser centrifugado após chegada ao laboratório"
-  },
-  {
     "slug": "citomegalovirus-cmv-dna-qualitativo-1",
     "title": "Citomegalovírus (CMV) DNA qualitativo",
     "area": "Virologia",
@@ -418,6 +403,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "4935",
     "observacoes": ""
+  },
+  {
+    "slug": "citomegalovirus-cmv-dna-carga-viral",
+    "title": "Citomegalovírus (CMV), DNA Carga Viral - Plasma",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Plasma",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/72H a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "4914",
+    "observacoes": "O tubo deve ser centrifugado após chegada ao laboratório"
   },
   {
     "slug": "citomegalovirus-cmv-dna-qualitativo",
