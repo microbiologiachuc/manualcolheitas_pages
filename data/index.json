@@ -15,21 +15,6 @@
     "observacoes": "![image.png](blob:https:/app.pagescms.org/4787853b-4619-4645-822c-d300a646c922)"
   },
   {
-    "slug": "acanthamoeba-2",
-    "title": "Acanthamoeba, DNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Qualquer amostra ocular",
-    "material_colheita": "Tubo solicitado ao lab de microbiologia",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72horas a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "ACANTA",
-    "observacoes": ""
-  },
-  {
     "slug": "acanthamoeba",
     "title": "Acanthamoeba, DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
@@ -43,6 +28,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "ACANTA",
     "observacoes": "![image.png](uploads/image-27.png)"
+  },
+  {
+    "slug": "acanthamoeba-2",
+    "title": "Acanthamoeba, DNA qualitativo - Qualquer amostra ocular",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Qualquer amostra ocular",
+    "material_colheita": "Tubo solicitado ao lab de microbiologia",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72horas a 4ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "ACANTA",
+    "observacoes": ""
   },
   {
     "slug": "adenovirus-dna-carga-viral",
