@@ -1,5 +1,5 @@
 ---
-title: "Bartonella sp., DNA qualitativo "
+title: Bartonella sp., DNA qualitativo - Sangue total
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Sangue total
