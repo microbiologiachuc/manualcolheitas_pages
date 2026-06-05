@@ -1,8 +1,9 @@
 ---
-title: "Citomegalovirus (CMV) DNA Qualitativo "
+title: Citomegalovírus (CMV), DNA Qualitativo - Secreções respiratórias, Lavado
+  Broncoalveolar, Biópsias
 area: Virologia
-metodo: PCr em tempo real
-amostra: Secreções respiratórias/ LBA/ Biópsias
+metodo: PCR em tempo real
+amostra: Secreções respiratórias, Lavado Broncoalveolar, Biópsias
 material_colheita: |+
   Contentor estéril
 
