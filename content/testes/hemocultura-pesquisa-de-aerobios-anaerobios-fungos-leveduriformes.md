@@ -4,7 +4,7 @@ area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Sangue
 material_colheita: |+
-  Frasco Hemocul
+  Frasco Hemocultura, adulto ou pediátrico
 
   ![](uploads/fr._hemocultura.png)
 
