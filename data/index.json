@@ -1577,10 +1577,10 @@
   {
     "slug": "liquido-pericardico-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Líquido pericárdico; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes",
-    "area": "Microbiologia",
+    "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Líquido pericárdico",
-    "material_colheita": "Contentor estéril\nMeio de transporte anaeróbios",
+    "material_colheita": "Contentor estéril, Meio de transporte anaeróbios",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
