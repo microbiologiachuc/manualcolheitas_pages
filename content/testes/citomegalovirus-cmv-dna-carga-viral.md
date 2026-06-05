@@ -1,9 +1,9 @@
 ---
-title: Citomegalovírus (CMV), DNA Carga Viral
+title: Citomegalovírus (CMV), DNA Carga Viral - Plasma
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
-  Plasma,  
+  Plasma
 
 material_colheita: Tubo de EDTA com gel
 transporte_estabilidade: Imediato/72H a 4ºC
