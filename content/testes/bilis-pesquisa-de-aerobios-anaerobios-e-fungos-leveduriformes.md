@@ -1,6 +1,6 @@
 ---
 title: Bílis, Pesquisa de aeróbios, anaeróbios e fungos leveduriformes
-area: Bacteriologia
+area: " Bacteriologia - Geral"
 metodo: "Cultura "
 amostra: Bílis
 material_colheita: Contentor estéril
