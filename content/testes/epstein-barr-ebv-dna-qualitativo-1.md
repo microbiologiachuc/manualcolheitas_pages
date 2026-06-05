@@ -1,9 +1,9 @@
 ---
-title: Epstein Barr [EBV] - DNA qualitativo
+title: Vírus Epstein Barr (EBV), DNA qualitativo - LCR, Outros produtos
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
-  LCR/Outros
+  LCR, Outros produtos
 
 material_colheita: " Contentor estéril"
 transporte_estabilidade: Imediato/ 72ºC a 4ºC após centrifugação
