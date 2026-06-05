@@ -1,6 +1,6 @@
 ---
 title: "Líquido sinovial; Pesquisa de cristais "
-area: Microbiologia
+area: Parasitologia
 metodo: Microscopia ótica, luz polarizada
 amostra: Líquido sinovial
 material_colheita: Contentor estéril
