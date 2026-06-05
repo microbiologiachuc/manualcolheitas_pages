@@ -4,9 +4,9 @@ area: Micologia
 metodo: PCR acoplado a array e cultura
 amostra: Cabelos, pelos, pele, unhas
 material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/ 72 H a temperatura  ambiente
+transporte_estabilidade: Imediato / 72h a temperatura  ambiente
 tempo_resposta: Até 2 semanas
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: DERMAT
 observacoes: >-
   
