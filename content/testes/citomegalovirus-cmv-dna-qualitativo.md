@@ -1,5 +1,5 @@
 ---
-title: Citomegalovirus (CMV) - DNA qualitativo
+title: Citomegalovirus (CMV), DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
 amostra: Medula óssea
