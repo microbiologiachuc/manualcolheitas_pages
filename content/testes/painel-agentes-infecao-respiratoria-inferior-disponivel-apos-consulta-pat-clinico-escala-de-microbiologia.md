@@ -1,5 +1,5 @@
 ---
-title: Painel agentes infeção respiratória inferior
+title: Painel Agentes Infeção Respiratória Inferior
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e nested PCR
 amostra: Aspirado traqueobronquico e lavado bronco-alveolar
