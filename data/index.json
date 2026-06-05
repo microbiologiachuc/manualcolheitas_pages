@@ -450,21 +450,6 @@
     "observacoes": ""
   },
   {
-    "slug": "deteccao-do-virus-jc-dna-qualitativo",
-    "title": "Detecção do vírus JC, DNA qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Outros produtos",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "até 96H",
-    "setor": "Microbiologia",
-    "codigo_interno": "JCN-O",
-    "observacoes": ""
-  },
-  {
     "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo-1",
     "title": "Doenças transmitidas por carraças (Tick-borne - Rickettsia spp., Babesia",
     "area": "Bacteriologia - Biologia Molecular",
@@ -2833,5 +2818,20 @@
     "setor": "Microbiologia",
     "codigo_interno": "4940M",
     "observacoes": "![image388.jpg](uploads/image388-11.jpg)"
+  },
+  {
+    "slug": "deteccao-do-virus-jc-dna-qualitativo",
+    "title": "Vírus JC, DNA qualitativo - Outros produtos",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Outros produtos",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "JCN-O",
+    "observacoes": ""
   }
 ]
