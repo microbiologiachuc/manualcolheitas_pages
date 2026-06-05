@@ -1,5 +1,5 @@
 ---
-title: Fezes, Pesquisa de Campylobacter
+title: Fezes; Pesquisa de Campylobacter
 area: Bacteriologia
 metodo: Cultura
 amostra: Fezes
@@ -8,5 +8,6 @@ transporte_estabilidade: |-
   Envio imediato
   Temperatura ambiente
 tempo_resposta: Até 1 semana
-setor: Microbiologia
+setor: L.MIC
+codigo_interno: CCAMP
 ---
