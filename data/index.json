@@ -1831,7 +1831,7 @@
   },
   {
     "slug": "painel-infecoes-osteoarticulares",
-    "title": "Painel infeções osteoarticulares",
+    "title": "Painel Diagnóstico Infeções Osteoarticulares",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real e nested PCR",
     "amostra": "Liquido sinovial",
@@ -1840,7 +1840,7 @@
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72H a 4ºC",
     "tempo_resposta": "Até 4h",
-    "setor": "Microbiologia",
+    "setor": "L.MIC",
     "codigo_interno": "BFJI",
     "observacoes": "Microrganismos pesquisados: ·     *Bacteroides fragilis, Citrobacter,\nEnterobacter cloacae complex, Escherichia coli, Haemophilus influenzae,\nKingella kingae, Klebsiella aerogenes, Klebsiella pneumoniae group, Morganella\nmorganii, Neisseria gonorrhoeae, Proteus spp., Pseudomonas aeruginosa,\nSalmonella spp., Serratia marcescens, Anaerococcus prevotii/vaginalis,\nClostridium perfringens, Cutibacterium avidum/granulosum, Enterococcus\nfaecalis, Enterococcus faecium, Finegoldia magna, Parvimonas micra,\nPeptoniphilus, Peptostreptococcus anaerobius, Staphylococcus aureus,\nStaphylococcus lugdunensis, Streptococcus spp., Streptococcus agalactiae,\nStreptococcus pneumoniae, Streptococcus pyogenes*"
   },
