@@ -1320,21 +1320,6 @@
     "observacoes": ""
   },
   {
-    "slug": "kingella-kingae-dna-qualitativo-4",
-    "title": "Kingella kingae, DNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Sangue total",
-    "material_colheita": "Tubo de EDTA (tubo de hemograma)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "KINGST",
-    "observacoes": "![image388.jpg](uploads/image388-5.jpg)"
-  },
-  {
     "slug": "kingella-kingae-dna-qualitativo",
     "title": "Kingella kingae, DNA qualitativo -  Lavado / Aspirado Broncoalveolar",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1348,6 +1333,21 @@
     "setor": "L.MIC",
     "codigo_interno": "KINGLBA",
     "observacoes": ""
+  },
+  {
+    "slug": "kingella-kingae-dna-qualitativo-4",
+    "title": "Kingella kingae, DNA qualitativo - Sangue total",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Sangue total",
+    "material_colheita": "Tubo de EDTA (tubo de hemograma)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "KINGST",
+    "observacoes": "![image388.jpg](uploads/image388-5.jpg)"
   },
   {
     "slug": "kingella-kingae-dna-qualitativo-1",
