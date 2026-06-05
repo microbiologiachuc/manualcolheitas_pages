@@ -1665,21 +1665,6 @@
     "observacoes": ""
   },
   {
-    "slug": "monkeypox-virus-vmpx-dna-qualitativo-2",
-    "title": "Monkeypox vírus (VMPX) DNA Qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Outros produtos,",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imedato/ 72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "VMPXOUT",
-    "observacoes": ""
-  },
-  {
     "slug": "monkeypox-virus-vmpx-dna-qualitativo-3",
     "title": "Monkeypox vírus (VMPX) DNA Qualitativo",
     "area": "Virologia",
@@ -2817,6 +2802,21 @@
     "tempo_resposta": "até 96H",
     "setor": "Microbiologia",
     "codigo_interno": "JCN-O",
+    "observacoes": ""
+  },
+  {
+    "slug": "monkeypox-virus-vmpx-dna-qualitativo-2",
+    "title": "Vírus Monkeypox (VMPX), DNA Qualitativo - Outros produtos",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Outros produtos",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imedato/ 72H a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "VMPXOUT",
     "observacoes": ""
   },
   {
