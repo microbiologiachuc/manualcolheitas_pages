@@ -1,5 +1,5 @@
 ---
-title: Acanthamoeba, DNA qualitativo
+title: "Acanthamoeba, DNA qualitativo - Outros produtos  "
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
