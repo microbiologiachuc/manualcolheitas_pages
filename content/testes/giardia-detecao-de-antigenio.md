@@ -1,5 +1,5 @@
 ---
-title: Giardia, Deteção de Antigénio
+title: Giardia, pesquisa de antigénio - Fezes
 area: Parasitologia
 metodo: Imunocromatografia
 amostra: Fezes
