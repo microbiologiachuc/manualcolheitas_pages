@@ -1080,21 +1080,6 @@
     "observacoes": ""
   },
   {
-    "slug": "herpes-simplex-hsv12-dna-qualitativo-2",
-    "title": "Herpes simplex (HSV1/2), DNA qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Zaragatoa de lesão/Outros produtos",
-    "material_colheita": "Zaragatoa com meio de transporte vírico com inactivador/ Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 96H",
-    "setor": "Microbiologia",
-    "codigo_interno": "4930",
-    "observacoes": ""
-  },
-  {
     "slug": "hev-rna-carga-viral",
     "title": "HEV, RNA Carga Viral",
     "area": "Virologia",
@@ -2817,6 +2802,21 @@
     "tempo_resposta": "Até 96H",
     "setor": "L.MIC",
     "codigo_interno": "4916M",
+    "observacoes": ""
+  },
+  {
+    "slug": "herpes-simplex-hsv12-dna-qualitativo-2",
+    "title": "Vírus Herpes simplex (HSV1/2), DNA qualitativo - Zaragatoa de lesão,",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Zaragatoa de lesão, Outros produtos",
+    "material_colheita": "Zaragatoa com meio de transporte vírico com inactivador/ Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "Até 96H",
+    "setor": "L.MIC",
+    "codigo_interno": "4930",
     "observacoes": ""
   },
   {
