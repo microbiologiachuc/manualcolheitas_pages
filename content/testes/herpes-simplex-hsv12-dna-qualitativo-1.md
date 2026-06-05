@@ -1,5 +1,5 @@
 ---
-title: Vírus Herpes Simplex (HSV1/2), DNA qualitativo
+title: Vírus Herpes Simplex (HSV1/2), DNA qualitativo - LCR
 area: Virologia
 metodo: PCR em tempo real
 amostra: LCR
