@@ -11,6 +11,11 @@ transporte_estabilidade: Imediato/ 72h a 4ºC
 tempo_resposta: até 72 horas
 setor: Microbiologia
 codigo_interno: DSTZG
-observacoes: |+
-  ![image.png](uploads/image-42.png)
+observacoes: >-
+  ![](uploads/dst_-_t._multiplo.png)
+
+
+  Microorganismos presentes no painel: Chlam. trachomatis, Myco. genitalium,
+  Myco. hominis, Neiss. gonorrhoea, Trich. vaginalis, Ureapl. parvum, Ureapl.
+  urealyticum
 ---
