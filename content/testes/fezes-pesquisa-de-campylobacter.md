@@ -1,6 +1,6 @@
 ---
-title: Fezes; Pesquisa de Campylobacter
-area: Bacteriologia
+title: Campylobacter, cultura - Fezes
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Fezes
 material_colheita: Contentor estéril
