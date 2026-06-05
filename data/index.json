@@ -1665,21 +1665,6 @@
     "observacoes": ""
   },
   {
-    "slug": "microsporidia-pesquisa-de",
-    "title": "Microsporidia; Pesquisa de",
-    "area": "Microbiologia",
-    "metodo": "Microscopia óptica",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "3h, ambiente",
-    "tempo_resposta": "<5d",
-    "setor": "L.MIC",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "monkeypox-virus-vmpx-dna-qualitativo-1",
     "title": "Monkeypox vírus (VMPX) DNA Qualitativo",
     "area": "Virologia",
@@ -2136,6 +2121,21 @@
     "metodo": "Microscopia óptica",
     "amostra": "Sangue total",
     "material_colheita": "Tubo c/ EDTA",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "3h, ambiente",
+    "tempo_resposta": "<5d",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
+    "slug": "microsporidia-pesquisa-de",
+    "title": "Pesquisa de Microsporidia",
+    "area": "Parasitologia",
+    "metodo": "Microscopia óptica",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "3h, ambiente",
