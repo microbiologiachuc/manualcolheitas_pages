@@ -1,6 +1,6 @@
 ---
 title: "Helicobacter pylori "
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Bióspia gástrica
 material_colheita: Contentor estéril ou meio de transporte apropriado
