@@ -1,6 +1,6 @@
 ---
 title: Exsudado uretral; Pesquisa de Ureoplasma ureolyticum
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Exsudado uretral
 material_colheita: Zaragatoa e meio de transporte específicos fornecidos pelo laboratório
