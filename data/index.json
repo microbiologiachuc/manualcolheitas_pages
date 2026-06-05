@@ -1770,21 +1770,6 @@
     "observacoes": "\"Microrganismos pesquisados: Adenovirus, Coronavirus 229E,"
   },
   {
-    "slug": "Painel de Gastroenterites (painel de Rotina)",
-    "title": "Painel de Gastroenterites (Rotina)",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72h a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "L.MIC",
-    "codigo_interno": "TAQGAS",
-    "observacoes": "Microorganismos no Painel:\n\n\nC. jejuni / coli / upsaliensis, C. difficile, P. shigelloides, Salmonella\nspp., Y. enterocolitica, Vibrio parahaemolyticus / vulnificus / cholerae, E.\ncoli Enteroaggregative, E. coli Enteropathogenic, E. coli Enterotoxigenic, E.\ncoli Shiga-like toxin-producing Stx1/Stx2, E. coli Enteroinvasive / Shigella,\nL. monocytogenes, E. coli O157, Adenovirus F40/41, Astrovirus, Norovirus GI,\nNorovirus GII, Rotavirus A, Rotavirus B, Rotavirus C, Sapovirus (I, II, IV),\nSapovirus G.V (V), Ancylostoma duodenale, A. lumbricoides / suum, B. coli,\nBlastocystis spp., Clonorchis sinensis / Opisthorchis spp. / Metorchis spp.,\nCryptosporidium spp., Cyclospora cayetanensis, Cystoisospora belli,\nDientamoeba fragilis, Encephalitozoon spp., E. histolytica, E. vermicularis,\nE. bieneusi, Fasciola spp., Fasciolopsis buski, G. lamblia, Hymenolepis\ndiminuta, Hymenolepis nana, Necator americanus, Schistosoma mansoni,\nSchistosoma spp., S. stercoralis, T. saginata / asiatica, T. solium, Trichuris\nspp., DNA qualitativo"
-  },
-  {
     "slug": "painel-diagnostico-de-encefalitesmeningites-painel-de-rotina",
     "title": "Painel Diagnóstico de Encefalites/Meningites (Rotina)",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1813,6 +1798,21 @@
     "setor": "L.MIC",
     "codigo_interno": "MENIN (HUC) / 4987 (HP)",
     "observacoes": "Microrganismos pesquisados:   \n\n*Escherichia coli K1, Haemophilus influenzae, Listeria monocytogenes,\nNeisseria meningitidis, Streptococcus agalactiae, Streptococcus pneumoniae,*\nCytomegalovirus (CMV), Enterovirus (EV), Herpes simplex virus 1 (HSV-1),\nHerpes simplex virus 2 (HSV-2), Herpesvirus 6 (HHV-6), Human parechovirus\n(HPeV), Varicella zoster virus (VZV), Cryptococcus (C. neoformans/C. gattii)"
+  },
+  {
+    "slug": "Painel de Gastroenterites (painel de Rotina)",
+    "title": "Painel Diagnóstico de Gastroenterites (Rotina)",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72h a 4ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "TAQGAS",
+    "observacoes": "Microorganismos no Painel:\n\n\nC. jejuni / coli / upsaliensis, C. difficile, P. shigelloides, Salmonella\nspp., Y. enterocolitica, Vibrio parahaemolyticus / vulnificus / cholerae, E.\ncoli Enteroaggregative, E. coli Enteropathogenic, E. coli Enterotoxigenic, E.\ncoli Shiga-like toxin-producing Stx1/Stx2, E. coli Enteroinvasive / Shigella,\nL. monocytogenes, E. coli O157, Adenovirus F40/41, Astrovirus, Norovirus GI,\nNorovirus GII, Rotavirus A, Rotavirus B, Rotavirus C, Sapovirus (I, II, IV),\nSapovirus G.V (V), Ancylostoma duodenale, A. lumbricoides / suum, B. coli,\nBlastocystis spp., Clonorchis sinensis / Opisthorchis spp. / Metorchis spp.,\nCryptosporidium spp., Cyclospora cayetanensis, Cystoisospora belli,\nDientamoeba fragilis, Encephalitozoon spp., E. histolytica, E. vermicularis,\nE. bieneusi, Fasciola spp., Fasciolopsis buski, G. lamblia, Hymenolepis\ndiminuta, Hymenolepis nana, Necator americanus, Schistosoma mansoni,\nSchistosoma spp., S. stercoralis, T. saginata / asiatica, T. solium, Trichuris\nspp., DNA qualitativo"
   },
   {
     "slug": "Painel de pesquisa de microrganismos associados a Gastroenterites (painel de Urgência)",
