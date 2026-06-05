@@ -53,11 +53,11 @@
     "material_colheita": "Tubo de EDTA com gel",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC, tubo deve ser centrifugada de imediato",
     "tempo_resposta": "Até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "4911",
-    "observacoes": "O tubo deve ser centrifugado assim que chega ao laboratório\n\n![](uploads/k2edta.png)"
+    "observacoes": "![](uploads/k2edta.png)"
   },
   {
     "slug": "adenovirus-dna-qualitativo-1",
@@ -1404,7 +1404,7 @@
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato/ 72Ha 4ºC após centrifugação",
-    "tempo_resposta": "Até 1 mês",
+    "tempo_resposta": "Até 2 semanas",
     "setor": "Microbiologia",
     "codigo_interno": "TRAHIV1",
     "observacoes": ""
