@@ -1080,21 +1080,6 @@
     "observacoes": ""
   },
   {
-    "slug": "hev-rna-carga-viral",
-    "title": "HEV, RNA Carga Viral",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Plasma,",
-    "material_colheita": "Tubo de EDTA com gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC após centrifugação",
-    "tempo_resposta": "Até 96H",
-    "setor": "Microbiologia",
-    "codigo_interno": "4951",
-    "observacoes": ""
-  },
-  {
     "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
     "title": "Hidatidose (Ech. granulosus); Deteção de anticorpos IgG",
     "area": "Parasitologia",
@@ -1125,21 +1110,6 @@
     "observacoes": ""
   },
   {
-    "slug": "hiv-1-genotipagemresistencia-aos-antirretrovirais",
-    "title": "HIV-1 - Genotipagem/Resistência aos antirretrovirais",
-    "area": "Virologia",
-    "metodo": "Sequenciação de nova geração",
-    "amostra": "Plasma,  Tubo de EDTA com gel",
-    "material_colheita": "Tubo de EDTA com gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72Ha 4ºC após centrifugação",
-    "tempo_resposta": "Até 2 semanas",
-    "setor": "Microbiologia",
-    "codigo_interno": "TRAHIV1",
-    "observacoes": ""
-  },
-  {
     "slug": "hiv-1-carga-viral-outros-produtos",
     "title": "HIV-1 Carga viral (Outros Produtos)",
     "area": "Virologia",
@@ -1167,6 +1137,21 @@
     "tempo_resposta": "Até 96H",
     "setor": "Microbiologia",
     "codigo_interno": "HIV1-CR",
+    "observacoes": ""
+  },
+  {
+    "slug": "hiv-1-genotipagemresistencia-aos-antirretrovirais",
+    "title": "HIV-1, Genotipagem/Resistência aos antirretrovirais - Plasma",
+    "area": "Virologia",
+    "metodo": "Sequenciação de nova geração",
+    "amostra": "Plasma",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72Ha 4ºC após centrifugação",
+    "tempo_resposta": "Até 2 semanas",
+    "setor": "L.MIC",
+    "codigo_interno": "TRAHIV1",
     "observacoes": ""
   },
   {
@@ -2682,6 +2667,21 @@
     "tempo_resposta": "Até 96H",
     "setor": "L.MIC",
     "codigo_interno": "4904",
+    "observacoes": ""
+  },
+  {
+    "slug": "hev-rna-carga-viral",
+    "title": "Vírus Hepatite E (HEV), RNA Carga Viral - Plasma",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Plasma",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC após centrifugação",
+    "tempo_resposta": "Até 96H",
+    "setor": "L.MIC",
+    "codigo_interno": "4951",
     "observacoes": ""
   },
   {
