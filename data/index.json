@@ -465,6 +465,21 @@
     "observacoes": ""
   },
   {
+    "slug": "mrsa-detecao-staphylococcus-aureus-meticilina-resistente",
+    "title": "Deteção Staphylococcus aureus meticilina resistente (MRSA)",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Zaragatoa nasal",
+    "material_colheita": "Zaragatoa nasal com meio de transporte adequado\n\n![](uploads/mrsa.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "Até 2 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo-1",
     "title": "Doenças transmitidas por carraças (Tick-borne), DNA qualitativo - Biópsia",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1661,21 +1676,6 @@
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "3d",
     "setor": "L.MIC",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
-    "slug": "mrsa-detecao-staphylococcus-aureus-meticilina-resistente",
-    "title": "MRSA, deteção Staphylococcus aureus meticilina resistente",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Zaragatoa nasal",
-    "material_colheita": "Zaragatoa nasal com meio de transporte adequado\n\n![](uploads/mrsa.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "Até 2 dias",
-    "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
   },
