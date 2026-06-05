@@ -1,5 +1,5 @@
 ---
-title: "BK Virus, DNA Carga viral "
+title: BK Virus, DNA Carga viral - plasma
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
