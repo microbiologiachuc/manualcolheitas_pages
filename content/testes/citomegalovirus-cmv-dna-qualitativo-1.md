@@ -1,9 +1,9 @@
 ---
-title: Citomegalovírus (CMV) DNA qualitativo
+title: Citomegalovírus (CMV, DNA qualitativo - Outros produtos
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
-  Outros produtos, 
+  Outros produtos
 
 material_colheita: Contentor estéril
 transporte_estabilidade: Imediato/ 72H a 4ºC
