@@ -75,8 +75,23 @@
     "observacoes": "![](uploads/k2edta.png)"
   },
   {
+    "slug": "adenovirus-dna-qualitativo",
+    "title": "Adenovírus,  DNA qualitativo - LCR e outros produtos",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR/ Outros produtos",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/72H a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "4917",
+    "observacoes": "![image.png](blob:https:/app.pagescms.org/2fa93d75-7e3e-46db-b2dd-b037be563a95)"
+  },
+  {
     "slug": "adenovirus-dna-qualitativo-1",
-    "title": "Adenovírus - DNA Qualitativo",
+    "title": "Adenovírus, DNA Qualitativo  - Medula óssea",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
     "amostra": "Medula óssea",
@@ -88,21 +103,6 @@
     "setor": "Microbiologia",
     "codigo_interno": "4917M",
     "observacoes": "![image388.jpg](uploads/image388-1.jpg)"
-  },
-  {
-    "slug": "adenovirus-dna-qualitativo",
-    "title": "Adenovírus - DNA qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "LCR/Outros,",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "4917",
-    "observacoes": "![image.png](blob:https:/app.pagescms.org/2fa93d75-7e3e-46db-b2dd-b037be563a95)"
   },
   {
     "slug": "bartonella-sp-dna-qualitativo-1",
@@ -2190,21 +2190,6 @@
     "observacoes": ""
   },
   {
-    "slug": "sarampo-mev-rna-qualitativo",
-    "title": "Sarampo (MeV), RNA qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Zaragatoa orofaringe,",
-    "material_colheita": "Zaragatoa com meio de transporte vírico com inactivador",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "SARZO",
-    "observacoes": ""
-  },
-  {
     "slug": "sarampo-mev-rna-qualitativo-1",
     "title": "Sarampo (MeV), RNA qualitativo - Fluidos cavidade oral",
     "area": "Virologia",
@@ -2217,6 +2202,21 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "SARCO",
+    "observacoes": ""
+  },
+  {
+    "slug": "sarampo-mev-rna-qualitativo",
+    "title": "Sarampo (MeV), RNA qualitativo - Zaragatoa orofaringe",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Zaragatoa orofaringe",
+    "material_colheita": "Zaragatoa com meio de transporte vírico com inactivador",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72h a 4ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "SARZO",
     "observacoes": ""
   },
   {
