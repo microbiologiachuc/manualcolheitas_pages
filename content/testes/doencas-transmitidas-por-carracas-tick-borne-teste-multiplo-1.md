@@ -10,5 +10,5 @@ setor: Microbiologia
 codigo_interno: TICKBC
 observacoes: Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia
   chafeensis, Ehrlichia muris, Borrelia burgdorferi sensu lato, Borrelia
-  miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum and Coxiella burnetii
+  miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum e Coxiella burnetii
 ---
