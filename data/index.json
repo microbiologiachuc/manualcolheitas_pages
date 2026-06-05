@@ -210,21 +210,6 @@
     "observacoes": ""
   },
   {
-    "slug": "bk-virus-dna-carga-viral",
-    "title": "BK Virus DNA Carga viral",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Plasma,",
-    "material_colheita": "Tubo de EDTA com gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 3ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "QBKP-SG",
-    "observacoes": "![image.png](uploads/image-21.png)"
-  },
-  {
     "slug": "bk-virus-dna-qualitativo",
     "title": "BK Virus DNA qualitativo",
     "area": "Virologia",
@@ -253,6 +238,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "QBKP-UR",
     "observacoes": ""
+  },
+  {
+    "slug": "bk-virus-dna-carga-viral",
+    "title": "BK Virus, DNA Carga viral",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Plasma,",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 3ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "QBKP-SG",
+    "observacoes": "![image.png](uploads/image-21.png)"
   },
   {
     "slug": "borrelia-burgdorferi-sl-16s-rrna-qualitativo-1",
