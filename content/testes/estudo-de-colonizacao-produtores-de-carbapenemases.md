@@ -1,5 +1,5 @@
 ---
-title: Estudo de colonização, produtores de carbapenemases
+title: Estudo de colonização; Produtores de carbapenemases
 area: Bacteriologia - Biologia Molecular
 metodo: PCR
 amostra: Fezes
