@@ -1,5 +1,5 @@
 ---
-title: "Biópsia; Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes "
+title: "Biópsia, Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes "
 area: Bacteriologia
 metodo: Cultura
 amostra: Biópsia
