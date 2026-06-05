@@ -1367,7 +1367,7 @@
   {
     "slug": "lavado-bronco-alveolar-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Lavado bronco-alveolar; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes",
-    "area": "Bacteriologia",
+    "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Lavado bronco-alveolar",
     "material_colheita": "Contentor estéril",
@@ -1375,7 +1375,7 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
+    "setor": "L.MIC",
     "codigo_interno": "",
     "observacoes": ""
   },
