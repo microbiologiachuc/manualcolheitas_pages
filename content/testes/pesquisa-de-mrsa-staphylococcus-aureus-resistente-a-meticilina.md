@@ -1,5 +1,5 @@
 ---
-title: Pesquisa de  MRSA (Staphylococcus aureus resistente à meticilina)
+title: Pesquisa de Staphylococcus aureus resistente à meticilina (MRSA)
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
@@ -8,6 +8,6 @@ amostra: |+
 material_colheita: " Zaragatoa com meio de transporte líquido (Amies)"
 transporte_estabilidade: Imediato/ 72H a 4ºC
 tempo_resposta: Até 4h
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: PMRSA
 ---
