@@ -1,8 +1,8 @@
 ---
-title: DST (Chlam.trach; Neiss.gono), DNA qualitativo
+title: DST (Chlam.trach; Neiss.gono), DNA qualitativo - Exsudado Uretral
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: Exs. Uretral,
+amostra: Exsudado Uretral
 material_colheita: " Zaragatoa com meio de transporte líquido (Amies)"
 transporte_estabilidade: Imediato/ 72h a 4ºC
 tempo_resposta: Até 4h
