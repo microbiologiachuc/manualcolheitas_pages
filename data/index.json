@@ -1215,6 +1215,21 @@
     "observacoes": ""
   },
   {
+    "slug": "hiv-2-rna-carga-viral-outros",
+    "title": "HIV-2, RNA Carga viral - Outros",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Outros produtos",
+    "material_colheita": "|2+",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "L.MIC",
+    "codigo_interno": "HIV2-O",
+    "observacoes": ""
+  },
+  {
     "slug": "hiv-2-rna-carga-viral",
     "title": "HIV-2, RNA Carga viral - Plasma",
     "area": "Virologia",
@@ -1227,21 +1242,6 @@
     "tempo_resposta": "Até 1 semana",
     "setor": "L.MIC",
     "codigo_interno": "HIV2",
-    "observacoes": ""
-  },
-  {
-    "slug": "hiv-2-rna-carga-viral-outros",
-    "title": "HIV-2, RNA Carga viral, Outros",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Outros produtos,",
-    "material_colheita": "|2+",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "HIV2-O",
     "observacoes": ""
   },
   {
