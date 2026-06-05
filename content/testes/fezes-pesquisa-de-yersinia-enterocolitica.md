@@ -1,6 +1,6 @@
 ---
 title: Fezes, Pesquisa de Yersinia enterocolitica
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Fezes
 material_colheita: Contentor estéril
