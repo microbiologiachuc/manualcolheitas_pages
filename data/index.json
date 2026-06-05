@@ -2431,18 +2431,18 @@
   },
   {
     "slug": "varicela-zoster-vzv-dna-carga-viral",
-    "title": "Varicela Zoster (VZV) DNA Carga viral",
+    "title": "Varicela Zoster (VZV), DNA Carga viral - Plasma",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
-    "amostra": "Plasma\n\n\n\n&nbsp;",
+    "amostra": "Plasma",
     "material_colheita": "Tubo de EDTA com gel",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato/72H a 4ºC",
     "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
+    "setor": "L.MIC",
     "codigo_interno": "4934",
-    "observacoes": "![image.png](uploads/image-23.png)"
+    "observacoes": ""
   },
   {
     "slug": "varicela-zoster-vzv-dna-qualitativo",
