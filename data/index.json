@@ -1020,21 +1020,6 @@
     "observacoes": ""
   },
   {
-    "slug": "hbv-dna-carga-viral",
-    "title": "HBV-DNA Carga Viral",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Plasma",
-    "material_colheita": "Tubo de EDTA com gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC após centrifugação",
-    "tempo_resposta": "Até 96H",
-    "setor": "Microbiologia",
-    "codigo_interno": "4925",
-    "observacoes": ""
-  },
-  {
     "slug": "hcv-genotipo",
     "title": "HCV - Genotipagem/resistência aos antivirais",
     "area": "Virologia",
@@ -2802,6 +2787,21 @@
     "tempo_resposta": "Até 96H",
     "setor": "Microbiologia",
     "codigo_interno": "4934M",
+    "observacoes": ""
+  },
+  {
+    "slug": "hbv-dna-carga-viral",
+    "title": "Vírus Hepatite B (HBV), DNA Carga Viral - Plasma",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Plasma",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72h a 4ºC após centrifugação",
+    "tempo_resposta": "Até 96H",
+    "setor": "L.MIC",
+    "codigo_interno": "4925",
     "observacoes": ""
   },
   {
