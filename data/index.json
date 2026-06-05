@@ -752,7 +752,7 @@
   {
     "slug": "exsudado-de-ferida-nao-cirurgica-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes-cultura",
     "title": "Exsudado de ferida não cirúrgica; Pesquisa de aeróbios, anaeróbios,",
-    "area": "Bacteriologia",
+    "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Exsudado de ferida não cirúrgica",
     "material_colheita": "Zaragatoas c/ meio transporte\n\n![](uploads/zaragatoa_meio_trans.png)",
@@ -760,7 +760,7 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato à temperatura ambiente",
     "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
+    "setor": "L.MIC",
     "codigo_interno": "",
     "observacoes": ""
   },
