@@ -1,6 +1,6 @@
 ---
 title: Placenta; Pesquisa de aeróbios, fungos leveduriformes
-area: Microbiologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Placenta
 material_colheita: Contentor estéril
