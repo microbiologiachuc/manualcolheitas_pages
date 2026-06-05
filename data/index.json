@@ -300,23 +300,8 @@
     "observacoes": ""
   },
   {
-    "slug": "brucella-species-dna-qualitativo-2",
-    "title": "Brucella sp., DNA qualitativo - Medula óssea",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Medula óssea",
-    "material_colheita": "Tubo de EDTA (tubo de hemograma)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "BRUCMO",
-    "observacoes": ""
-  },
-  {
     "slug": "brucella-species-dna-qualitativo-3",
-    "title": "Brucella species, DNA qualitativo",
+    "title": "Brucella sp., DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Sangue total",
@@ -331,7 +316,7 @@
   },
   {
     "slug": "brucella-species-dna-qualitativo",
-    "title": "Brucella species, DNA qualitativo - Biópsia de gânglio",
+    "title": "Brucella sp., DNA qualitativo - Biópsia de gânglio",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Biópsia de ganglio",
@@ -346,7 +331,7 @@
   },
   {
     "slug": "brucella-species-dna-qualitativo-1",
-    "title": "Brucella species, DNA qualitativo - Líquido sinovial",
+    "title": "Brucella sp., DNA qualitativo - Líquido sinovial",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Liquido sinovial",
@@ -357,6 +342,21 @@
     "tempo_resposta": "até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "BRUCLS",
+    "observacoes": ""
+  },
+  {
+    "slug": "brucella-species-dna-qualitativo-2",
+    "title": "Brucella sp., DNA qualitativo - Medula óssea",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Medula óssea",
+    "material_colheita": "Tubo de EDTA (tubo de hemograma)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "",
+    "tempo_resposta": "até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "BRUCMO",
     "observacoes": ""
   },
   {
