@@ -1,13 +1,13 @@
 ---
-title: "Pesquisa de enterobacteriáceas produtoras de carbapenemases "
+title: Pesquisa de Enterobacteriáceas Produtoras de Carbapenemases (EPC)
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
-  Zaragatoa retal, 
+  Zaragatoa retal
 
 material_colheita: Zaragatoa com meio de transporte líquido (Amies) - Tampa rosa
 transporte_estabilidade: Imediato/ 72H a 4ºC
 tempo_resposta: Até 4h
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: ZPCE
 ---
