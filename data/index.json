@@ -2325,21 +2325,6 @@
     "observacoes": ""
   },
   {
-    "slug": "treponema-pallidum-dna-qualitativo-4",
-    "title": "Treponema pallidum, DNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "LCR",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato /72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "TREPLCR",
-    "observacoes": ""
-  },
-  {
     "slug": "treponema-pallidum-dna-qualitativo",
     "title": "Treponema pallidum, DNA qualitativo - Biópsias cutâneas e de mucosas",
     "area": "Bacteriologia - Biologia Molecular",
@@ -2352,6 +2337,21 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "TREPB",
+    "observacoes": ""
+  },
+  {
+    "slug": "treponema-pallidum-dna-qualitativo-4",
+    "title": "Treponema pallidum, DNA qualitativo - LCR",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato /72H a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "TREPLCR",
     "observacoes": ""
   },
   {
