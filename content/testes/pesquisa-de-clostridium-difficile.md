@@ -6,6 +6,6 @@ amostra: Fezes liquidas, exclusivamente
 material_colheita: Contentor estéril
 transporte_estabilidade: Imediato, 72 h a 4ºC
 tempo_resposta: Até 4h
-setor: Microbiologia
+setor: L.MIC
 codigo_interno: TCLO
 ---
