@@ -360,21 +360,6 @@
     "observacoes": ""
   },
   {
-    "slug": "citomegalovirus-cmv-dna-qualitativo",
-    "title": "Citomegalovirus (CMV) - DNA qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Medula óssea",
-    "material_colheita": "Tubo de EDTA (Tubo de hemograma)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato /72 H  a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "CMVPM",
-    "observacoes": "![image388.jpg](uploads/image388-3.jpg)"
-  },
-  {
     "slug": "citomegalovirus-cmv-dna-carga-viral-1",
     "title": "Citomegalovírus (CMV) DNA - Carga Viral",
     "area": "Virologia",
@@ -433,6 +418,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "CMVP-BI",
     "observacoes": ""
+  },
+  {
+    "slug": "citomegalovirus-cmv-dna-qualitativo",
+    "title": "Citomegalovirus (CMV), DNA qualitativo",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Medula óssea",
+    "material_colheita": "Tubo de EDTA (Tubo de hemograma)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato /72 H  a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "CMVPM",
+    "observacoes": "![image388.jpg](uploads/image388-3.jpg)"
   },
   {
     "slug": "cryptococcus-neoformans-pesquisa-de-antigenio",
