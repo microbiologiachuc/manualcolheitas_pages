@@ -450,21 +450,6 @@
     "observacoes": ""
   },
   {
-    "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo",
-    "title": "Doenças transmitidas por carraças (Tick-borne - Rickettsia spp., Babesia",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Sangue total",
-    "material_colheita": "Tubo de EDTA (tubo de hemograma)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imdiato/ 72h a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "TICK",
-    "observacoes": "![image388.jpg](uploads/image388-4.jpg)"
-  },
-  {
     "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo-1",
     "title": "Doenças transmitidas por carraças (Tick-borne), DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
@@ -522,6 +507,21 @@
     "tempo_resposta": "até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "TICKO",
+    "observacoes": "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia"
+  },
+  {
+    "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo",
+    "title": "Doenças transmitidas por carraças (Tick-borne), DNA qualitativo",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Sangue total",
+    "material_colheita": "Tubo de EDTA (tubo de hemograma)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imdiato/ 72h a 4ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "TICK",
     "observacoes": "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia"
   },
   {
