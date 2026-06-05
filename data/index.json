@@ -720,21 +720,6 @@
     "observacoes": "![image.png](uploads/image-32.png)"
   },
   {
-    "slug": "epstein-barr-ebv-dna-qualitativo-1",
-    "title": "Epstein Barr [EBV] - DNA qualitativo",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "LCR/Outros",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72ºC a 4ºC após centrifugação",
-    "tempo_resposta": "Até 96H",
-    "setor": "Microbiologia",
-    "codigo_interno": "4934",
-    "observacoes": ""
-  },
-  {
     "slug": "epstein-barr-ebv-dna-qualitativo",
     "title": "Epstein Barr [EBV] - DNA qualitativo",
     "area": "Virologia",
@@ -2817,6 +2802,21 @@
     "tempo_resposta": "Até 96H",
     "setor": "Microbiologia",
     "codigo_interno": "4913",
+    "observacoes": ""
+  },
+  {
+    "slug": "epstein-barr-ebv-dna-qualitativo-1",
+    "title": "Vírus Epstein Barr (EBV), DNA qualitativo - LCR, Outros produtos",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR, Outros produtos",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72ºC a 4ºC após centrifugação",
+    "tempo_resposta": "Até 96H",
+    "setor": "Microbiologia",
+    "codigo_interno": "4934",
     "observacoes": ""
   },
   {
