@@ -930,21 +930,6 @@
     "observacoes": "Helmintas e Protozoários: pesquisa por microscopia\n\nAmebiase, Cisticercose, Echinococcus granulosus: pesquisa de anticorpos IgG\n\nCryptosporidium, Entamoeba histolytica: pesquisa de antigénio\n\nSoro: amebíase, cisticercose, fasciolose, hidatidose"
   },
   {
-    "slug": "fezes-pesquisa-de-salmonella-e-shigella",
-    "title": "Fezes, Pesquisa de Salmonella e Shigella",
-    "area": "Bacteriologia",
-    "metodo": "Cultura",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato\nTemperatura ambiente",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "fezes-pesquisa-de-yersinia-enterocolitica",
     "title": "Fezes, Pesquisa de Yersinia enterocolitica",
     "area": "Bacteriologia",
@@ -987,6 +972,21 @@
     "tempo_resposta": "Até 1 semana",
     "setor": "L.MIC",
     "codigo_interno": "CCAMP",
+    "observacoes": ""
+  },
+  {
+    "slug": "fezes-pesquisa-de-salmonella-e-shigella",
+    "title": "Fezes; Pesquisa de Salmonella e Shigella",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato\nTemperatura ambiente",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "L.MIC",
+    "codigo_interno": "COP",
     "observacoes": ""
   },
   {
