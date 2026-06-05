@@ -1,5 +1,5 @@
 ---
-title: Biópsia ganglionar; estudo micobacteriológico
+title: Biópsia ganglionar, Estudo micobacteriológico
 area: Bacteriologia
 metodo: Cultura
 amostra: Fragmento de biópsia ganglionar
