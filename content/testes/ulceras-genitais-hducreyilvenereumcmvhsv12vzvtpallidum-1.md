@@ -1,5 +1,6 @@
 ---
-title: Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum)
+title: Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum) -
+  Zaragatoa rectal
 area: Bacteriologia - Biologia Molecular
 metodo: "PCR em tempo real "
 amostra: Zaragatoa rectal
