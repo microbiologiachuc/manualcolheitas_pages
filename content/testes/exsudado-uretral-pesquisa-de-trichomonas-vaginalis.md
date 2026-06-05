@@ -1,6 +1,6 @@
 ---
 title: Exsudado uretral; Pesquisa de Trichomonas vaginalis
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: Microscopia ótica
 amostra: Exsudado uretral
 material_colheita: Zaragatoa c/ meio transporte
@@ -8,5 +8,6 @@ transporte_estabilidade: |-
   Envio imediato
   Conservar a 37ºC até envio
 tempo_resposta: Até 1 semana
-setor: Microbiologia
+setor: L.MIC
+codigo_interno: EXU
 ---
