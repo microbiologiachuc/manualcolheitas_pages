@@ -1,7 +1,5 @@
 ---
-title: DST (Chlam. trachomatis, Myco. genitalium, Myco. hominis, Neiss.
-  gonorrhoea, Trich. vaginalis, Ureapl. parvum, Ureapl. urealyticum), DNA
-  qualitativo
+title: DST, DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Exsudado vaginal
