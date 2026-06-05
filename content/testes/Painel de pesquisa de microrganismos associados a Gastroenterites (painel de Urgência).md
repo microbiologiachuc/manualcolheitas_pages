@@ -1,5 +1,5 @@
 ---
-title: Painel de Gastroenterites (Urgência)
+title: Painel Diagnóstico de Gastroenterites (Urgência)
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e Nested PCR
 amostra: "Fezes líquídas "
