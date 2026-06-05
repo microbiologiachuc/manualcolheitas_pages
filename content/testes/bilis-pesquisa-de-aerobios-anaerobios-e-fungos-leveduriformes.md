@@ -1,5 +1,5 @@
 ---
-title: Bílis; pesquisa de aeróbios, anaeróbios e fungos leveduriformes
+title: Bílis, Pesquisa de aeróbios, anaeróbios e fungos leveduriformes
 area: Bacteriologia
 metodo: "Cultura "
 amostra: Bílis
