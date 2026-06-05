@@ -947,7 +947,7 @@
   {
     "slug": "fezes-pesquisa-de-yersinia-enterocolitica",
     "title": "Fezes, Pesquisa de Yersinia enterocolitica",
-    "area": "Bacteriologia",
+    "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Fezes",
     "material_colheita": "Contentor estéril",
@@ -2161,7 +2161,7 @@
   },
   {
     "slug": "pus-de-abcesso-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
-    "title": "Pus de abcesso; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes",
+    "title": "Pús de abcesso; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes",
     "area": "Microbiologia",
     "metodo": "Cultura",
     "amostra": "Pus de abcesso",
@@ -2171,7 +2171,7 @@
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "3d",
     "setor": "L.MIC",
-    "codigo_interno": "",
+    "codigo_interno": "PU",
     "observacoes": ""
   },
   {
