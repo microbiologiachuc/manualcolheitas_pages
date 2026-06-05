@@ -360,21 +360,6 @@
     "observacoes": ""
   },
   {
-    "slug": "citomegalovirus-cmv-dna-qualitativo-2",
-    "title": "Citomegalovirus (CMV) DNA Qualitativo",
-    "area": "Virologia",
-    "metodo": "PCr em tempo real",
-    "amostra": "Secreções respiratórias/ LBA/ Biópsias",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "CMVP-BI",
-    "observacoes": ""
-  },
-  {
     "slug": "citomegalovirus-cmv-dna-carga-viral-1",
     "title": "Citomegalovírus (CMV), DNA Carga Viral - LCR, Urina, Líquido amniótico",
     "area": "Virologia",
@@ -432,6 +417,21 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "CVCMV-O",
+    "observacoes": ""
+  },
+  {
+    "slug": "citomegalovirus-cmv-dna-qualitativo-2",
+    "title": "Citomegalovírus (CMV), DNA Qualitativo - Secreções respiratórias, Lavado",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Secreções respiratórias, Lavado Broncoalveolar, Biópsias",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "CMVP-BI",
     "observacoes": ""
   },
   {
