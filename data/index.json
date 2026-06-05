@@ -827,7 +827,7 @@
   {
     "slug": "exsudado-uretral-pesquisa-de-trichomonas-vaginalis",
     "title": "Exsudado uretral; Pesquisa de Trichomonas vaginalis",
-    "area": "Bacteriologia",
+    "area": "Bacteriologia - Geral",
     "metodo": "Microscopia ótica",
     "amostra": "Exsudado uretral",
     "material_colheita": "Zaragatoa c/ meio transporte",
@@ -835,8 +835,8 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato\nConservar a 37ºC até envio",
     "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
+    "setor": "L.MIC",
+    "codigo_interno": "EXU",
     "observacoes": ""
   },
   {
