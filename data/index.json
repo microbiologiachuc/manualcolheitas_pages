@@ -105,21 +105,6 @@
     "observacoes": "![image.png](blob:https:/app.pagescms.org/9da7f8c0-5672-4043-9d8b-4421b2bd32b1)"
   },
   {
-    "slug": "bartonella-sp-dna-qualitativo-2",
-    "title": "Bartonella sp., DNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Liquido sinovial",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/72h a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "BARTLS",
-    "observacoes": "![image.png](blob:https:/app.pagescms.org/4e1c39d0-901c-414f-ace0-c6746aa3b6be)"
-  },
-  {
     "slug": "bartonella-sp-dna-qualitativo-3",
     "title": "Bartonella sp., DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
@@ -163,6 +148,21 @@
     "setor": "Microbiologia",
     "codigo_interno": "BARTLCR",
     "observacoes": "![image.png](uploads/image-29.png)"
+  },
+  {
+    "slug": "bartonella-sp-dna-qualitativo-2",
+    "title": "Bartonella sp., DNA qualitativo - Líquido sinovial",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Liquido sinovial",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/72h a 4ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "Microbiologia",
+    "codigo_interno": "BARTLS",
+    "observacoes": "![image.png](blob:https:/app.pagescms.org/4e1c39d0-901c-414f-ace0-c6746aa3b6be)"
   },
   {
     "slug": "bilis-pesquisa-de-aerobios-anaerobios-e-fungos-leveduriformes",
