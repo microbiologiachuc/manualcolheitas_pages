@@ -2235,21 +2235,6 @@
     "observacoes": ""
   },
   {
-    "slug": "toxoplasma-gondii-dna-qualitativo-2",
-    "title": "Toxoplasma gondii, DNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "LCR,",
-    "material_colheita": "contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72h a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "TOXOLC",
-    "observacoes": ""
-  },
-  {
     "slug": "toxoplasma-gondii-dna-qualitativo",
     "title": "Toxoplasma gondii, DNA qualitativo - Biópsia",
     "area": "Bacteriologia - Biologia Molecular",
@@ -2262,6 +2247,21 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "TOXOB",
+    "observacoes": ""
+  },
+  {
+    "slug": "toxoplasma-gondii-dna-qualitativo-2",
+    "title": "Toxoplasma gondii, DNA qualitativo - LCR",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR",
+    "material_colheita": "contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72h a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "TOXOLC",
     "observacoes": ""
   },
   {
