@@ -182,7 +182,7 @@
   {
     "slug": "bilis-pesquisa-de-aerobios-anaerobios-e-fungos-leveduriformes",
     "title": "Bílis, Pesquisa de aeróbios, anaeróbios e fungos leveduriformes",
-    "area": "Bacteriologia",
+    "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Bílis",
     "material_colheita": "Contentor estéril",
@@ -2115,21 +2115,6 @@
     "observacoes": ""
   },
   {
-    "slug": "pneumocystis-jirovecii-dna-qualitativo",
-    "title": "Pneumocystis jirovecii, DNA qualitativo",
-    "area": "Micologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Lavado bronco-alveolar",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "PNCY",
-    "observacoes": ""
-  },
-  {
     "slug": "pneumocystis-jirovecii-dna-qualitativo-1",
     "title": "Pneumocystis jirovecii, DNA qualitativo - Aspirado bronco-alveolar",
     "area": "Micologia",
@@ -2142,6 +2127,21 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "PNCYA",
+    "observacoes": ""
+  },
+  {
+    "slug": "pneumocystis-jirovecii-dna-qualitativo",
+    "title": "Pneumocystis jirovecii, DNA qualitativo - Lavado bronco-alveolar",
+    "area": "Micologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "Lavado bronco-alveolar",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "PNCY",
     "observacoes": ""
   },
   {
