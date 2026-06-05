@@ -1,7 +1,5 @@
 ---
-title: DST (Chlam. trachomatis, Myco. genitalium, Myco. hominis, Neiss.
-  gonorrhoea, Trich. vaginalis, Ureapl. parvum, Ureapl. urealyticum), DNA
-  qualitativo
+title: DST, DNA qualitativo - Zaragatoa genital, Urina
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
@@ -13,4 +11,7 @@ transporte_estabilidade: Imediato/ 72h a 4ºC
 tempo_resposta: até 72 horas
 setor: Microbiologia
 codigo_interno: "4990"
+observacoes: "Microorganismos presentes no painel: Chlam. trachomatis, Myco.
+  genitalium, Myco. hominis, Neiss. gonorrhoea, Trich. vaginalis, Ureapl.
+  parvum, Ureapl. urealyticum"
 ---
