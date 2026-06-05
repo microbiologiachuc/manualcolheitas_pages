@@ -1,9 +1,9 @@
 ---
-title: Adenovírus - DNA qualitativo
+title: Adenovírus,  DNA qualitativo - LCR e outros produtos
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
-  LCR/Outros, 
+  LCR/ Outros produtos 
 
 material_colheita: Contentor estéril
 transporte_estabilidade: Imediato/72H a 4ºC
