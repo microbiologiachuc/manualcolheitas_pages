@@ -1095,21 +1095,6 @@
     "observacoes": ""
   },
   {
-    "slug": "hiv-1-rna-carga-viral-1",
-    "title": "HIV-1 RNA Carga viral",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "LCR",
-    "material_colheita": "|2+",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 96H",
-    "setor": "Microbiologia",
-    "codigo_interno": "HIV1-CR",
-    "observacoes": ""
-  },
-  {
     "slug": "hiv-1-carga-viral-outros-produtos",
     "title": "HIV-1, Carga viral - Outros Produtos",
     "area": "Virologia",
@@ -1167,6 +1152,21 @@
     "tempo_resposta": "Até 96H",
     "setor": "Microbiologia",
     "codigo_interno": "HIV1",
+    "observacoes": ""
+  },
+  {
+    "slug": "hiv-1-rna-carga-viral-1",
+    "title": "HIV-1, RNA Carga viral - LCR",
+    "area": "Virologia",
+    "metodo": "PCR em tempo real",
+    "amostra": "LCR",
+    "material_colheita": "|2+",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "tempo_resposta": "Até 96H",
+    "setor": "L.MIC",
+    "codigo_interno": "HIV1-CR",
     "observacoes": ""
   },
   {
