@@ -1020,21 +1020,6 @@
     "observacoes": ""
   },
   {
-    "slug": "hbv-genotipagemresistencia-aos-antivirais",
-    "title": "HBV - Genotipagem/Resistencia aos antivirais",
-    "area": "Virologia",
-    "metodo": "Sequenciação de nova geração",
-    "amostra": "Plasma",
-    "material_colheita": "Tubo de EDTA com gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC após centrifugação",
-    "tempo_resposta": "Até 1 mês",
-    "setor": "Microbiologia",
-    "codigo_interno": "HBVRES",
-    "observacoes": ""
-  },
-  {
     "slug": "hbv-dna-carga-viral",
     "title": "HBV-DNA Carga Viral",
     "area": "Virologia",
@@ -2817,6 +2802,21 @@
     "tempo_resposta": "Até 96H",
     "setor": "Microbiologia",
     "codigo_interno": "4934M",
+    "observacoes": ""
+  },
+  {
+    "slug": "hbv-genotipagemresistencia-aos-antivirais",
+    "title": "Vírus Hepatite B (HBV), Genotipagem/Resistencia aos antivirais - Plasma",
+    "area": "Virologia",
+    "metodo": "Sequenciação de nova geração",
+    "amostra": "Plasma",
+    "material_colheita": "Tubo de EDTA com gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato/ 72H a 4ºC após centrifugação",
+    "tempo_resposta": "Até 1 mês",
+    "setor": "L.MIC",
+    "codigo_interno": "HBVRES",
     "observacoes": ""
   },
   {
