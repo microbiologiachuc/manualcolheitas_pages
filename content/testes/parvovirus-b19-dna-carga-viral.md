@@ -1,7 +1,7 @@
 ---
 title: "Parvovírus B19  DNA Carga viral "
 area: Virologia
-metodo: pCR EM TEMPO REAL
+metodo: PCR em tempo real
 amostra: |+
   Plasma,  
 
