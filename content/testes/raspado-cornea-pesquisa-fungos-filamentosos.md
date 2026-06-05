@@ -1,6 +1,6 @@
 ---
 title: Raspado córnea; pesquisa de aeróbios
-area: Microbiologia
+area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Raspado de córnea
 material_colheita: Colheita da amostra para meio líquido “Brain heart infusion”
