@@ -7,5 +7,5 @@ material_colheita: Colheita da amostra para meio líquido “Brain heart infusio
   ou contentor estéril
 transporte_estabilidade: Envio imediato à temperatura ambiente
 tempo_resposta: Até 1 semana
-setor: Microbiologia
+setor: L.MIC
 ---
