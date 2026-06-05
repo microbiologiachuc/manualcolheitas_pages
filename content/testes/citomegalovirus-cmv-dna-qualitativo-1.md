@@ -1,5 +1,5 @@
 ---
-title: Citomegalovírus (CMV, DNA qualitativo - Outros produtos
+title: Citomegalovírus (CMV), DNA qualitativo - Outros produtos
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
