@@ -9,6 +9,6 @@ material_colheita: |-
   Contentor estéril
   Tubo c/ gel
 transporte_estabilidade: Envio imediato
-tempo_resposta: <14d
+tempo_resposta: Imediato/ quantificação até 72H
 setor: Microbiologia
 ---
