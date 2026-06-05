@@ -4,7 +4,7 @@ title: DST (Chlam. trachomatis, Myco. genitalium, Myco. hominis, Neiss.
   qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: "Exs vaginal, "
+amostra: Exsudado vaginal
 material_colheita: Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa
   com meio de transporte vírico com inactivador
 transporte_estabilidade: Imediato/ 72h a 4ºC
