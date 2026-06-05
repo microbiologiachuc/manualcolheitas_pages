@@ -1,6 +1,5 @@
 ---
-title: "Mycoplasma pneum./Chl.pneumoniae/Legionella sp., DNA qualitativo -
-  Sangue total "
+title: "Mycoplasma pneum./Chl. pneum./Legionella sp., DNA qualitativo - Sangue total "
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: "Sangue total "
