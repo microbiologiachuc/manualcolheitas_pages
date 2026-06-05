@@ -1,6 +1,6 @@
 ---
 title: DST (Chlam.trach; Neiss.gono), DNA qualitativo
-area: Bacteriologia - Biologia Molecular e Virologia
+area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Exs. Uretral,
 material_colheita: " Zaragatoa com meio de transporte líquido (Amies)"
