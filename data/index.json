@@ -1155,21 +1155,6 @@
     "observacoes": ""
   },
   {
-    "slug": "biopsia-gastrica-pesquisa-de-helicobacter-pylori",
-    "title": "Helicobacter pylori",
-    "area": "Bacteriologia - Geral",
-    "metodo": "Cultura",
-    "amostra": "Bióspia gástrica",
-    "material_colheita": "Contentor estéril ou meio de transporte apropriado",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "helicobacter-pylori-pesquisa-de-antigenio",
     "title": "Helicobacter pylori - pesquisa de antigénio",
     "area": "Bacteriologia - Geral",
@@ -1180,6 +1165,21 @@
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "3d",
+    "setor": "Microbiologia",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
+    "slug": "biopsia-gastrica-pesquisa-de-helicobacter-pylori",
+    "title": "Helicobacter pylori - pesquisa por cultura",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Bióspia gástrica",
+    "material_colheita": "Contentor estéril ou meio de transporte apropriado",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "Até 1 semana",
     "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
@@ -1381,7 +1381,7 @@
   },
   {
     "slug": "humor-aquoso-pesquisa-de-aerobios-fungos-leveduriformes",
-    "title": "Humor aquoso; Pesquisa de aeróbios, fungos leveduriformes",
+    "title": "Humor aquoso - Aeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Humor aquoso",
