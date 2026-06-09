@@ -840,6 +840,21 @@
     "observacoes": ""
   },
   {
+    "slug": "esperma-pesquisa-de-aerobios-e-fungos-leveduriformes",
+    "title": "Esperma; Pesquisa de aeróbios e fungos leveduriformes",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Esperma",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "3 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "estudo-de-colonizacao-produtores-de-carbapenemases",
     "title": "Estudo de colonização; Produtores de carbapenemases",
     "area": "Bacteriologia - Biologia Molecular",
