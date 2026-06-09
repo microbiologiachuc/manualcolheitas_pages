@@ -9,7 +9,7 @@ transporte_estabilidade: Imediato/ 72h a 4ºC
 tempo_resposta: até 72 horas
 setor: Microbiologia
 codigo_interno: TICKBC
-observacoes: Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia
+observacoes: "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia
   chafeensis, Ehrlichia muris, Borrelia burgdorferi sensu lato, Borrelia
-  miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum e Coxiella burnetii
+  miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum e Coxiella burnetii "
 ---
