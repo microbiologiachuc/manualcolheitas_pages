@@ -1,5 +1,5 @@
 ---
-title: "Humor vítreo; Pesquisa de aeróbios, fungos leveduriformes "
+title: "Humor vítreo - Aeróbios, fungos leveduriformes "
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Humor vítreo
