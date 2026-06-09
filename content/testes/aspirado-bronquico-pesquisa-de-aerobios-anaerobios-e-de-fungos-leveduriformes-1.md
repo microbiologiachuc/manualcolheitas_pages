@@ -1,5 +1,5 @@
 ---
-title: Aspirado brônquico; Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes
+title: Aspirado brônquico - Aeróbios, anaeróbios e de fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Aspirado brônquico
