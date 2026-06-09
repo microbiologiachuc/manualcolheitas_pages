@@ -1,5 +1,5 @@
 ---
-title: Helicobacter pylori, pesquisa de antigénio- Fezes
+title: Helicobacter pylori - pesquisa de antigénio
 area: Bacteriologia - Geral
 metodo: "Imunocromatográfico "
 amostra: Fezes
