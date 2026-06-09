@@ -1,11 +1,11 @@
 ---
-title: "Doenças transmitidas por carraças (Tick-borne), DNA qualitativo -
-  Líquido sinovial "
+title: "Doenças transmitidas por carraças (Tick-borne), DNA qualitativo - Líq
+  sinovial "
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: "Liquido sinovial "
 material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/ 72h a 4ºc
+transporte_estabilidade: Imediato/ 72 horas a 4ºc
 tempo_resposta: até 72 horas
 setor: Microbiologia
 codigo_interno: TICKLS
