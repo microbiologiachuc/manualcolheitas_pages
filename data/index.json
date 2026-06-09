@@ -165,6 +165,21 @@
     "observacoes": ""
   },
   {
+    "slug": "aspirado-medula-ossea-pesquisa-de-aerobios-anaerobios-e-fungos-leveduriformes",
+    "title": "Aspirado medula óssea; pesquisa de aeróbios, anaeróbios e fungos leveduriformes",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Medula óssea",
+    "material_colheita": "Frasco hemocultura, Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "3 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "bartonella-sp-dna-qualitativo-1",
     "title": "Bartonella sp., DNA qualitativo - Biópsia",
     "area": "Bacteriologia - Biologia Molecular",
