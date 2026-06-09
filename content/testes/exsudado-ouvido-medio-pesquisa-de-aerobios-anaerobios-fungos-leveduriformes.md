@@ -1,5 +1,5 @@
 ---
-title: Exsudado ouvido médio; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Exsudado ouvido médio - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Exsudado ouvido médio
