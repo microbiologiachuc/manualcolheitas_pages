@@ -1,5 +1,5 @@
 ---
-title: Exsudado vaginal; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Exsudado vaginal - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Exsudado vaginal
