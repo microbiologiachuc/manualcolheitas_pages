@@ -1,5 +1,5 @@
 ---
-title: Fezes - Pesquisa de gordura nas fezes
+title: Fezes - Gordura nas fezes
 area: Parasitologia
 metodo: Microscopia ótica
 amostra: Fezes
