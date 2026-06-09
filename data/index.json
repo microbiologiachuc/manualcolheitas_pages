@@ -825,6 +825,21 @@
     "observacoes": ""
   },
   {
+    "slug": "esbl-estudo-de-colonizacao-por-produtores-b-lactamases-largo-espectro",
+    "title": "ESBL, estudo de colonização por produtores β-lactamases largo espectro",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Fezes",
+    "material_colheita": "Zaragatoa rectal",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "2 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "estudo-de-colonizacao-produtores-de-carbapenemases",
     "title": "Estudo de colonização; Produtores de carbapenemases",
     "area": "Bacteriologia - Biologia Molecular",
