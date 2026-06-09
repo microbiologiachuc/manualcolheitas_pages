@@ -2236,7 +2236,7 @@
   },
   {
     "slug": "protese-vascular-pesquisa-de-aerobios-fungos-leveduriformes",
-    "title": "Prótese vascular; Pesquisa de aeróbios, fungos leveduriformes",
+    "title": "Prótese vascular - Aeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Prótese vascular",
@@ -2244,7 +2244,7 @@
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "3d",
+    "tempo_resposta": "3 dias",
     "setor": "L.MIC",
     "codigo_interno": "",
     "observacoes": ""
