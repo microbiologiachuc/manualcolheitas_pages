@@ -1,11 +1,11 @@
 ---
-title: Raspado córnea; pesquisa de aeróbios
+title: Raspado córnea - Aeróbios
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Raspado de córnea
 material_colheita: Colheita da amostra para meio líquido “Brain heart infusion”
   ou contentor estéril
 transporte_estabilidade: Envio imediato à temperatura ambiente
-tempo_resposta: <14d
+tempo_resposta: <14 dias
 setor: L.MIC
 ---
