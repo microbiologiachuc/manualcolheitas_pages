@@ -1,5 +1,5 @@
 ---
-title: Grau de digestão fezes
+title: Fezes - Grau de digestão
 area: Parasitologia
 metodo: Microscopia ótica
 amostra: Fezes
