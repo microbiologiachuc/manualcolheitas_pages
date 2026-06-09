@@ -1,5 +1,5 @@
 ---
-title: Exsudado orofaríngeo; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Exsudado orofaríngeo - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Exsudado orofaríngeo
