@@ -1020,6 +1020,21 @@
     "observacoes": ""
   },
   {
+    "slug": "giardia-detecao-de-antigenio",
+    "title": "Fezes - Giardia",
+    "area": "Parasitologia",
+    "metodo": "Imunocromatografia",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "3 horas, ambiente",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": "Pesquisa de antigénio"
+  },
+  {
     "slug": "fezes-pesquisa-de-gordura-nas-fezes",
     "title": "Fezes - Gordura nas fezes",
     "area": "Parasitologia",
@@ -1091,21 +1106,6 @@
     "transporte_estabilidade": "Envio imediato / Temperatura ambiente",
     "tempo_resposta": "Até 1 semana",
     "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
-    "slug": "giardia-detecao-de-antigenio",
-    "title": "Giardia, pesquisa de antigénio",
-    "area": "Parasitologia",
-    "metodo": "Imunocromatografia",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "3 horas, ambiente",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "L.MIC",
     "codigo_interno": "",
     "observacoes": ""
   },
