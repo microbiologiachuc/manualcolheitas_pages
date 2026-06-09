@@ -1,5 +1,5 @@
 ---
-title: Exsudado uretral; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Exsudado uretral - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Exsudado uretral
