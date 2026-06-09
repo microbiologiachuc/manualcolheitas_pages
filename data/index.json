@@ -1,20 +1,5 @@
 [
   {
-    "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo-3",
-    "title": "\"Doenças transmitidas por carraças (Tick-borne), DNA qualitativo - Líq",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Liquido sinovial",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72 horas a 4ºc",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "TICKLS",
-    "observacoes": "Rickettsia spp., Babesia microti, Babesia divergens, Ehrlichia"
-  },
-  {
     "slug": "acanthamoeba-1",
     "title": "Acanthamoeba,  DNA qualitativo - LCR",
     "area": "Bacteriologia - Biologia Molecular",
