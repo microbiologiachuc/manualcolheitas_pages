@@ -1591,18 +1591,18 @@
   },
   {
     "slug": "leishmaniose-detecao-de-anticorpos-igg",
-    "title": "Leishmaniose; Deteção de  anticorpos IgG",
+    "title": "Leishmaniose",
     "area": "Parasitologia",
     "metodo": "IFI/Western Blot",
     "amostra": "Soro",
     "material_colheita": "Tubo c/ gel",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "5d, 2-8ºC\n6m, -20ºC",
+    "transporte_estabilidade": "5 dias, 2-8ºC  \n6 meses, -20ºC",
     "tempo_resposta": "Até 1 mês",
     "setor": "Microbiologia",
     "codigo_interno": "",
-    "observacoes": ""
+    "observacoes": "Deteção de anticorpos IgG"
   },
   {
     "slug": "leptospira-sp-dna-qualitativo-1",
