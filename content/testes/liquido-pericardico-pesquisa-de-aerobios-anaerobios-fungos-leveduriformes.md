@@ -1,5 +1,5 @@
 ---
-title: Líquido pericárdico; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Líquido pericárdico - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Líquido pericárdico
