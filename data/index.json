@@ -1050,6 +1050,21 @@
     "observacoes": ""
   },
   {
+    "slug": "grau-de-digestao-fezes",
+    "title": "Fezes - Grau de digestão",
+    "area": "Parasitologia",
+    "metodo": "Microscopia ótica",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "2d, 2-8ºC",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "L.MIC",
+    "codigo_interno": "GDIG",
+    "observacoes": ""
+  },
+  {
     "slug": "fezes-pesquisa-leucocitos",
     "title": "Fezes - Leucócitos",
     "area": "Parasitologia",
@@ -1107,21 +1122,6 @@
     "tempo_resposta": "Até 1 semana",
     "setor": "Microbiologia",
     "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
-    "slug": "grau-de-digestao-fezes",
-    "title": "Grau de digestão fezes",
-    "area": "Parasitologia",
-    "metodo": "Microscopia ótica",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "2d, 2-8ºC",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "L.MIC",
-    "codigo_interno": "GDIG",
     "observacoes": ""
   },
   {
