@@ -1,5 +1,5 @@
 ---
-title: "Fezes, Pesquisa leucócitos "
+title: "Fezes - Leucócitos "
 area: Parasitologia
 metodo: Microscopia ótica
 amostra: Fezes
