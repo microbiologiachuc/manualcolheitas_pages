@@ -1,5 +1,5 @@
 ---
-title: Líquido de diálise; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Líquido de diálise - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Líquido de diálise
