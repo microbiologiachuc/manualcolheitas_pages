@@ -1,5 +1,5 @@
 ---
-title: Lavado de fibroscópio; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Lavado de fibroscópio - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Lavado de fibroscópio
