@@ -105,6 +105,21 @@
     "observacoes": "![image388.jpg](uploads/image388-1.jpg)"
   },
   {
+    "slug": "aspirado-bronquico-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes-1",
+    "title": "Aspirado brônquico; Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Aspirado brônquico",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "3 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "aspirado-bronquico-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes",
     "title": "Aspirado brônquico; Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes",
     "area": "Bacteriologia - Geral",
