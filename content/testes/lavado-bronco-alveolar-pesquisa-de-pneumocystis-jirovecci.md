@@ -1,5 +1,5 @@
 ---
-title: Lavado bronco-alveolar; Pesquisa de Pneumocystis jirovecci
+title: "Pneumocystis jirovecci "
 area: Parasitologia
 metodo: IFI
 amostra: Lavado bronco-alveolar
