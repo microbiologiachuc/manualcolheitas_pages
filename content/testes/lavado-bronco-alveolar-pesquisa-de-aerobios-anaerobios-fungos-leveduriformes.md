@@ -1,5 +1,5 @@
 ---
-title: Lavado bronco-alveolar; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Lavado bronco-alveolar - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Lavado bronco-alveolar
