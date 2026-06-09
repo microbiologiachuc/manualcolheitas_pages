@@ -1,5 +1,5 @@
 ---
-title: LCR; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: LCR - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: LCR
