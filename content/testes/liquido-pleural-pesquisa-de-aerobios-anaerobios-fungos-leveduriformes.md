@@ -1,5 +1,5 @@
 ---
-title: Líquido pleural; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Líquido pleural - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Líquido pleural
