@@ -1,5 +1,5 @@
 ---
-title: Aspirado medula óssea; pesquisa de aeróbios, anaeróbios e fungos leveduriformes
+title: Aspirado medula óssea - Aeróbios, anaeróbios e fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Medula óssea
