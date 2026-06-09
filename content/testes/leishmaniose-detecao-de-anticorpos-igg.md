@@ -1,12 +1,13 @@
 ---
-title: Leishmaniose; Deteção de  anticorpos IgG
+title: Leishmaniose
 area: Parasitologia
 metodo: IFI/Western Blot
 amostra: Soro
 material_colheita: Tubo c/ gel
 transporte_estabilidade: |-
-  5d, 2-8ºC
-  6m, -20ºC
+  5 dias, 2-8ºC  
+  6 meses, -20ºC
 tempo_resposta: Até 1 mês
 setor: Microbiologia
+observacoes: Deteção de anticorpos IgG
 ---
