@@ -1,5 +1,5 @@
 ---
-title: Leishmania, DNA qualitativo
+title: Leishmania sp., DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Sangue total
