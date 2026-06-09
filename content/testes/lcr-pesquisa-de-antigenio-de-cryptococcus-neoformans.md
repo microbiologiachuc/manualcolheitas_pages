@@ -1,5 +1,5 @@
 ---
-title: LCR; Pesquisa de antigénio de Cryptococcus neoformans
+title: LCR - Cryptococcus neoformans
 area: Micologia
 metodo: Imunocromatográfico
 amostra: LCR
