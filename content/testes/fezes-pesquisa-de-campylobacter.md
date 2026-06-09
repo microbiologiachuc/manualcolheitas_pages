@@ -1,5 +1,5 @@
 ---
-title: Campylobacter, cultura - Fezes
+title: Campylobacter - coprocultura
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Fezes
