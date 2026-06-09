@@ -1,6 +1,5 @@
 ---
-title: Exsudado de ferida não cirúrgica; Pesquisa de aeróbios, anaeróbios,
-  fungos leveduriformes
+title: Exsudado de ferida não cirúrgica - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Exsudado de ferida não cirúrgica
