@@ -1170,6 +1170,21 @@
     "observacoes": ""
   },
   {
+    "slug": "helicobacter-pylori-pesquisa-de-antigenio",
+    "title": "Helicobacter pylori - pesquisa de antigénio",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Imunocromatográfico",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "3d",
+    "setor": "Microbiologia",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "helicobacter-pylori-gene-claritromicina-dna-qualitativo",
     "title": "Helicobacter pylori (+ gene claritromicina),  DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1182,21 +1197,6 @@
     "tempo_resposta": "até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "HELICBG",
-    "observacoes": ""
-  },
-  {
-    "slug": "helicobacter-pylori-pesquisa-de-antigenio",
-    "title": "Helicobacter pylori, pesquisa de antigénio- Fezes",
-    "area": "Bacteriologia - Geral",
-    "metodo": "Imunocromatográfico",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "3d",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
     "observacoes": ""
   },
   {
