@@ -1,5 +1,5 @@
 ---
-title: Fezes - Pesquisa de parasitas
+title: Fezes - Parasitas
 area: Parasitologia
 metodo: Microscopia, pesquisa de anticorpos IgG, pesquisa de antigénio
 amostra: Fezes (para todos), Soro (para amebíase, cisticercose, fasciolose, hidatidose)
