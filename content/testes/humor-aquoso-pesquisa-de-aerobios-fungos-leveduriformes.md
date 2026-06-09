@@ -1,5 +1,5 @@
 ---
-title: "Humor aquoso; Pesquisa de aeróbios, fungos leveduriformes "
+title: "Humor aquoso - Aeróbios, fungos leveduriformes "
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Humor aquoso
