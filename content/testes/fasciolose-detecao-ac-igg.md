@@ -1,5 +1,5 @@
 ---
-title: Fasciolose, Deteção anticorpos IgG
+title: Fasciolose
 area: Parasitologia
 metodo: Hemaglutinação indireta; Western Blot
 amostra: Soro
