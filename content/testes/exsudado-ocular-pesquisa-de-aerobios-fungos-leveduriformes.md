@@ -1,5 +1,5 @@
 ---
-title: "Exsudado ocular; Pesquisa de aeróbios, fungos leveduriformes "
+title: "Exsudado ocular - Aeróbios, fungos leveduriformes "
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Exsudado ocular
