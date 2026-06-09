@@ -1186,7 +1186,7 @@
   },
   {
     "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
-    "title": "Hidatidose (Ech. granulosus); Deteção de anticorpos IgG",
+    "title": "Hidatidose (Ech. granulosus)",
     "area": "Parasitologia",
     "metodo": "IFI, Western Blot",
     "amostra": "Soro",
@@ -1197,7 +1197,7 @@
     "tempo_resposta": "Até 1 mês",
     "setor": "Microbiologia",
     "codigo_interno": "",
-    "observacoes": ""
+    "observacoes": "Deteção de anticorpos IgG"
   },
   {
     "slug": "hiv-1-carga-viral-outros-produtos",
