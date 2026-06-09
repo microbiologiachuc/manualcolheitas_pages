@@ -420,21 +420,6 @@
     "observacoes": ""
   },
   {
-    "slug": "fezes-pesquisa-de-campylobacter",
-    "title": "Campylobacter - coprocultura",
-    "area": "Bacteriologia - Geral",
-    "metodo": "Cultura",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato\nTemperatura ambiente",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "L.MIC",
-    "codigo_interno": "CCAMP",
-    "observacoes": ""
-  },
-  {
     "slug": "citomegalovirus-cmv-dna-carga-viral-1",
     "title": "Citomegalovírus (CMV), DNA Carga Viral - LCR, Urina, Líquido amniótico",
     "area": "Virologia",
@@ -1017,6 +1002,21 @@
     "tempo_resposta": "Até 1 mês",
     "setor": "L.MIC",
     "codigo_interno": "PSF",
+    "observacoes": ""
+  },
+  {
+    "slug": "fezes-pesquisa-de-campylobacter",
+    "title": "Fezes - Campylobacter",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato\nTemperatura ambiente",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "L.MIC",
+    "codigo_interno": "CCAMP",
     "observacoes": ""
   },
   {
