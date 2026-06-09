@@ -1,5 +1,5 @@
 ---
-title: Exsudado uretral; Pesquisa de Trichomonas vaginalis
+title: Exsudado uretral - Trichomonas vaginalis
 area: Bacteriologia - Geral
 metodo: Microscopia ótica
 amostra: Exsudado uretral
