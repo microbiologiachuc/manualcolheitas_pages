@@ -1036,18 +1036,18 @@
   },
   {
     "slug": "fezes-pesquisa-de-parasitas",
-    "title": "Fezes, Pesquisa de parasitas",
+    "title": "Fezes - Pesquisa de parasitas",
     "area": "Parasitologia",
     "metodo": "Microscopia, pesquisa de anticorpos IgG, pesquisa de antigénio",
-    "amostra": "Fezes, Soro",
+    "amostra": "Fezes (para todos), Soro (para amebíase, cisticercose, fasciolose, hidatidose)",
     "material_colheita": "Contentor estéril ou Tubo com gel",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "3h, ambiente",
+    "transporte_estabilidade": "Envio até 3 horas após colheita / manter a temperatura ambiente",
     "tempo_resposta": "Até 1 semana",
     "setor": "L.MIC",
     "codigo_interno": "",
-    "observacoes": "Helmintas e Protozoários: pesquisa por microscopia\n\nAmebiase, Cisticercose, Echinococcus granulosus: pesquisa de anticorpos IgG\n\nCryptosporidium, Entamoeba histolytica: pesquisa de antigénio\n\nSoro: amebíase, cisticercose, fasciolose, hidatidose"
+    "observacoes": "Helmintas e Protozoários: pesquisa por microscopia  \nAmebiase, Cisticercose, Echinococcus granulosus: pesquisa de anticorpos IgG  \nCryptosporidium, Entamoeba histolytica: pesquisa de antigénio"
   },
   {
     "slug": "fezes-pesquisa-de-yersinia-enterocolitica",
