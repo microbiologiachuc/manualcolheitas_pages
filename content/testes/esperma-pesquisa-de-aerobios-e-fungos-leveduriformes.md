@@ -1,5 +1,5 @@
 ---
-title: Esperma; Pesquisa de aeróbios e fungos leveduriformes
+title: Esperma - Aeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Esperma
