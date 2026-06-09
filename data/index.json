@@ -135,21 +135,6 @@
     "observacoes": ""
   },
   {
-    "slug": "aspirado-de-ferida-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes",
-    "title": "Aspirado de ferida; Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes",
-    "area": "Bacteriologia - Geral",
-    "metodo": "Cultura",
-    "amostra": "Aspirado ferida",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "",
-    "tempo_resposta": "Envio imediato",
-    "setor": "L.MIC",
-    "codigo_interno": "ASF",
-    "observacoes": ""
-  },
-  {
     "slug": "aspirado-medula-ossea-pesquisa-de-aerobios-anaerobios-e-fungos-leveduriformes",
     "title": "Aspirado medula óssea; pesquisa de aeróbios, anaeróbios e fungos leveduriformes",
     "area": "Bacteriologia - Geral",
