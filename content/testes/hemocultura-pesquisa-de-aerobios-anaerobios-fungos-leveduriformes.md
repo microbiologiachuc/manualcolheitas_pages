@@ -1,5 +1,5 @@
 ---
-title: Hemocultura; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Hemocultura - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Sangue
