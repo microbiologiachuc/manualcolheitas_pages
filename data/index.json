@@ -240,6 +240,21 @@
     "observacoes": ""
   },
   {
+    "slug": "biopsia-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes",
+    "title": "Biópsia - Aeróbios, anaeróbios e de fungos leveduriformes",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Biópsia",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "Até 15 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "biopsia-ganglionar-estudo-micobacteriologico",
     "title": "Biópsia ganglionar, Estudo micobacteriológico",
     "area": "Bacteriologia - Geral",
@@ -253,21 +268,6 @@
     "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": "![image.png](blob:https:/app.pagescms.org/93c91a50-e080-4320-aef3-d80c33e69e0a)"
-  },
-  {
-    "slug": "biopsia-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes",
-    "title": "Biópsia, Pesquisa de aeróbios, anaeróbios e de fungos leveduriformes",
-    "area": "Bacteriologia - Geral",
-    "metodo": "Cultura",
-    "amostra": "Biópsia",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "Até 15 dias",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
   },
   {
     "slug": "bk-virus-dna-carga-viral",
