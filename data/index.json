@@ -1485,21 +1485,6 @@
     "observacoes": ""
   },
   {
-    "slug": "lavado-bronco-alveolar-pesquisa-de-pneumocystis-jirovecci",
-    "title": "Lavado bronco-alveolar; Pesquisa de Pneumocystis jirovecci",
-    "area": "Parasitologia",
-    "metodo": "IFI",
-    "amostra": "Lavado bronco-alveolar",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "lavado-de-fibroscopio-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Lavado de fibroscópio - Aeróbios, anaeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
@@ -2201,6 +2186,21 @@
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "3d",
     "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
+    "slug": "lavado-bronco-alveolar-pesquisa-de-pneumocystis-jirovecci",
+    "title": "Pneumocystis jirovecci",
+    "area": "Parasitologia",
+    "metodo": "IFI",
+    "amostra": "Lavado bronco-alveolar",
+    "material_colheita": "Contentor estéril",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
   },
