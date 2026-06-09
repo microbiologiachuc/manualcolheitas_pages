@@ -1,5 +1,5 @@
 ---
-title: Líquido peritoneal; Pesquisa de aeróbios, anaeróbios, fungos leveduriformes
+title: Líquido peritoneal - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Líquido peritoneal
