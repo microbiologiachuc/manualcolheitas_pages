@@ -9,7 +9,8 @@ transporte_estabilidade: Imediato/ 72H a 4ªc
 tempo_resposta: até 72 horas
 setor: Microbiologia
 codigo_interno: TICKO
-observacoes: Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia
-  chafeensis, Ehrlichia muris, Borrelia burgdorferi sensu lato, Borrelia
-  miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum e Coxiella burnetii
+observacoes: >+
+  Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia chafeensis,
+  Ehrlichia muris, Borrelia burgdorferi sensu lato, Borrelia miyamotoi, Borrelia
+  hermsii, Anaplasma phagocitophylum e Coxiella burnetii
 ---
