@@ -1,6 +1,6 @@
 ---
 title: Contactos
-description: Meios de contacto telefónico e electrónico
+description: Meios de contacto telefónico
 ---
 **Gabinete de Microbiologia**
 
