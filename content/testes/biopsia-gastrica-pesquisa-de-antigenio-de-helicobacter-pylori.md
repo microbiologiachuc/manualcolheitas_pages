@@ -1,6 +1,6 @@
 ---
 title: "Pesquisa de antigénio de Helicobacter pylori "
-area: Bacteriologia
+area: Bacteriologia - Geral
 metodo: "Imunocromatográfico "
 amostra: "Fezes "
 material_colheita: "Contentor estéril "
