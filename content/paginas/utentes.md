@@ -2,36 +2,45 @@
 title: Informações a Profissionais e Utentes
 description: Informação de utilidade geral
 ---
-**INFLUÊNCIA DO JEJUM E DA HORA DA COLHEITA**
+NORMAS GERAIS DE COLHEITA PARA ESTUDOS MICROBIOLÓGICOS
 
-A questão do jejum prende-se com a padronização da colheita de sangue que deve ser realizada, preferencialmente, de manhã, sempre à mesma hora e em condições semelhantes. Na verdade, a maioria das análises não requer jejum prolongado para a sua realização (superior a 2-4 horas) mas, colheitas efetuadas após uma refeição, podem produzir soros ou plasmas lipémicos que interferem nos doseamentos de muitas análises, podendo mesmo impossibilitá-los. Por este motivo, não havendo indicação para jejum de 8-12 horas, deve respeitar-se pelo menos um jejum de 2-4 horas. Quando se pretende um estudo mais aprofundado de determinadas situações como as doenças do foro metabólico (hidratos de carbono, lípidos), nos estudos do metabolismo do ferro, do zinco, entre outros, deve respeita-se um jejum de 8-12 horas. No caso das análises mais afetadas pelo ritmo circadiano, a hora preferencial de colheita é entre as 7:00 – 9:00 horas, devendo existir registo da hora de colheita para as que forem efetuadas a outras horas do dia.
+1. Normas gerais de segurança
 
+- Considerar que todo e qualquer produto pode conter germes potencialmente patogénicos, sendo por isso sempre necessário aplicar as normas preconizadas para proteção (precauções universais).  
+- No ato da colheita de qualquer produto biológico devem ser utilizadas “barreiras de proteção” individuais (ex: batas, luvas, etc)  
+- Não contaminar a superfície externa do recipiente que contêm a amostra ou outros materiais que acompanhem o produto (ex: outros produtos, documentos, requisição, etc).  
+- Evitar o contacto direto com o recipiente que contém a amostra durante o transporte até ao laboratório (Ex: transportar em sacos de plástico individuais e seláveis, contentores plásticos, etc).
 
+2. O pedido ou requisição deve ser claro e conter informação sobre:
 
-Análises mais afetadas pelo período de jejum
+- Situação clínica do doente – é importante descrever as condições da amostra (por exemplo, numa expetoração referir se se trata de eventual infeção da comunidade ou hospitalar, se existe patologia de base como DPCO se o doente está ventilado)  
+- Estado imunológico do doente – se é um doente transplantado (imunossuprimido ou imunodeprimido).  
+- Terapêutica antimicrobiana – em curso e/ou administrada nos dias anteriores à colheita.  
+- Presença de material protésico – válvulas, cateteres, algálias, shunts, outros.  
+- Local anatómico onde foi colhida a amostra – deve ser indicado o local da colheita dado que um microrganismo que faz parte da flora indígena de um local pode ser valorizado como patogénico se isolado de outro local.  
+- Exames pretendidos – deve ser indicada a natureza do exame pretendido (bacteriológico, micológico, parasitológico); sempre que o exame pretendido não fizer parte da rotina laboratorial, especificá-lo e contactar o laboratório.
 
-- Ácidos Biliares
-- Ácido metilmalónico
-- Agregação plaquetar
-- Aldosterona
-- Colesterol-LDL
-- Ferro
-- Glicose
-- Insulina
-- Metanefrinas plasmáticas
-- Peptídeo C
-- Renina
-- Triglicerídeos
-- Vitaminas (A,B,C, E)
-- Zinco
+3. Colheita da amostra
 
+- A amostra a colher deve estar concordante com a sintomatologia e a história clínica.  
+- A amostra deve ser de acordo com o local e o tipo da infeção, devendo evitar-se a sua contaminação com a flora microbiana saprófita contígua. As amostras destinadas a estudos virológicos devem ainda respeitar a natureza e características de cada vírus.  
+- A colheita deve ser sempre realizada segundo técnica asséptica, prevenindo a introdução de outros microrganismos (contaminantes) durante o procedimento de colheita.  
+- O volume da amostra deve, sempre que possível, ser representativo e em quantidade suficiente de forma a permitir a realização dos estudos pretendidos.  
+- Para correto processamento laboratorial são indispensáveis dados solicitados referentes à natureza do produto, ao local anatómico da colheita e ao procedimento utilizado.
 
+4. Transporte e conservação da amostra
 
-Análises mais afetadas pela hora da colheita
+- O envio ao laboratório deve ocorrer no mais curto intervalo de tempo possível, para garantir a sobrevivência dos microrganismos mais frágeis e prevenir o crescimento de outros menos exigentes (diminuindo ainda o tempo de contacto entre o produto e as substâncias com atividade bactericida que possam eventualmente existir aquando da colheita).  
+- A maioria das amostras para pesquisa de microrganismos anaeróbios necessitam de acondicionamento próprio, nomeadamente em frasco porta-gérmen.
+- Sempre que for necessária a utilização de meios específicos estes serão fornecidos pelo laboratório.
 
-- ACTH
-- Cortisol
-- Hormona do crescimento (GH)
-- PTH (paratormona)
-- Prolactina
+5. Critérios de rejeição de amostras  
+- Amostras contendo formol.  
+- Colheitas de expetoração de 24 horas.  
+- Amostras em recipientes não esterilizados.  
+- Amostras visivelmente contaminadas com substâncias indesejáveis, como corantes ou bário.  
+- Amostras em recipientes mal vedados expondo sinais de conspurcação do contentor e/ou produto.  
+- Identificação incorreta do produto e/ou do doente.  
+- Amostras destinadas à pesquisa e cultura de vírus com volume insuficiente, contentor/tubo inadequado, zaragatoas de alginato de cálcio, algodão e cabo de madeira, amostras não colocadas em gelo (quando apropriado) e entregues após a hora solicitada.  
+- Amostras para pesquisa de germens anaeróbios que não respeitem procedimentos ou condições fundamentais, ou produtos mesmo que adequados, mas nos quais não foram consideradas as indicações de acondicionamento e transporte
 
