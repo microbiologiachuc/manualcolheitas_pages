@@ -567,7 +567,7 @@
     "tempo_resposta": "até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "TICKO",
-    "observacoes": "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia"
+    "observacoes": "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia chafeensis,\nEhrlichia muris, Borrelia burgdorferi sensu lato, Borrelia miyamotoi, Borrelia\nhermsii, Anaplasma phagocitophylum e Coxiella burnetii"
   },
   {
     "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo",
@@ -582,7 +582,7 @@
     "tempo_resposta": "até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "TICK",
-    "observacoes": "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia"
+    "observacoes": "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia chafeensis,\nEhrlichia muris, Borrelia burgdorferi sensu lato, Borrelia miyamotoi, Borrelia\nhermsii, Anaplasma phagocitophylum e Coxiella burnetii"
   },
   {
     "slug": "dst-chlamtrach-neissgono-dna-qualitativo-2",
