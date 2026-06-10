@@ -9,7 +9,7 @@ _____
 **1) Sobre normas gerais de segurança**
 
 - Considerar que todo e qualquer produto pode conter germes potencialmente patogénicos, sendo por isso sempre necessário aplicar as normas preconizadas para proteção (precauções universais).  
-- No ato da colheita de qualquer produto biológico devem ser utilizadas “barreiras de proteção” individuais (ex: batas, luvas, etc)  
+- No ato da colheita de qualquer produto biológico devem ser utilizadas “barreiras de proteção” individuais (ex: batas, luvas, etc).
 - Não contaminar a superfície externa do recipiente que contêm a amostra ou outros materiais que acompanhem o produto (ex: outros produtos, documentos, requisição, etc).  
 - Evitar o contacto direto com o recipiente que contém a amostra durante o transporte até ao laboratório (Ex: transportar em sacos de plástico individuais e seláveis, contentores plásticos, etc).
 
@@ -17,7 +17,7 @@ _____
 
 **2) Sobre informações que devem constar no pedido ou requisição** 
 
-- Situação clínica do doente – é importante descrever as condições da amostra (por exemplo, numa expetoração referir se se trata de eventual infeção da comunidade ou hospitalar, se existe patologia de base como DPCO se o doente está ventilado)  
+- Situação clínica do doente – é importante descrever as condições da amostra (por exemplo, numa expetoração referir se se trata de eventual infeção da comunidade ou hospitalar, se existe patologia de base como DPCO se o doente está ventilado).
 - Estado imunológico do doente – se é um doente transplantado (imunossuprimido ou imunodeprimido).  
 - Terapêutica antimicrobiana – em curso e/ou administrada nos dias anteriores à colheita.  
 - Presença de material protésico – válvulas, cateteres, algálias, shunts, outros.  
@@ -47,11 +47,11 @@ _____
 **5) Sobre critérios de rejeição de amostras**
 
 - Amostras contendo formol.  
-- Colheitas de expetoração de 24 horas.  
-- Amostras em recipientes não esterilizados.  
+- Amostras em recipientes não esterilizados e/ou não autorizados.  
 - Amostras visivelmente contaminadas com substâncias indesejáveis, como corantes ou bário.  
 - Amostras em recipientes mal vedados expondo sinais de conspurcação do contentor e/ou produto.  
 - Identificação incorreta do produto e/ou do doente.  
 - Amostras destinadas à pesquisa e cultura de vírus com volume insuficiente, contentor/tubo inadequado, zaragatoas de alginato de cálcio, algodão e cabo de madeira, amostras não colocadas em gelo (quando apropriado) e entregues após a hora solicitada.  
-- Amostras para pesquisa de germens anaeróbios que não respeitem procedimentos ou condições fundamentais, ou produtos mesmo que adequados, mas nos quais não foram consideradas as indicações de acondicionamento e transporte
+- Amostras para pesquisa de germens anaeróbios que não respeitem procedimentos ou condições fundamentais.
+- Todos os produtos, ainda que adequados, para os quais não tenham sido cumpridas as indicações de acondicionamento e transporte definidas.
 
