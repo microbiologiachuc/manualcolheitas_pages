@@ -1,6 +1,5 @@
 ---
-title: Doenças transmitidas por carraças (Tick-borne), DNA qualitativo - Biópsia
-  cutânea
+title: Doenças transmitidas por carraças (Tick-borne), DNA qualitativo - Biópsia pele
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Biópsia cutânea
