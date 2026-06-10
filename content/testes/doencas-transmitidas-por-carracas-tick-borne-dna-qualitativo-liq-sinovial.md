@@ -8,7 +8,8 @@ transporte_estabilidade: Imediato / 72 horas a 4ºc
 tempo_resposta: até 72 horas
 setor: L.MIC
 codigo_interno: TICKLS
-observacoes: Rickettsia spp., Babesia microti, Babesia divergens, Ehrlichia
-  chafeensis, Ehrlichia muris, Borrelia burgdorferi sensu lato, Borrelia
-  miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum e Coxiella burnetii
+observacoes: >+
+  Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia chafeensis,
+  Ehrlichia muris, Borrelia burgdorferi sensu lato, Borrelia miyamotoi, Borrelia
+  hermsii, Anaplasma phagocitophylum e Coxiella burnetii
 ---
