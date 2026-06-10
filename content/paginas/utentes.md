@@ -6,7 +6,7 @@ description: Informação de utilidade geral
 
 _____
 
-1. **Sobre normas gerais de segurança**
+**1) Sobre normas gerais de segurança**
 
 - Considerar que todo e qualquer produto pode conter germes potencialmente patogénicos, sendo por isso sempre necessário aplicar as normas preconizadas para proteção (precauções universais).  
 - No ato da colheita de qualquer produto biológico devem ser utilizadas “barreiras de proteção” individuais (ex: batas, luvas, etc)  
@@ -15,7 +15,7 @@ _____
 
 _____
 
-2. **Sobre informações que devem constar no pedido ou requisição** 
+**2) Sobre informações que devem constar no pedido ou requisição** 
 
 - Situação clínica do doente – é importante descrever as condições da amostra (por exemplo, numa expetoração referir se se trata de eventual infeção da comunidade ou hospitalar, se existe patologia de base como DPCO se o doente está ventilado)  
 - Estado imunológico do doente – se é um doente transplantado (imunossuprimido ou imunodeprimido).  
@@ -26,7 +26,7 @@ _____
 
 _____
 
-3. **Sobre a colheita da amostra**
+**3) Sobre a colheita da amostra**
 
 - A amostra a colher deve estar concordante com a sintomatologia e a história clínica.  
 - A amostra deve ser de acordo com o local e o tipo da infeção, devendo evitar-se a sua contaminação com a flora microbiana saprófita contígua. As amostras destinadas a estudos virológicos devem ainda respeitar a natureza e características de cada vírus.  
@@ -36,7 +36,7 @@ _____
 
 _____
 
-4. **Sobre o transporte e conservação da amostra**
+**4) Sobre o transporte e conservação da amostra**
 
 - O envio ao laboratório deve ocorrer no mais curto intervalo de tempo possível, para garantir a sobrevivência dos microrganismos mais frágeis e prevenir o crescimento de outros menos exigentes (diminuindo ainda o tempo de contacto entre o produto e as substâncias com atividade bactericida que possam eventualmente existir aquando da colheita).  
 - A maioria das amostras para pesquisa de microrganismos anaeróbios necessitam de acondicionamento próprio, nomeadamente em frasco porta-gérmen.
@@ -44,7 +44,7 @@ _____
 
 _____
 
-5. **Sobre critérios de rejeição de amostras**
+**5) Sobre critérios de rejeição de amostras**
 
 - Amostras contendo formol.  
 - Colheitas de expetoração de 24 horas.  
