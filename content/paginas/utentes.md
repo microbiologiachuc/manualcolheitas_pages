@@ -1,5 +1,5 @@
 ---
-title: Informações a Profissionais e Utentes
+title: Informações Profissionais
 description: Informação de utilidade geral
 ---
 **INDICAÇÕES GERAIS DE COLHEITA PARA ESTUDOS MICROBIOLÓGICOS**
