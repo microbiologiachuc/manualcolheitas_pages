@@ -4,7 +4,7 @@ description: Informação de utilidade geral
 ---
 **INDICAÇÕES GERAIS DE COLHEITA PARA ESTUDOS MICROBIOLÓGICOS**
 
-
+_____
 
 1. **Sobre normas gerais de segurança**
 
@@ -13,7 +13,7 @@ description: Informação de utilidade geral
 - Não contaminar a superfície externa do recipiente que contêm a amostra ou outros materiais que acompanhem o produto (ex: outros produtos, documentos, requisição, etc).  
 - Evitar o contacto direto com o recipiente que contém a amostra durante o transporte até ao laboratório (Ex: transportar em sacos de plástico individuais e seláveis, contentores plásticos, etc).
 
-
+_____
 
 2. **Sobre informações que devem constar no pedido ou requisição** 
 
@@ -24,7 +24,7 @@ description: Informação de utilidade geral
 - Local anatómico onde foi colhida a amostra – deve ser indicado o local da colheita dado que um microrganismo que faz parte da flora indígena de um local pode ser valorizado como patogénico se isolado de outro local.  
 - Exames pretendidos – deve ser indicada a natureza do exame pretendido (bacteriológico, micológico, parasitológico); sempre que o exame pretendido não fizer parte da rotina laboratorial, especificá-lo e contactar o laboratório.
 
-
+_____
 
 3. **Sobre a colheita da amostra**
 
@@ -34,7 +34,7 @@ description: Informação de utilidade geral
 - O volume da amostra deve, sempre que possível, ser representativo e em quantidade suficiente de forma a permitir a realização dos estudos pretendidos.  
 - Para correto processamento laboratorial são indispensáveis dados solicitados referentes à natureza do produto, ao local anatómico da colheita e ao procedimento utilizado.
 
-
+_____
 
 4. **Sobre o transporte e conservação da amostra**
 
@@ -42,7 +42,7 @@ description: Informação de utilidade geral
 - A maioria das amostras para pesquisa de microrganismos anaeróbios necessitam de acondicionamento próprio, nomeadamente em frasco porta-gérmen.
 - Sempre que for necessária a utilização de meios específicos estes serão fornecidos pelo laboratório.
 
-
+_____
 
 5. **Sobre critérios de rejeição de amostras**
 
