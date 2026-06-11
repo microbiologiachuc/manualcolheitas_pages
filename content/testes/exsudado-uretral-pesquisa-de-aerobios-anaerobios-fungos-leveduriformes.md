@@ -6,8 +6,6 @@ amostra: Exsudado uretral
 material_colheita: |+
   Zaragatoa c/ meio transporte
 
-  ![](uploads/exsudado_uret.png)
-
   ![](uploads/teste2.png)
 
 transporte_estabilidade: Envio imediato
