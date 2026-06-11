@@ -1,17 +1,18 @@
 ---
-title: Adenovírus, DNA Carga viral - Plasma
+title: Adenovírus, DNA Carga viral
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
   Plasma
 
-material_colheita: " Tubo de EDTA com gel"
-transporte_estabilidade: Imediato/ 72H a 4ºC, tubo deve ser centrifugado de imediato
-tempo_resposta: Até 72 horas
-setor: Microbiologia
-codigo_interno: "4911"
-observacoes: |+
-  
+material_colheita: |2+
+   Tubo de EDTA com gel  
 
-  ![](uploads/k2edta.png)
+
+  ![](uploads/edta_vir.png)
+
+transporte_estabilidade: Imediato / 72 horas a 4ºC, tubo deve ser centrifugado de imediato
+tempo_resposta: Até 72 horas
+setor: L.MIC
+codigo_interno: "4911"
 ---
