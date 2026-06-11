@@ -210,21 +210,6 @@
     "observacoes": ""
   },
   {
-    "slug": "citomegalovirus-cmv-dna-carga-viral",
-    "title": "Citomegalovírus (CMV), DNA Carga Viral - Plasma",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Plasma",
-    "material_colheita": "Tubo de EDTA com gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "4914",
-    "observacoes": "O tubo deve ser centrifugado após chegada ao laboratório"
-  },
-  {
     "slug": "citomegalovirus-cmv-dna-qualitativo",
     "title": "Citomegalovírus (CMV), DNA qualitativo",
     "area": "Virologia",
@@ -237,36 +222,6 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Outros produtos - CVCMV-O\nSecreções respiratórias - CMVP-BI\nLavado Broncoalveolar - CMVP-BI\nBiópsias - CMVP-BI\nMedula óssea - CMVPM",
-    "observacoes": ""
-  },
-  {
-    "slug": "citomegalovirus-cmv-dna-qualitativo-1",
-    "title": "Citomegalovírus (CMV), DNA qualitativo - Outros produtos",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Outros produtos",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "CVCMV-O",
-    "observacoes": ""
-  },
-  {
-    "slug": "citomegalovirus-cmv-dna-qualitativo-2",
-    "title": "Citomegalovírus (CMV), DNA Qualitativo - Secreções respiratórias, Lavado",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Secreções respiratórias, Lavado Broncoalveolar, Biópsias",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "CMVP-BI",
     "observacoes": ""
   },
   {
