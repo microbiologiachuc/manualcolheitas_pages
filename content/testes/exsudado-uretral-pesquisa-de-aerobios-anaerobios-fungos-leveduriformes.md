@@ -8,6 +8,8 @@ material_colheita: |+
 
   ![](uploads/exsudado_uret.png)
 
+  ![](uploads/teste2.png)
+
 transporte_estabilidade: Envio imediato
 tempo_resposta: 3d
 setor: L.MIC
