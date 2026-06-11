@@ -2,7 +2,12 @@
 title: Acanthamoeba,  DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: LCR, Outros produtos, Qualquer amostra ocular
+amostra: |+
+  LCR, Outros produtos, Qualquer amostra ocular  
+
+
+  ![](uploads/contentores_hp.png)
+
 material_colheita: |-
   LCR e Outros produtos - Contentor estéril  
   Qualquer amostra ocular - Tubo solicitado ao lab de microbiologia
@@ -13,5 +18,4 @@ codigo_interno: |-
   LCR - ACANTAL 
   Outros produtos - ACANTA
   Qualquer amostra ocular - ACANTA
-observacoes: |+
 ---
