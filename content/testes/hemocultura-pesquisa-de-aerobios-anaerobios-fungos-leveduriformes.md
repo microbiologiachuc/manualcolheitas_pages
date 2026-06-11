@@ -6,7 +6,7 @@ amostra: Sangue
 material_colheita: |+
   Frasco Hemocultura, adulto ou pediátrico
 
-  ![](uploads/fr._hemocultura.png)
+  ![](uploads/hemocult.png)
 
 transporte_estabilidade: Envio imediato. Conservar a 37ºC ou temperatura ambiente.
 tempo_resposta: 5d
