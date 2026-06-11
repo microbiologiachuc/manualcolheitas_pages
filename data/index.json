@@ -920,7 +920,7 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Exsudado uretral",
-    "material_colheita": "Zaragatoa c/ meio transporte",
+    "material_colheita": "Zaragatoa c/ meio transporte\n\n![](uploads/exsudado_uret.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
