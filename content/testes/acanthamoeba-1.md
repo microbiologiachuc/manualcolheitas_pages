@@ -2,14 +2,15 @@
 title: Acanthamoeba,  DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: |+
-  LCR, Outros produtos, Qualquer amostra ocular  
+amostra: LCR, Outros produtos, Qualquer amostra ocular
+material_colheita: |-
+  LCR e Outros produtos - Contentor estéril  
 
 
   ![](uploads/contentores_hp.png)
 
-material_colheita: |-
-  LCR e Outros produtos - Contentor estéril  
+    
+    
   Qualquer amostra ocular - Tubo solicitado ao lab de microbiologia
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: até 72 horas
