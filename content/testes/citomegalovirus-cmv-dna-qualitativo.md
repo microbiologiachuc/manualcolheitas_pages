@@ -2,7 +2,9 @@
 title: Citomegalovírus (CMV), DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: >-
+amostra: "Outros produtos, Secreções respiratórias, Lavado Broncoalveolar,
+  Biópsias, Medula óssea "
+material_colheita: >-
   Outros produtos, Secreções respiratórias, Lavado Broncoalveolar, Biópsias -
   Contentor estéril
 
@@ -11,7 +13,6 @@ amostra: >-
 
 
   Medula óssea - Tubo de EDTA (Tubo de hemograma)
-material_colheita: Tubo de EDTA (Tubo de hemograma)
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
