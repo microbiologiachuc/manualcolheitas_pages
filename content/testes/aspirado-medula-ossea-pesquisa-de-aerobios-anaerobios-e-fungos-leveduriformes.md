@@ -3,7 +3,12 @@ title: Aspirado medula óssea - Aeróbios, anaeróbios e fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Medula óssea
-material_colheita: Frasco hemocultura, Contentor estéril
+material_colheita: |+
+  Frasco hemocultura, Contentor estéril  
+
+
+  ![](uploads/hemocult.png)
+
 transporte_estabilidade: Envio imediato
 tempo_resposta: 3 dias
 setor: L.MIC
