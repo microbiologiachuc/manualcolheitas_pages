@@ -1175,7 +1175,7 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Sangue",
-    "material_colheita": "Frasco Hemocultura, adulto ou pediátrico\n\n![](uploads/hemocult.png)",
+    "material_colheita": "Frasco Hemocultura, Adulto ou Criança\n\n![](uploads/hemocult.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato. Conservar a 37ºC ou temperatura ambiente.",
