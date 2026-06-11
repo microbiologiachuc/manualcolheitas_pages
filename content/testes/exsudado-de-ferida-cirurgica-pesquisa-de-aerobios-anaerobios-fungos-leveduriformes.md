@@ -6,7 +6,7 @@ amostra: Exsudado de ferida cirúrgica
 material_colheita: |+
   Zaragatoa c/ meio transporte
 
-  ![](uploads/zaragatoa_meio_trans.png)
+  ![](uploads/zaragatoa_gel.png)
 
 transporte_estabilidade: Envio imediato à temperatura ambiente
 tempo_resposta: Até 1 semana
