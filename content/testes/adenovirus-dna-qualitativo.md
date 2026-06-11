@@ -1,15 +1,22 @@
 ---
-title: Adenovírus,  DNA qualitativo - LCR e outros produtos
+title: Adenovírus,  DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: |+
-  LCR/ Outros produtos 
+amostra: |-
+  LCR/ Outros produtos  
+  Medula óssea
+material_colheita: |-
+  LCR/ Outros produtos - Contentor estéril
 
-material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/72H a 4ºC
+  ![](uploads/contentores_hp.png)
+
+    
+  Medula óssea - Tubo de EDTA (Tubo hemograma)
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
-setor: Microbiologia
-codigo_interno: "4917"
+setor: L.MIC
+codigo_interno: |-
+  LCR/ Outros produtos - 4917
+  Medula óssea - 4917M
 observacoes: |+
-  ![image.png](blob:https:/app.pagescms.org/2fa93d75-7e3e-46db-b2dd-b037be563a95)
 ---
