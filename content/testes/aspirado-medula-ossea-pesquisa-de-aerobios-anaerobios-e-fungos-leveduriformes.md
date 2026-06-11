@@ -4,8 +4,7 @@ area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Medula óssea
 material_colheita: |+
-  Frasco hemocultura, Contentor estéril  
-
+  Frasco hemocultura, Adulto ou Criança / Contentor estéril
 
   ![](uploads/hemocult.png)
 
