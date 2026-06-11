@@ -50,7 +50,7 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Aspirado brônquico",
-    "material_colheita": "Contentor estéril",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
