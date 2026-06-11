@@ -90,6 +90,21 @@
     "observacoes": ""
   },
   {
+    "slug": "bartonella-sp-dna-qualitativo",
+    "title": "Bartonella sp., DNA qualitativo",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Biópsia, LCR, Líquido sinovial, Qualquer amostra ocular  \nSangue total",
+    "material_colheita": "Biópsia, LCR, Líquido sinovial - Contentor estéril\n\n![](uploads/contentores_hp.png)\n\nQualquer amostra ocular - Tubo solicitado ao Laboratório de microbiologia  \nSangue total - Tubo de EDTA (tubo de hemograma)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "Biópsia - BARTB\nLCR - BARTLCR\nLíquido sinovial - BARTLS\nQualquer amostra ocular - BARTOC\nSangue total - BAERTST",
+    "observacoes": ""
+  },
+  {
     "slug": "bartonella-sp-dna-qualitativo-1",
     "title": "Bartonella sp., DNA qualitativo - Biópsia",
     "area": "Bacteriologia - Biologia Molecular",
@@ -103,21 +118,6 @@
     "setor": "Microbiologia",
     "codigo_interno": "BARTB",
     "observacoes": "![image.png](blob:https:/app.pagescms.org/9da7f8c0-5672-4043-9d8b-4421b2bd32b1)"
-  },
-  {
-    "slug": "bartonella-sp-dna-qualitativo",
-    "title": "Bartonella sp., DNA qualitativo - LCR",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "LCR",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72 horas a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "BARTLCR",
-    "observacoes": "![image.png](uploads/image-29.png)"
   },
   {
     "slug": "bartonella-sp-dna-qualitativo-2",
