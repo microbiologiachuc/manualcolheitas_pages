@@ -1,15 +1,20 @@
 ---
-title: BK Virus, DNA Carga viral - Plasma
+title: BK Virus, DNA Carga viral
 area: Virologia
 metodo: PCR em tempo real
-amostra: |+
-  Plasma
+amostra: Urina, Outros produtos, Plasma
+material_colheita: |-
+  Urina, Outros produtos - Contentor estéril
 
-material_colheita: Tubo de EDTA com gel
-transporte_estabilidade: Imediato/ 72H a 3ºC
+  ![](uploads/contentores_hp.png)
+
+  Plasma - Tubo de EDTA com gel
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
-codigo_interno: QBKP-SG
+codigo_interno: |-
+  Urina - QBKP-UR
+  Outros produtos - QBKP-O
+  Plasma - QBKP-SG
 observacoes: |+
-  ![image.png](uploads/image-21.png)
 ---
