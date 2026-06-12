@@ -1,11 +1,26 @@
 ---
-title: Parvovírus B19, DNA  qualitativo - Medula óssea
+title: Parvovírus B19, DNA  qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: Medula óssea
-material_colheita: Tubo de EDTA (Tubo de hemograma)
-transporte_estabilidade: Imediato /72H a 4ºC
+amostra: |-
+  LCR, Outros produtos  
+  Medula óssea  
+  Plasma
+material_colheita: |-
+  Contentor estéril
+
+  ![](uploads/contentores_chuc.png)
+
+
+
+  Tubo de EDTA (Tubo de hemograma)
+
+  Tubo de EDTA com gel
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
-codigo_interno: 4947M
+codigo_interno: |-
+  LCR, Outros produtos - 4947
+  Medula óssea - 4947M
+  Plasma - 4941
 ---
