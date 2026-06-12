@@ -353,9 +353,9 @@
     "material_colheita": "Tubo de EDTA com gel",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72h a 4ºC",
-    "tempo_resposta": "até 96H",
-    "setor": "Microbiologia",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "até 96 horas",
+    "setor": "L.MIC",
     "codigo_interno": "4907",
     "observacoes": ""
   },
@@ -585,6 +585,21 @@
     "observacoes": ""
   },
   {
+    "slug": "giardia-detecao-de-antigenio",
+    "title": "Fezes",
+    "area": "Parasitologia",
+    "metodo": "Imunocromatografia, Microscopia ótica",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Giardia - 3 horas, ambiente / manter a temperatura ambiente  \nGordura nas fezes - 5 dias / 2-8ºC  \nGrau de digestão - 2 dias / 2-8ºC  \nLeucócitos - 5 dias / 2-8ºC",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "L.MIC",
+    "codigo_interno": "Giardia - \nGordura nas fezes - PPG\nGrau de digestão - GDIG\nLeucócitos -",
+    "observacoes": "Giardia: pesquisa de antigénio"
+  },
+  {
     "slug": "fezes-pesquisa-de-campylobacter",
     "title": "Fezes - Campylobacter",
     "area": "Bacteriologia - Geral",
@@ -598,21 +613,6 @@
     "setor": "L.MIC",
     "codigo_interno": "CCAMP",
     "observacoes": ""
-  },
-  {
-    "slug": "giardia-detecao-de-antigenio",
-    "title": "Fezes - Giardia",
-    "area": "Parasitologia",
-    "metodo": "Imunocromatografia",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "3 horas, ambiente",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "L.MIC",
-    "codigo_interno": "",
-    "observacoes": "Pesquisa de antigénio"
   },
   {
     "slug": "fezes-pesquisa-de-gordura-nas-fezes",
