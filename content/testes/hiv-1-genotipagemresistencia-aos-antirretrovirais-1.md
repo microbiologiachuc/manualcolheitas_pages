@@ -16,7 +16,7 @@ material_colheita: |-
 transporte_estabilidade: |-
   Imediato / 72 horas a 4ºC  
   Até 2 semanas
-tempo_resposta: Até 1 mês
+tempo_resposta: Até 1 mêsAté 2 semanas
 setor: L.MIC
 codigo_interno: TRALCR
 ---
