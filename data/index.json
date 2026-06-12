@@ -615,21 +615,6 @@
     "observacoes": ""
   },
   {
-    "slug": "fezes-pesquisa-leucocitos",
-    "title": "Fezes - Leucócitos",
-    "area": "Parasitologia",
-    "metodo": "Microscopia ótica",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "5d, 2-8ºC",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "fezes-pesquisa-de-parasitas",
     "title": "Fezes - Parasitas",
     "area": "Parasitologia",
