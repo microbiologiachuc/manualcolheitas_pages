@@ -2,10 +2,20 @@
 title: Leptospira sp., DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: LCR
-material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/ 72H a 4ºC
+amostra: |-
+  LCR, Urina  
+  Sangue total
+material_colheita: |-
+  Contentor estéril
+
+  ![](uploads/contentores_chuc.png)
+
+  Tubo de EDTA (tubo de hemograma)
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: até 72 horas
 setor: Microbiologia
-codigo_interno: LEPTLCR
+codigo_interno: |
+  LCR - LEPTLCR
+  Urina - LEPTU
+  Sangue total - LEPTST
 ---
