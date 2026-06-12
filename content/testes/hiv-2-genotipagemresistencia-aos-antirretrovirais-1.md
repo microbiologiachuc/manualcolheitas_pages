@@ -1,5 +1,5 @@
 ---
-title: HIV-2, Genotipagem/Resistência aos antirretrovirais - LCR
+title: HIV-2, Genotipagem/Resistência aos antirretrovirais
 area: Virologia
 metodo: Sequenciação de nova geração
 amostra: |-
