@@ -1,13 +1,17 @@
 ---
-title: Sarampo (MeV), RNA qualitativo - Fluidos cavidade oral
+title: Sarampo (MeV), RNA qualitativo
 area: Virologia
-metodo: PCr em tempo real
-amostra: |+
-  Fluidos cavidade oral
-
-material_colheita: Zaragatoa com meio de transporte vírico com inactivador
-transporte_estabilidade: Imediato / 72h a 4ºC
+metodo: PCR em tempo real
+amostra: |-
+  Fluidos cavidade oral  
+  Zaragatoa orofaringe
+material_colheita: |-
+  Zaragatoa com meio de transporte vírico com inactivador  
+  Zaragatoa orofaringe
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
-codigo_interno: SARCO
+codigo_interno: |-
+  Fluidos cavidade oral - SARCO
+  Zaragatoa orofaringe - SARZO
 ---
