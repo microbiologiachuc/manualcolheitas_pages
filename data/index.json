@@ -1231,17 +1231,17 @@
   },
   {
     "slug": "parvovirus-b19-dna-qualitativo-1",
-    "title": "Parvovírus B19, DNA  qualitativo - Medula óssea",
+    "title": "Parvovírus B19, DNA  qualitativo",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
-    "amostra": "Medula óssea",
-    "material_colheita": "Tubo de EDTA (Tubo de hemograma)",
+    "amostra": "LCR, Outros produtos  \nMedula óssea  \nPlasma",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\n\n\nTubo de EDTA (Tubo de hemograma)\n\nTubo de EDTA com gel",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato /72H a 4ºC",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
-    "codigo_interno": "4947M",
+    "codigo_interno": "LCR, Outros produtos - 4947\nMedula óssea - 4947M\nPlasma - 4941",
     "observacoes": ""
   },
   {
