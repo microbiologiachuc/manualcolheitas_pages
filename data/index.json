@@ -1095,21 +1095,6 @@
     "observacoes": ""
   },
   {
-    "slug": "nmeningitidisspneumoniaelisteria-dna-qualitativo",
-    "title": "N.meningitidis/S.pneumoniae./Listeria, DNA qualitativo - Sangue total",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Sangue total",
-    "material_colheita": "Tubo de EDTA (tubo de hemograma)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "L.MIC",
-    "codigo_interno": "4932",
-    "observacoes": "![image388.jpg](uploads/image388-8.jpg)"
-  },
-  {
     "slug": "painel-agentes-infecao-respiratoria-inferior-disponivel-apos-consulta-pat-clinico-escala-de-microbiologia",
     "title": "Painel Agentes Infeção Respiratória Inferior",
     "area": "Bacteriologia - Biologia Molecular",
