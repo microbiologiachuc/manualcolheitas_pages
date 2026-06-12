@@ -1,14 +1,20 @@
 ---
-title: Mycoplasma pneum./Chl. pneum./Legionella sp., DNA qualitativo - Liq.
-  Pleural/ LCR/Outros produtos
+title: Mycoplasma pneum./Chl. pneum./Legionella sp., DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: |+
-  Liq. Pleural/ LCR/Outros produtos
+amostra: |-
+  Líquido Pleural, LCR, Outros produtos  
+  Sangue total 
+material_colheita: |-
+  Contentor estéril
 
-material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/ 72H a 4ºC
+  ![](uploads/contentores_chuc.png)
+
+  Tubo de EDTA (tubo de hemograma)
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: até 72 horas
 setor: L.MIC
-codigo_interno: "4918"
+codigo_interno: |-
+  Líquido Pleural, LCR, Outros produtos - 4918
+  Sangue total - 4936
 ---
