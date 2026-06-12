@@ -960,36 +960,6 @@
     "observacoes": ""
   },
   {
-    "slug": "leptospira-sp-dna-qualitativo-2",
-    "title": "Leptospira sp., DNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Sangue total",
-    "material_colheita": "Tubo de EDta (tubo de hemograma)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "LEPTST",
-    "observacoes": ""
-  },
-  {
-    "slug": "leptospira-sp-dna-qualitativo",
-    "title": "Leptospira sp., DNA qualitativo",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Urina",
-    "material_colheita": "Contento estéril sem conservante",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72h a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "Microbiologia",
-    "codigo_interno": "LEPTU",
-    "observacoes": ""
-  },
-  {
     "slug": "liquido-de-dialise-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Líquido de diálise - Aeróbios, anaeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
