@@ -1081,17 +1081,17 @@
   },
   {
     "slug": "nmeningitidisspneumoniaelisteria-dna-qualitativo-1",
-    "title": "N.meningitidis/S.pneumoniae./Listeria, DNA qualitativo - Liq. Pleural/",
+    "title": "N.meningitidis/S.pneumoniae./Listeria, DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
-    "amostra": "Liq. Pleural/ LCR/ Outros produtos",
-    "material_colheita": "contentor estéril",
+    "amostra": "Líquido Pleural, LCR, Outros produtos  \nSangue total",
+    "material_colheita": "contentor estéril\n\n![](uploads/contentores_chuc.png)\n\nTubo de EDTA (tubo de hemograma)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato/72H a 4ºC",
-    "tempo_resposta": "até 72 horas",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "Até 72 horas",
     "setor": "Microbiologia",
-    "codigo_interno": "4924",
+    "codigo_interno": "Líquido Pleural, LCR, Outros produtos - 4924\nSangue total - 4932",
     "observacoes": ""
   },
   {
