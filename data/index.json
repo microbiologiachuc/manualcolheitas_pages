@@ -840,6 +840,21 @@
     "observacoes": ""
   },
   {
+    "slug": "kingella-kingae-dna-qualitativo-2",
+    "title": "Kingella kingae, DNA qualitativo",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar  \nSangue total  \nZaragatoa orofaringe",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\n\n\nTubo de EDTA (tubo de hemograma)  \nZaragatoa com meio de transporte vírico com inactivador",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºc",
+    "tempo_resposta": "até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "Biópsia - KINGB\nLíquido sinovial - KINGLS\nLavado / Aspirado Broncoalveolar - KINGLBA\nSangue total - KINGST\nZaragatoa orofaringe - KINGU",
+    "observacoes": ""
+  },
+  {
     "slug": "kingella-kingae-dna-qualitativo",
     "title": "Kingella kingae, DNA qualitativo -  Lavado / Aspirado Broncoalveolar",
     "area": "Bacteriologia - Biologia Molecular",
@@ -852,21 +867,6 @@
     "tempo_resposta": "até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "KINGLBA",
-    "observacoes": ""
-  },
-  {
-    "slug": "kingella-kingae-dna-qualitativo-2",
-    "title": "Kingella kingae, DNA qualitativo - Biópsia",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "",
-    "material_colheita": "Biópsia",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Contentor estéril",
-    "tempo_resposta": "até 72 horas",
-    "setor": "L.MIC",
-    "codigo_interno": "KINGB",
     "observacoes": ""
   },
   {
