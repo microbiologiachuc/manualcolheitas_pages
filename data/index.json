@@ -1080,21 +1080,6 @@
     "observacoes": ""
   },
   {
-    "slug": "mycoplasma-pneumchlpneumoniaelegionella-spp-dna-qualitativo",
-    "title": "Mycoplasma pneum./Chl. pneum./Legionella sp., DNA qualitativo - Sangue total",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Sangue total",
-    "material_colheita": "Tubo de EDTA (tubo de hemograma)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato /72H a 4ºC",
-    "tempo_resposta": "até 72 horas",
-    "setor": "L.MIC",
-    "codigo_interno": "4936",
-    "observacoes": "![image388.jpg](uploads/image388-7.jpg)"
-  },
-  {
     "slug": "nmeningitidisspneumoniaelisteria-dna-qualitativo-1",
     "title": "N.meningitidis/S.pneumoniae./Listeria, DNA qualitativo - Liq. Pleural/",
     "area": "Bacteriologia - Biologia Molecular",
