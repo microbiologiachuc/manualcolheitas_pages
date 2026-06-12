@@ -1,13 +1,23 @@
 ---
-title: HIV-2, RNA Carga viral - LCR
+title: HIV-2, RNA Carga viral
 area: Virologia
 metodo: PCR em tempo real
-amostra: |+
-  LCR
+amostra: |-
+  LCR, Outros produtos  
+  Plasma
+material_colheita: |2-
+   Contentor estéril
 
-material_colheita: " Contentor estéril"
-transporte_estabilidade: Imediato/ 72Ha 4ºC
+  ![](uploads/contentores_hp.png)
+
+
+
+  Tubo de EDTA com gel
+transporte_estabilidade: Imediato / 72 horas a 4ºC, após centrifugação
 tempo_resposta: Até 1 semana
 setor: L.MIC
-codigo_interno: HIV2-CR
+codigo_interno: |-
+  LCR - HIV2-CR
+  Outros produtos - HIV2-O
+  Plasma - HIV2
 ---
