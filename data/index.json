@@ -769,14 +769,14 @@
     "title": "HIV-2, Genotipagem/Resistência aos antirretrovirais - LCR",
     "area": "Virologia",
     "metodo": "Sequenciação de nova geração",
-    "amostra": "LCR",
-    "material_colheita": "Contentor estéril",
+    "amostra": "LCR  \nPlasma",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_hp.png)\n\n\n\nTubo de EDTA com gel",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato/ 72H a 4ºC",
     "tempo_resposta": "Até 1 mês",
     "setor": "L.MIC",
-    "codigo_interno": "TRALCR2",
+    "codigo_interno": "LCR - TRALCR2\nPlasma - TRAHIV2",
     "observacoes": ""
   },
   {
