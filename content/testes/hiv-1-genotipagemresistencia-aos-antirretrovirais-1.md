@@ -1,5 +1,5 @@
 ---
-title: HIV-1, Genotipagem/Resistência aos antirretrovirais - LCR
+title: HIV-1, Genotipagem/Resistência aos antirretrovirais
 area: Virologia
 metodo: Sequenciação de nova geração
 amostra: |-
@@ -18,5 +18,7 @@ transporte_estabilidade: |-
   Até 2 semanas
 tempo_resposta: Até 1 mêsAté 2 semanas
 setor: L.MIC
-codigo_interno: TRALCR
+codigo_interno: |-
+  LCR - TRALCR
+  Plasma - TRAHIV1
 ---
