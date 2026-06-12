@@ -780,21 +780,6 @@
     "observacoes": ""
   },
   {
-    "slug": "hiv-2-genotipagemresistencia-aos-antirretrovirais",
-    "title": "HIV-2, Genotipagem/Resistência aos antirretrovirais - Plasma",
-    "area": "Virologia",
-    "metodo": "Sequenciação de nova geração",
-    "amostra": "Plasma",
-    "material_colheita": "Tubo de EDTA com gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediata/ 72H a 4ºC após centrifugação",
-    "tempo_resposta": "Até 1 mês",
-    "setor": "L.MIC",
-    "codigo_interno": "TRAHIV2",
-    "observacoes": ""
-  },
-  {
     "slug": "hiv-2-rna-carga-viral-1",
     "title": "HIV-2, RNA Carga viral - LCR",
     "area": "Virologia",
