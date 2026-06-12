@@ -4,8 +4,7 @@ area: Virologia
 metodo: PCR em tempo real
 amostra: |-
   LCR, Outros produtos  
-  Medula óssea  
-  Plasma
+  Medula óssea
 material_colheita: |-
   Contentor estéril
 
@@ -14,13 +13,10 @@ material_colheita: |-
 
 
   Tubo de EDTA (Tubo de hemograma)
-
-  Tubo de EDTA com gel
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
 codigo_interno: |-
   LCR, Outros produtos - 4947
   Medula óssea - 4947M
-  Plasma - 4941
 ---
