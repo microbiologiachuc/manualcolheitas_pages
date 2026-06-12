@@ -1,14 +1,20 @@
 ---
-title: N.meningitidis/S.pneumoniae./Listeria, DNA qualitativo - Liq. Pleural/
-  LCR/ Outros produtos
+title: N.meningitidis/S.pneumoniae./Listeria, DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: |+
-  Liq. Pleural/ LCR/ Outros produtos
+amostra: |-
+  Líquido Pleural, LCR, Outros produtos  
+  Sangue total 
+material_colheita: |-
+  contentor estéril
 
-material_colheita: contentor estéril
-transporte_estabilidade: Imediato/72H a 4ºC
-tempo_resposta: até 72 horas
+  ![](uploads/contentores_chuc.png)
+
+  Tubo de EDTA (tubo de hemograma)
+transporte_estabilidade: Imediato / 72 horas a 4ºC
+tempo_resposta: Até 72 horas
 setor: Microbiologia
-codigo_interno: "4924"
+codigo_interno: |-
+  Líquido Pleural, LCR, Outros produtos - 4924
+  Sangue total - 4932
 ---
