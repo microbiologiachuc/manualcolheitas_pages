@@ -1066,17 +1066,17 @@
   },
   {
     "slug": "mycoplasma-chlpneumlegionella-spp-dna-qualitativo",
-    "title": "Mycoplasma pneum./Chl. pneum./Legionella sp., DNA qualitativo - Liq.",
+    "title": "Mycoplasma pneum./Chl. pneum./Legionella sp., DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
-    "amostra": "Liq. Pleural/ LCR/Outros produtos",
-    "material_colheita": "Contentor estéril",
+    "amostra": "Líquido Pleural, LCR, Outros produtos  \nSangue total",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\nTubo de EDTA (tubo de hemograma)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "até 72 horas",
     "setor": "L.MIC",
-    "codigo_interno": "4918",
+    "codigo_interno": "Líquido Pleural, LCR, Outros produtos - 4918\nSangue total - 4936",
     "observacoes": ""
   },
   {
