@@ -345,21 +345,6 @@
     "observacoes": ""
   },
   {
-    "slug": "enterovirus-rna-qualitativo-1",
-    "title": "Enterovirus, RNA qualitativo - Secreções respiratórias, Outros produtos",
-    "area": "Virologia",
-    "metodo": "PCR em tempo real",
-    "amostra": "Secreções respiratórias, Outros produtos",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "até 96H",
-    "setor": "Microbiologia",
-    "codigo_interno": "4909",
-    "observacoes": ""
-  },
-  {
     "slug": "enterovirus-rna-quantitativo",
     "title": "Enterovirus, RNA quantitativo - Plasma",
     "area": "Virologia",
