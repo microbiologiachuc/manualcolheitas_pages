@@ -7,9 +7,7 @@ material_colheita: |+
   Contentor estéril
 
 transporte_estabilidade: Imediato/ 72H a 4ºC
-tempo_resposta: Até 96H
+tempo_resposta: Até 96 horas
 setor: Microbiologia
 codigo_interno: EVD68
-observacoes: |+
-  ![image.png](uploads/image-49.png)
 ---
