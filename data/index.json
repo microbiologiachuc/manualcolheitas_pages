@@ -365,13 +365,13 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR",
     "amostra": "Fezes",
-    "material_colheita": "Zaragatoa rectal c/ meio de transporte  adequado",
+    "material_colheita": "Zaragatoa rectal c/ meio de transporte  adequado  \n\n\n![](uploads/mrsa_small.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "2d",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
+    "tempo_resposta": "2 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "ZPCE",
     "observacoes": ""
   },
   {
