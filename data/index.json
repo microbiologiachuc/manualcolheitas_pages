@@ -635,11 +635,11 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Imunocromatográfico",
     "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "3d",
+    "tempo_resposta": "3 dias",
     "setor": "Microbiologia",
     "codigo_interno": "",
     "observacoes": ""
@@ -819,7 +819,7 @@
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºc",
-    "tempo_resposta": "até 72 horas",
+    "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Biópsia - KINGB\nLíquido sinovial - KINGLS\nLavado / Aspirado Broncoalveolar - KINGLBA\nSangue total - KINGST\nZaragatoa orofaringe - KINGU",
     "observacoes": ""
