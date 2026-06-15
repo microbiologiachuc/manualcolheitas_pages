@@ -620,13 +620,13 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Fezes",
-    "material_colheita": "Contentor estéril",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato / Temperatura ambiente",
     "tempo_resposta": "Até 1 semana",
     "setor": "Microbiologia",
-    "codigo_interno": "",
+    "codigo_interno": "CYER",
     "observacoes": ""
   },
   {
