@@ -9,7 +9,7 @@ material_colheita: |+
   ![](uploads/teste2.png)
 
 transporte_estabilidade: Envio imediato
-tempo_resposta: 3d
+tempo_resposta: 3 dias
 setor: L.MIC
 codigo_interno: EXU
 ---
