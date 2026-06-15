@@ -8,14 +8,12 @@ material_colheita: >+
   transporte vírico com inactivador  
 
 
-
   ![](uploads/teste2.png)
 
-    
 
-    
+
+
   Contentor estéril  
-
 
 
   ![](uploads/contentores_hp.png)
@@ -24,9 +22,9 @@ transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: até 72 horas
 setor: Microbiologia
 codigo_interno: |-
-  Exsudado vaginal - DSTZG
-  Exsudado retal - DSTZA
-  Urina - DSTU
+  Exsudado vaginal - DSTZG, 4990
+  Exsudado retal - DSTZA, 4990
+  Urina - DSTU, 4990
   Outros produtos - DSTO
 observacoes: "Microorganismos presentes no painel: Chlam. trachomatis, Myco.
   genitalium, Myco. hominis, Neiss. gonorrhoea, Trich. vaginalis, Ureapl.
