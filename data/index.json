@@ -935,13 +935,13 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Líquido de diálise  \nLíquido de diálise em frasco de hemocultura",
-    "material_colheita": "Contentor estéril  \n\n\n![](uploads/contentores_chuc.png)\n\nMeio de transporte anaeróbios\n\n![](uploads/portagermen_small.png)\n\nLíquido de diálise em frasco de hemocultura\n\n![](uploads/hemocult.png)",
+    "material_colheita": "Contentor estéril  \n\n![](uploads/contentores_chuc.png)\n\nMeio de transporte anaeróbios\n\n![](uploads/portagermen_small.png)\n\nLíquido de diálise em frasco de hemocultura\n\n![](uploads/hemocult.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "3 dias",
     "setor": "L.MIC",
-    "codigo_interno": "",
+    "codigo_interno": "LID",
     "observacoes": ""
   },
   {
