@@ -675,21 +675,6 @@
     "observacoes": ""
   },
   {
-    "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
-    "title": "Hidatidose (Ech. granulosus)",
-    "area": "Parasitologia",
-    "metodo": "IFI, Western Blot",
-    "amostra": "Soro",
-    "material_colheita": "Tubo c/ gel\n\n![](uploads/tuboteste.jpg)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "5d, 2-8ºC\n6m, -20ºC",
-    "tempo_resposta": "Até 1 mês",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": "Deteção de anticorpos IgG"
-  },
-  {
     "slug": "hiv-1-genotipagemresistencia-aos-antirretrovirais-1",
     "title": "HIV-1, Genotipagem/Resistência aos antirretrovirais",
     "area": "Virologia",
@@ -1288,6 +1273,21 @@
     "setor": "L.MIC",
     "codigo_interno": "DERMAT",
     "observacoes": "\"*Microrganismos pesquisados: Epidermophyton floccosum, Microsporum"
+  },
+  {
+    "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
+    "title": "Pesquisa de Echinococcus granulosus (Hidatidose)",
+    "area": "Parasitologia",
+    "metodo": "IFI, Western Blot",
+    "amostra": "Soro",
+    "material_colheita": "Tubo c/ gel\n\n![](uploads/tuboteste.jpg)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "5d, 2-8ºC\n6m, -20ºC",
+    "tempo_resposta": "Até 1 mês",
+    "setor": "Microbiologia",
+    "codigo_interno": "",
+    "observacoes": "Deteção de anticorpos IgG"
   },
   {
     "slug": "pesquisa-de-enterobacteriaceas-produtoras-de-carbapenemases",
