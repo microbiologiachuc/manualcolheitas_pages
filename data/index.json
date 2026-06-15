@@ -173,8 +173,8 @@
     "material_colheita": "LCR, Urina - Contentor estéril\n\n![](uploads/contentores_hp.png)\n\nSangue total - Tubo de EDTA (Tubo de hemograma)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "imediato/72 a 4ªC",
-    "tempo_resposta": "até 72 horas",
+    "transporte_estabilidade": "imediato / 72 horas a 4ªC",
+    "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "LCR - BORRLC\nUrina - BORRU\nSangue total - BORRST",
     "observacoes": ""
@@ -189,7 +189,7 @@
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
-    "tempo_resposta": "até 72 horas",
+    "tempo_resposta": "Até  72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Biópsia de gânglio - BRUCBG\nLíquido sinovial  - BRUCLS\nSangue total - BRUCST\nMedula óssea - BRUCMO",
     "observacoes": ""
