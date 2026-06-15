@@ -2,12 +2,19 @@
 title: Varicela Zoster (VZV), DNA qualitativo - LCR/Outros produtos
 area: Virologia
 metodo: PCR em tempo real
-amostra: |+
-  LCR/Outros produtos
+amostra: |-
+  LCR, Outros produtos  
+  Medula óssea
+material_colheita: |-
+  Contentor estéril
 
-material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/ 72H a 4ºC
+  ![](uploads/contentores_chuc.png)
+
+  Tubo hemograma
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
-codigo_interno: "4940"
+codigo_interno: |-
+  LCR, Outros produtos - 4940
+  Medula óssea - 4940M
 ---
