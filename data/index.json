@@ -140,13 +140,13 @@
     "area": "Micobacteriologia",
     "metodo": "Cultura",
     "amostra": "Fragmento de biópsia ganglionar",
-    "material_colheita": "Contentor estéril",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "Até 15 dias",
     "setor": "L.MIC",
-    "codigo_interno": "",
+    "codigo_interno": "MBGS",
     "observacoes": ""
   },
   {
