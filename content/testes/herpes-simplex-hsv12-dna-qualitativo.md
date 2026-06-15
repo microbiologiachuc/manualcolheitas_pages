@@ -1,5 +1,5 @@
 ---
-title: Vírus Herpes Simplex (HSV1/2), DNA qualitativo
+title: Vírus Herpes Simplex (HSV1/2), DNA qualitativo - medula
 area: Virologia
 metodo: PCR em tempo real
 amostra: Medula óssea
