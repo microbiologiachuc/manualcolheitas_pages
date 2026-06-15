@@ -16,12 +16,11 @@ material_colheita: |+
 
   Líquido pericárdico em frasco de hemocultura  
 
-
   ![](uploads/hemocult.png)
 
 transporte_estabilidade: Envio imediato
 tempo_resposta: 3 dias
 setor: L.MIC
 codigo_interno: |
-  LIPR, LIPRH
+  LIPR, LIPRA, LIPRH
 ---
