@@ -109,14 +109,14 @@
     "title": "Bílis - Aeróbios, anaeróbios e fungos leveduriformes",
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
-    "amostra": "Bílis",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\nMeio de transporte anaeróbios  \n\n\n![](uploads/portagermen_small.png)",
+    "amostra": "Bílis  \nBílis em frasco de hemocultura",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\nMeio de transporte anaeróbios  \n\n![](uploads/portagermen_small.png)\n\nBílis em frasco de hemocultura\n\n![](uploads/hemocult.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "Até 1 semana",
     "setor": "Microbiologia",
-    "codigo_interno": "BL, BLA",
+    "codigo_interno": "BL, BLA\nBLH",
     "observacoes": ""
   },
   {
