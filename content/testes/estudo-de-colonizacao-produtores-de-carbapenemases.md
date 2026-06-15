@@ -1,11 +1,10 @@
 ---
-title: Estudo de colonização; Produtores de carbapenemases
+title: Estudo de colonização - Produtores de carbapenemases
 area: Bacteriologia - Biologia Molecular
 metodo: PCR
 amostra: Fezes
 material_colheita: |+
   Zaragatoa rectal c/ meio de transporte  adequado  
-
 
   ![](uploads/mrsa_small.png)
 
