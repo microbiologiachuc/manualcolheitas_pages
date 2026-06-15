@@ -1560,6 +1560,21 @@
     "observacoes": "\"Microrganismos pesquisados: ·     *Cytomegalovirus, Haemophilus"
   },
   {
+    "slug": "urocultura-aerobios-fungos-leveduriformes",
+    "title": "Urocultura - Aeróbios, fungos leveduriformes",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Urina",
+    "material_colheita": "Tubo de urocultura\n\n![](uploads/urocultura_small.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "3 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "USV, UJM, USC",
+    "observacoes": ""
+  },
+  {
     "slug": "varicela-zoster-vzv-dna-carga-viral",
     "title": "Varicela Zoster (VZV), DNA Carga viral",
     "area": "Virologia",
