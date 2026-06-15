@@ -1,5 +1,5 @@
 ---
-title: Vírus Epstein Barr (EBV), DNA qualitativo - LCR, Outros produtos
+title: Vírus Epstein Barr (EBV), DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
 amostra: |-
