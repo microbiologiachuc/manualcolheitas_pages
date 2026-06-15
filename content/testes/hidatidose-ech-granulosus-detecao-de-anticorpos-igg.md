@@ -1,5 +1,5 @@
 ---
-title: Hidatidose (Ech. granulosus)
+title: Pesquisa de Echinococcus granulosus (Hidatidose)
 area: Parasitologia
 metodo: IFI, Western Blot
 amostra: Soro
