@@ -9,7 +9,7 @@ material_colheita: |+
   ![](uploads/hemocult.png)
 
 transporte_estabilidade: Envio imediato. Conservar a 37ºC ou temperatura ambiente.
-tempo_resposta: 5d
+tempo_resposta: 5 dias
 setor: L.MIC
 codigo_interno: HEV, HEV2, HEV3, HEC, HEC1, HEC2
 ---
