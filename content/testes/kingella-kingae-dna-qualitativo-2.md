@@ -16,7 +16,7 @@ material_colheita: |-
   Tubo de EDTA (tubo de hemograma)  
   Zaragatoa com meio de transporte vírico com inactivador
 transporte_estabilidade: Imediato / 72 horas a 4ºc
-tempo_resposta: até 72 horas
+tempo_resposta: Até 72 horas
 setor: L.MIC
 codigo_interno: |-
   Biópsia - KINGB
