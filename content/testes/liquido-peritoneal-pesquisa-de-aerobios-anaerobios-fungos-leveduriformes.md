@@ -16,7 +16,6 @@ material_colheita: |+
 
   Líquido peritoneal em frasco de hemocultura  
 
-
   ![](uploads/hemocult.png)
 
 transporte_estabilidade: |-
@@ -25,4 +24,5 @@ transporte_estabilidade: |-
   <24h, 2-4ºC (até envio)
 tempo_resposta: 3 dias
 setor: L.MIC
+codigo_interno: LIA, LIAH
 ---
