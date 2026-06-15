@@ -1,5 +1,5 @@
 ---
-title: Fasciolose
+title: Pesquisa de Fasciola spp
 area: Parasitologia
 metodo: Hemaglutinação indireta; Western Blot
 amostra: Soro
