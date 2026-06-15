@@ -1285,8 +1285,8 @@
     "indicacao": "",
     "transporte_estabilidade": "5d, 2-8ºC\n6m, -20ºC",
     "tempo_resposta": "Até 1 mês",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
+    "setor": "L.MIC",
+    "codigo_interno": "PSQH",
     "observacoes": "Deteção de anticorpos IgG"
   },
   {
