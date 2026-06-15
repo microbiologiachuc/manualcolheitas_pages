@@ -881,7 +881,7 @@
     "transporte_estabilidade": "5 dias, 2-8ºC  \n6 meses, -20ºC",
     "tempo_resposta": "Até 1 mês",
     "setor": "Microbiologia",
-    "codigo_interno": "",
+    "codigo_interno": "PSL",
     "observacoes": "Deteção de anticorpos IgG"
   },
   {
@@ -1361,7 +1361,7 @@
     "transporte_estabilidade": "3h, ambiente",
     "tempo_resposta": "< 5 dias",
     "setor": "L.MIC",
-    "codigo_interno": "",
+    "codigo_interno": "PFIL",
     "observacoes": ""
   },
   {
