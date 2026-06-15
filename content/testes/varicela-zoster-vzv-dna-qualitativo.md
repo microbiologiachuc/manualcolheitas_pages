@@ -1,5 +1,5 @@
 ---
-title: Varicela Zoster (VZV), DNA qualitativo - LCR/Outros produtos
+title: Varicela Zoster (VZV), DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
 amostra: |-
