@@ -540,21 +540,6 @@
     "observacoes": ""
   },
   {
-    "slug": "fasciolose-detecao-ac-igg",
-    "title": "Fasciolose",
-    "area": "Parasitologia",
-    "metodo": "Hemaglutinação indireta; Western Blot",
-    "amostra": "Soro",
-    "material_colheita": "Tubo c/ gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "3d, 2-8 ºC\n1m, -20ºC",
-    "tempo_resposta": "Até 1 mês",
-    "setor": "L.MIC",
-    "codigo_interno": "PSF",
-    "observacoes": ""
-  },
-  {
     "slug": "giardia-detecao-de-antigenio",
     "title": "Fezes",
     "area": "Parasitologia",
@@ -1317,6 +1302,21 @@
     "tempo_resposta": "Até 4h",
     "setor": "L.MIC",
     "codigo_interno": "ZPCE",
+    "observacoes": ""
+  },
+  {
+    "slug": "fasciolose-detecao-ac-igg",
+    "title": "Pesquisa de Fasciola spp",
+    "area": "Parasitologia",
+    "metodo": "Hemaglutinação indireta; Western Blot",
+    "amostra": "Soro",
+    "material_colheita": "Tubo c/ gel",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "3d, 2-8 ºC\n1m, -20ºC",
+    "tempo_resposta": "Até 1 mês",
+    "setor": "L.MIC",
+    "codigo_interno": "PSF",
     "observacoes": ""
   },
   {
