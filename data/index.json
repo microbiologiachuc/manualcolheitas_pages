@@ -1415,13 +1415,13 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Placenta",
-    "material_colheita": "Contentor estéril",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "3 dias",
     "setor": "L.MIC",
-    "codigo_interno": "",
+    "codigo_interno": "PL. PLA",
     "observacoes": ""
   },
   {
