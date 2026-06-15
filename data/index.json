@@ -335,13 +335,13 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Fezes",
-    "material_colheita": "Zaragatoa rectal",
+    "material_colheita": "Zaragatoa rectal\n\n![](uploads/mrsa_small.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "2 dias",
     "setor": "L.MIC",
-    "codigo_interno": "",
+    "codigo_interno": "CESBL",
     "observacoes": ""
   },
   {
