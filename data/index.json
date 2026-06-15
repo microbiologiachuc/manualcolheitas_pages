@@ -890,11 +890,11 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Biópsia da pele  \nSangue total, Medula óssea  \nZaragatoa de lesão",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\n  \nTubo de EDTA (Tubo de hemograma)  \nZaragatoa com meio de transporte vírico com inactivador",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\nTubo de EDTA (Tubo de hemograma)  \nZaragatoa com meio de transporte vírico com inactivador",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
-    "tempo_resposta": "até 72 horas",
+    "tempo_resposta": "Até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "Biópsia da pele - LEISHBP\nSangue total - LEISHST\nMedula óssea - LEISHMO\nZaragatoa de lesão - LEISHZL",
     "observacoes": ""
@@ -924,7 +924,7 @@
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
-    "tempo_resposta": "até 72 horas",
+    "tempo_resposta": "Até 72 horas",
     "setor": "Microbiologia",
     "codigo_interno": "LCR - LEPTLCR\nUrina - LEPTU\nSangue total - LEPTST",
     "observacoes": ""
