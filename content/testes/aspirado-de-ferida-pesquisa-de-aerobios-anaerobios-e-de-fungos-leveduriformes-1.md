@@ -8,6 +8,10 @@ material_colheita: |+
 
   ![](uploads/contentores_chuc.png)
 
+  Meio de transporte anaeróbios
+
+  ![](uploads/portagermen_small.png)
+
 transporte_estabilidade: Envio imediato
 tempo_resposta: 3 dias
 setor: L.MIC
