@@ -189,7 +189,7 @@
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
-    "tempo_resposta": "Até  72 horas",
+    "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Biópsia de gânglio - BRUCBG\nLíquido sinovial  - BRUCLS\nSangue total - BRUCST\nMedula óssea - BRUCMO",
     "observacoes": ""
@@ -264,7 +264,7 @@
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
-    "tempo_resposta": "até 72 horas",
+    "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Biópsia cutânea - TICKBC\nLCR - TICKLCR\nLíquido sinovial - TICKLS\nOutras amostras - TICKO\nSangue total - TICK",
     "observacoes": "Rickettsia sp., Babesia microti, Babesia divergens, Ehrlichia chafeensis,\nEhrlichia muris, Borrelia burgdorferi sensu lato, Borrelia miyamotoi, Borrelia\nhermsii, Anaplasma phagocitophylum e Coxiella burnetii"
