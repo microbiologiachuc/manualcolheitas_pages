@@ -13,7 +13,7 @@ material_colheita: |-
   Qualquer amostra ocular - Tubo solicitado ao Laboratório de microbiologia  
   Sangue total - Tubo de EDTA (tubo de hemograma)
 transporte_estabilidade: Imediato / 72 horas a 4ºC
-tempo_resposta: até 72 horas
+tempo_resposta: Até  72 horas
 setor: L.MIC
 codigo_interno: |-
   Biópsia - BARTB
