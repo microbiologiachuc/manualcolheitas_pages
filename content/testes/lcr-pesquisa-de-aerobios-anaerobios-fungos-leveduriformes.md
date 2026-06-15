@@ -11,4 +11,5 @@ material_colheita: |+
 transporte_estabilidade: Envio imediato
 tempo_resposta: Até 1 semana
 setor: L.MIC
+codigo_interno: LCR
 ---
