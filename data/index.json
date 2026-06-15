@@ -331,17 +331,17 @@
   },
   {
     "slug": "enterovirus-rna-qualitativo",
-    "title": "Enterovirus, RNA qualitativo - LCR, Secreções respiratórias, Outros produtos",
+    "title": "Enterovirus, RNA qualitativo",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
-    "amostra": "LCR, Secreções respiratórias, Outros produtos",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_hp.png)",
+    "amostra": "LCR, Secreções respiratórias, Outros produtos  \nPlasma",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_hp.png)\n\nTubo de EDTA com gel",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
-    "tempo_resposta": "até 96 horas",
+    "tempo_resposta": "Até 96 horas",
     "setor": "L.MIC",
-    "codigo_interno": "LCR - 4908\nSecreções respiratórias, Outros produtos - 4909",
+    "codigo_interno": "LCR - 4908\nSecreções respiratórias, Outros produtos - 4909\nPlasma - 4907",
     "observacoes": ""
   },
   {
