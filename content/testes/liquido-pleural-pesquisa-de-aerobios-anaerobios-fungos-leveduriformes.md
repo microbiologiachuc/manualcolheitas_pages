@@ -10,7 +10,6 @@ material_colheita: |+
 
   ![](uploads/contentores_chuc.png)
 
-    
   Meio de transporte anaeróbios
 
   ![](uploads/portagermen_small.png)
@@ -22,4 +21,5 @@ material_colheita: |+
 transporte_estabilidade: Envio imediato
 tempo_resposta: 3 dias
 setor: L.MIC
+codigo_interno: LPL, LPLA, LPLH
 ---
