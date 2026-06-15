@@ -1474,14 +1474,14 @@
     "title": "Pús de abcesso - Aeróbios, anaeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
-    "amostra": "Pus de abcesso",
-    "material_colheita": "Contentor estéril\nMeio para anaeróbios\n\n![](uploads/portagermen.png)",
+    "amostra": "Pús de abcesso",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\n  \nMeio para anaeróbios\n\n![](uploads/portagermen_small.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "3 dias",
     "setor": "L.MIC",
-    "codigo_interno": "PU",
+    "codigo_interno": "PU, PUAN",
     "observacoes": ""
   },
   {
