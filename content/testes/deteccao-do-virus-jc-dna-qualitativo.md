@@ -5,9 +5,14 @@ metodo: PCR em tempo real
 amostra: |+
   Outros produtos 
 
-material_colheita: Contentor estéril
-transporte_estabilidade: Imediato/ 72H a 4ºC
-tempo_resposta: até 96H
-setor: Microbiologia
+material_colheita: |+
+  Contentor estéril  
+
+
+  ![](uploads/contentores_chuc.png)
+
+transporte_estabilidade: Imediato / 72 horas a 4ºC
+tempo_resposta: Até 96 horas
+setor: L.MIC
 codigo_interno: JCN-O
 ---
