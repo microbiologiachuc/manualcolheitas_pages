@@ -24,5 +24,5 @@ transporte_estabilidade: |-
   <24h, 2-4ºC (até envio)
 tempo_resposta: 3 dias
 setor: L.MIC
-codigo_interno: LIA, LIAH
+codigo_interno: LIA, LIAH. LIAA
 ---
