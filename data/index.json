@@ -1380,6 +1380,21 @@
     "observacoes": ""
   },
   {
+    "slug": "lavado-bronco-alveolar-pesquisa-de-pneumocystis-jirovecci",
+    "title": "Pesquisa de Pneumocystis jirovecci",
+    "area": "Parasitologia",
+    "metodo": "IFI",
+    "amostra": "Lavado bronco-alveolar",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "Microbiologia",
+    "codigo_interno": "PPPCA, PPPC",
+    "observacoes": ""
+  },
+  {
     "slug": "pesquisa-de-mrsa-staphylococcus-aureus-resistente-a-meticilina",
     "title": "Pesquisa de Staphylococcus aureus resistente à meticilina (MRSA)",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1422,21 +1437,6 @@
     "tempo_resposta": "3 dias",
     "setor": "L.MIC",
     "codigo_interno": "PL. PLA",
-    "observacoes": ""
-  },
-  {
-    "slug": "lavado-bronco-alveolar-pesquisa-de-pneumocystis-jirovecci",
-    "title": "Pneumocystis jirovecci",
-    "area": "Parasitologia",
-    "metodo": "IFI",
-    "amostra": "Lavado bronco-alveolar",
-    "material_colheita": "Contentor estéril",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
     "observacoes": ""
   },
   {
