@@ -1,5 +1,5 @@
 ---
-title: "Vírus JC, DNA qualitativo - Outros produtos "
+title: Vírus JC, DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
 amostra: |+
@@ -7,7 +7,6 @@ amostra: |+
 
 material_colheita: |+
   Contentor estéril  
-
 
   ![](uploads/contentores_chuc.png)
 
