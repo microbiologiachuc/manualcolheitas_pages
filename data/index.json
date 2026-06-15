@@ -1831,17 +1831,17 @@
   },
   {
     "slug": "herpes-simplex-hsv12-dna-qualitativo-1",
-    "title": "Vírus Herpes Simplex (HSV1/2), DNA qualitativo - LCR",
+    "title": "Vírus Herpes Simplex (HSV1/2), DNA qualitativo",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
-    "amostra": "LCR",
-    "material_colheita": "Contentor estéril",
+    "amostra": "LCR, Outros produtos  \nZaragatoa de lesão  \nMedula óssea",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_hp.png)\n\nZaragatoa com meio de transporte vírico com inactivador / Contentor estéril  \nTubo de EDTA (tubo hemograma)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato/72H a 4ºC",
-    "tempo_resposta": "Até 96H",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "Até 96 horas",
     "setor": "L.MIC",
-    "codigo_interno": "4916",
+    "codigo_interno": "LCR - 4916\nOutros produtos - 4930\nZaragatoa de lesão - 4930\nMedula óssea - 4916M",
     "observacoes": ""
   },
   {
