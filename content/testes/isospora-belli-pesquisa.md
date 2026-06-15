@@ -13,5 +13,5 @@ tempo_resposta: Até 1 semana
 setor: L.MIC
 codigo_interno: PIB
 observacoes: Cistoisosporíase - doença causada por Cystoisospora belli,
-  antigamente denominada Isospora belli
+  anteriormente denominada Isospora belli
 ---
