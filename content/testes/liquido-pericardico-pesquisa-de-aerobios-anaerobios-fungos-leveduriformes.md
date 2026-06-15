@@ -2,7 +2,9 @@
 title: Líquido pericárdico - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
-amostra: Líquido pericárdico
+amostra: |-
+  Líquido pericárdico  
+  Líquido pericárdico em frasco de hemocultura
 material_colheita: |+
   Contentor estéril
 
@@ -12,7 +14,14 @@ material_colheita: |+
 
   ![](uploads/portagermen_small.png)
 
+  Líquido pericárdico em frasco de hemocultura  
+
+
+  ![](uploads/hemocult.png)
+
 transporte_estabilidade: Envio imediato
 tempo_resposta: 3 dias
 setor: L.MIC
+codigo_interno: |
+  LIPR, LIPRH
 ---
