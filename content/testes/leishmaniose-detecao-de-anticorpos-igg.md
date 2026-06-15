@@ -9,5 +9,6 @@ transporte_estabilidade: |-
   6 meses, -20ºC
 tempo_resposta: Até 1 mês
 setor: Microbiologia
+codigo_interno: PSL
 observacoes: Deteção de anticorpos IgG
 ---
