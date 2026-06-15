@@ -1,10 +1,17 @@
 ---
-title: Pesquisa de Isospora belli
+title: Pesquisa de Isospora belli (Cistoisosporíase)
 area: Parasitologia
 metodo: Microscopia óptica
 amostra: Fezes
-material_colheita: Contentor estéril
+material_colheita: |+
+  Contentor estéril+
+
+  ![](uploads/contentores_chuc.png)
+
 transporte_estabilidade: 3h, ambiente
 tempo_resposta: Até 1 semana
 setor: L.MIC
+codigo_interno: PIB
+observacoes: Cistoisosporíase - doença causada por Cystoisospora belli,
+  antigamente denominada Isospora belli
 ---
