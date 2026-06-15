@@ -11,6 +11,7 @@ material_colheita: |+
 transporte_estabilidade: Envio até 3 horas após colheita / manter a temperatura ambiente
 tempo_resposta: Até 1 semana
 setor: L.MIC
+codigo_interno: PEF, PEF2, PEF3
 observacoes: |-
   Helmintas e Protozoários: pesquisa por microscopia  
   Amebiase, Cisticercose, Echinococcus granulosus: pesquisa de anticorpos IgG  
