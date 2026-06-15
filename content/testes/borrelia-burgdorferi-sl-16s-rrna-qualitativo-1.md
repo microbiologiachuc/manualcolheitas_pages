@@ -11,8 +11,8 @@ material_colheita: |-
   ![](uploads/contentores_hp.png)
 
   Sangue total - Tubo de EDTA (Tubo de hemograma)
-transporte_estabilidade: imediato/72 a 4ªC
-tempo_resposta: até 72 horas
+transporte_estabilidade: imediato / 72 horas a 4ªC
+tempo_resposta: Até  72 horas
 setor: L.MIC
 codigo_interno: |-
   LCR - BORRLC
