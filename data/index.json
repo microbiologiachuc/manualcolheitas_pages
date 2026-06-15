@@ -1861,17 +1861,17 @@
   },
   {
     "slug": "monkeypox-virus-vmpx-dna-qualitativo-3",
-    "title": "Vírus Monkeypox (VMPX), DNA Qualitativo - Biópsia",
+    "title": "Vírus Monkeypox (VMPX), DNA Qualitativo",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
-    "amostra": "Biópsia",
-    "material_colheita": "Contentor estéril",
+    "amostra": "Biópsia, Outros produtos  \nZaragatoa lesão / Outros produtos  \nZaragatoa orofaringe",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\nZaragatoa com meio de transporte vírico com inactivador / contentor estéril  \nZaragatoa com meio de transporte vírico com inactivador",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato/72h a 4ºC",
+    "transporte_estabilidade": "Imediato / 72 horas a 4º C",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
-    "codigo_interno": "VMPXB",
+    "codigo_interno": "Biópsia - VMPXB\nOutros produtos - VMPXOUT\nZaragatoa lesão - VMPX\nZaragatoa orofaringe - VMPXO",
     "observacoes": ""
   },
   {
