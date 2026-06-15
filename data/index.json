@@ -1575,6 +1575,21 @@
     "observacoes": ""
   },
   {
+    "slug": "ulceras-genitais-hducreyilvenereumcmvhsv12vzvtpallidum-2",
+    "title": "Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum)",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Urina\n\n![](uploads/contentores_chuc.png)\n\n  \nExsudado oral, Zaragatoa rectal, Zaragatoa Vaginal",
+    "material_colheita": "Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa com meio de\ntransporte vírico com inactivador",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "Até 72 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "Urina - ULGEU\nExsudado oral - ULGEEO\nZaragatoa rectal - ULGEER\nZaragatoa Vaginal - ULGEEA",
+    "observacoes": "\"Microrganismos pesquisados: ·     *Cytomegalovirus, Haemophilus"
+  },
+  {
     "slug": "ulceras-genitais-hducreyilvenereumcmvhsv12vzvtpallidum-1",
     "title": "Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum) -",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1587,21 +1602,6 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "ULGEER",
-    "observacoes": "\"Microrganismos pesquisados: ·     *Cytomegalovirus, Haemophilus"
-  },
-  {
-    "slug": "ulceras-genitais-hducreyilvenereumcmvhsv12vzvtpallidum-2",
-    "title": "Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum) -",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Exsudado oral",
-    "material_colheita": "|2+",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato/ 72H a 4ºC",
-    "tempo_resposta": "Até 72 horas",
-    "setor": "L.MIC",
-    "codigo_interno": "ULGEEO",
     "observacoes": "\"Microrganismos pesquisados: ·     *Cytomegalovirus, Haemophilus"
   },
   {
