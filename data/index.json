@@ -935,11 +935,11 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Líquido de diálise",
-    "material_colheita": "Contentor estéril,  Meio de transporte anaeróbios",
+    "material_colheita": "Contentor estéril  \n\n\n![](uploads/contentores_chuc.png)\n\nMeio de transporte anaeróbios\n\n![](uploads/portagermen_small.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "3d",
+    "tempo_resposta": "3 dias",
     "setor": "L.MIC",
     "codigo_interno": "",
     "observacoes": ""
