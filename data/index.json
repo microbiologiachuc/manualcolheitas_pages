@@ -803,8 +803,8 @@
     "material_colheita": "Zaragatoa com meio de transporte vírico, com inactivador",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato, 72H a 4ºC",
-    "tempo_resposta": "Até 4h",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "Até 4 horas",
     "setor": "L.MIC",
     "codigo_interno": "COVFLU/COV19",
     "observacoes": ""
