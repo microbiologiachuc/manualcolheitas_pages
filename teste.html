@@ -233,14 +233,86 @@
       flex-direction: column;
       gap: 6px;
     }
-    @media (max-width: 920px) {
-      .layout { grid-template-columns: 1fr; }
-      .side-card { position: static; }
+
+    /* ── BOTÃO HAMBURGER (escondido em desktop) ── */
+    .nav-toggle {
+      display: none;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: var(--primary-dark);
     }
+
+    /* ── TABLET ── */
+    @media (max-width: 920px) {
+      .layout           { grid-template-columns: 1fr; }
+      .side-card        { position: static; }
+    }
+
+    /* ── MOBILE ── */
     @media (max-width: 720px) {
-      .site-header-inner { align-items: flex-start; flex-direction: column; }
-      .main-nav { width: 100%; justify-content: flex-start; }
-      .test-title { font-size: 1.65rem; }
+
+      /* HEADER */
+      .site-header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      /* NAV → hamburger */
+      .nav-toggle         { display: block; }
+      .main-nav           {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        gap: 6px;
+        padding-top: 10px;
+      }
+      .main-nav.open       { display: flex; }
+      .main-nav a,
+      .editor-link          {
+        width: 100%;
+        padding: 12px 14px;
+        text-align: left;
+      }
+
+      /* PAGE HERO */
+      .page-hero          { padding: 24px 0 16px; }
+      .test-title         { font-size: 1.6rem; }
+
+      /* CARDS */
+      .main-card,
+      .nav-card,
+      .message-card       { padding: 16px; }
+      .side-card          { padding: 14px; }
+
+      /* TECH LIST */
+      .tech-list li       { padding: 10px; }
+
+      /* SECTION BLOCKS */
+      .section-block + .section-block {
+        margin-top: 20px;
+        padding-top: 18px;
+      }
+      .section-heading    { font-size: 1.1rem; }
+
+      /* NAV LINKS (botões secundários) */
+      .nav-links          { flex-direction: column; }
+      .btn-secondary      { width: 100%; text-align: center; }
+
+      /* TIPOGRAFIA & TOUCH */
+      a, button           { min-height: 44px; }
+
+      /* FOOTER */
+      .footer-inner       { flex-direction: column; gap: 14px; }
+    }
+
+    /* ── MOBILE PEQUENO ── */
+    @media (max-width: 400px) {
+      .container          { padding: 0 12px; }
+      .test-title         { font-size: 1.4rem; }
     }
   </style>
 </head>
@@ -255,6 +327,9 @@
           <p class="brand-subtitle">Serviço de Patologia Clínica, ULS de Coimbra</p>
         </div>
       </a>
+
+      <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">&#9776;</button>
+
       <nav class="main-nav" aria-label="Navegação principal">
         <a href="index.html">Início</a>
         <a href="catalogo.html">Catálogo de Testes</a>
@@ -317,6 +392,18 @@
     </div>
   </footer>
 -->
+
+  <!-- Menu hamburger toggle -->
+  <script>
+    const toggle = document.querySelector('.nav-toggle');
+    const nav    = document.querySelector('.main-nav');
+    toggle.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', open);
+      toggle.textContent = open ? '\u2715' : '\u2630';
+    });
+  </script>
+
   <script>
     const TESTS_JSON_URL = "data/index.json";
 
@@ -519,7 +606,7 @@
     async function loadTest() {
       const slug = getSlugFromUrl().trim();
       if (!slug) {
-        showError('Falta o parâmetro “slug” no URL. Exemplo: /teste.html?slug=hemograma');
+        showError('Falta o parâmetro "slug" no URL. Exemplo: /teste.html?slug=hemograma');
         return;
       }
 
