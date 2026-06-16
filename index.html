@@ -99,29 +99,23 @@
     }
     .editor-link:hover { background: var(--primary-dark); text-decoration: none; }
 
-   /* .page-hero { */
-   /*   padding: 36px 0 22px; */
-   /*   background: linear-gradient(180deg, #eef4fa 0%, var(--bg) 100%); */
-   /*   border-bottom: 1px solid var(--border); */
-   /* } */
-
     .section {
       padding: 26px 0 10px;
     }
-    
+
     .section-title {
       margin: 0 0 8px;
       color: var(--primary-dark);
       font-size: 1.5rem;
       line-height: 1.2;
     }
-    
+
     .section-subtitle {
       margin: 0 0 18px;
       color: var(--muted);
       max-width: 70ch;
     }
-    
+
     .hero {
       padding: 48px 0;
       min-height: 60vh;
@@ -131,7 +125,7 @@
       display: flex;
       align-items: center;
     }
-    
+
     .hero-grid {
       display: grid;
       grid-template-columns: 1.3fr 1fr;
@@ -139,28 +133,23 @@
       align-items: center;
       width: 100%;
     }
-    
+
     .hero h1 {
       margin: 0 0 14px;
       font-size: 3rem;
       line-height: 1.2;
       color: #FFFFFF;
-      /* color: var(--primary-dark); */
     }
-    
+
     .hero p {
-      /* margin: 0 0 18px; */
-      /* color: var(--muted); */
-      /* font-size: 1.02rem; */
-      /* max-width: 62ch; */
       margin: 0 0 18px;
       font-size: 1.02rem;
       max-width: 62ch;
       color: white;
       opacity: 0.9;
       text-shadow: 0 1px 4px rgba(0,0,0,0.4);
-     }
-    
+    }
+
     .hero-card {
       background: var(--white);
       border: 1px solid var(--border);
@@ -168,19 +157,19 @@
       box-shadow: var(--shadow);
       padding: 22px;
     }
-    
+
     .hero-card h2 {
       margin: 0 0 10px;
       font-size: 1.1rem;
       color: var(--primary-dark);
     }
-    
+
     .hero-card ul {
       margin: 0;
       padding-left: 18px;
       color: var(--muted);
-    } 
-    
+    }
+
     .breadcrumbs {
       margin-bottom: 12px;
       font-size: 0.95rem;
@@ -194,12 +183,6 @@
       border: 1px solid var(--border);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
-      padding: 24px; 
-    }
-
-    .search-card,
-    .featured-card,
-    .az-card {
       padding: 24px;
     }
 
@@ -208,21 +191,16 @@
       grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 20px;
     }
-    
-<!--
-    .info-card {
-      padding: 22px;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
--->
-    
+
     .info-card {
       background: var(--white);
       border: 1px solid var(--border);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
+      padding: 22px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
     }
 
     .info-card h3 {
@@ -239,7 +217,7 @@
       font-weight: 700;
       color: var(--primary);
     }
-    
+
     .breadcrumbs a { color: var(--primary); }
     .page-title {
       margin: 0 0 10px;
@@ -457,14 +435,92 @@
       flex-direction: column;
       gap: 6px;
     }
-    @media (max-width: 900px) {
-      .test-list { grid-template-columns: 1fr; }
+
+    /* ── BOTÃO HAMBURGER (escondido em desktop) ── */
+    .nav-toggle {
+      display: none;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: var(--primary-dark);
     }
+
+    /* ── TABLET ── */
+    @media (max-width: 900px) {
+      .test-list    { grid-template-columns: 1fr; }
+      .cards-grid   { grid-template-columns: 1fr 1fr; }
+      .az-grid      { grid-template-columns: repeat(9, minmax(0,1fr)); }
+
+      .hero-grid {
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+    }
+
+    /* ── MOBILE ── */
     @media (max-width: 720px) {
-      .site-header-inner { align-items: flex-start; flex-direction: column; }
-      .main-nav { width: 100%; justify-content: flex-start; }
-      .page-title { font-size: 1.6rem; }
-      .search-form { flex-direction: column; }
+
+      /* HEADER */
+      .site-header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      /* NAV → hamburger */
+      .nav-toggle         { display: block; }
+      .main-nav           {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        gap: 6px;
+        padding-top: 10px;
+      }
+      .main-nav.open       { display: flex; }
+      .main-nav a,
+      .editor-link          {
+        width: 100%;
+        padding: 12px 14px;
+        text-align: left;
+      }
+
+      /* HERO */
+      .hero               { min-height: 40vh; padding: 28px 0; }
+      .hero h1            { font-size: 1.8rem; }
+      .hero p             { font-size: 0.95rem; }
+      .hero-grid          { grid-template-columns: 1fr; gap: 18px; }
+
+      /* PESQUISA */
+      .search-form        { flex-direction: column; }
+      .search-form input[type="search"] {
+        flex: 1 1 auto;
+        min-width: 0;
+        width: 100%;
+      }
+
+      /* A–Z  →  7 colunas */
+      .az-grid            { grid-template-columns: repeat(7, minmax(0,1fr)); gap: 8px; }
+      .pill, .az-link     { min-width: 36px; padding: 10px 6px; font-size: 0.9rem; }
+
+      /* CARDS → 1 coluna */
+      .cards-grid         { grid-template-columns: 1fr; }
+
+      /* TIPOGRAFIA & TOUCH */
+      .page-title         { font-size: 1.6rem; }
+      .section-title      { font-size: 1.25rem; }
+      a, button           { min-height: 44px; }
+
+      /* FOOTER */
+      .footer-inner       { flex-direction: column; gap: 14px; }
+    }
+
+    /* ── MOBILE PEQUENO ── */
+    @media (max-width: 400px) {
+      .az-grid            { grid-template-columns: repeat(5, minmax(0,1fr)); }
+      .hero h1            { font-size: 1.5rem; }
+      .container          { padding: 0 12px; }
     }
   </style>
 </head>
@@ -479,7 +535,9 @@
           <p class="brand-subtitle">Serviço de Patologia Clínica, ULS de Coimbra</p>
         </div>
       </a>
-  
+
+      <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">&#9776;</button>
+
       <nav class="main-nav">
         <a href="index.html">Início</a>
         <a href="catalogo.html">Catálogo de Testes</a>
@@ -495,7 +553,6 @@
     <div>
       <h1>Microbiologia CHUC</h1>
       <p>Melhor informação microbiológica, melhores cuidados de saúde</p>
-      
     </div>
   </div>
 </section>
@@ -503,7 +560,7 @@
 <main>
  <div>
  </div>
-  
+
   <section class="section">
     <div class="container">
       <div class="search-card">
@@ -511,72 +568,58 @@
         <p class="section-subtitle">
           Introduza o nome do Teste ou escolha uma Área Laboratorial
         </p>
-        
+
         <form class="search-form" action="catalogo.html">
           <input type="search" name="q" placeholder="Pesquisar teste (ex: hemocultura, ALT,...)" />
           <button>Pesquisar</button>
         </form>
-  
+
         <div class="area-filters" id="areaFilters"></div>
-     </div>  
+     </div>
   </section>
 
   <section class="section">
         <div class="container">
-          <div class="search-card">    
+          <div class="search-card">
             <!-- abaixo dos botões de área -->
             <div>
                 <h2 class="section-title" id="titulo-az">Navegue de A–Z</h2>
                   <p class="section-subtitle">Explore o Manual de Colheitas por ordem alfabética</p>
               <div class="az-grid" id="azNav"></div>
             </div>
-          </div> 
-        </div> 
-  <!--        
+          </div>
+        </div>
+  <!--
         <div id="resultsContainer" class="loading-state">A carregar testes...</div>
         <div id="catalogError" class="error-box" style="display:none;"></div>
-  -->      
+  -->
     </div>
   </section>
 
 <section class="section">
   <div class="container">
     <h2 class="section-title">Informação institucional</h2>
-  
+
     <div class="cards-grid" id="pagesGrid">
-  /*  <div class="card"> */
         <article class="info-card">
         <h3>Sobre o serviço</h3>
         <a href="pagina.html?slug=sobre">Ler</a>
         </article>
-  /*  </div> */
 
-  /*  <div class="card"> */
         <article class="info-card">
         <h3>Informações a utentes</h3>
         <a href="pagina.html?slug=utentes">Ler</a>
-        </article>  
-  /*   </div> */
+        </article>
 
-  /*   <div class="card"> */
         <article class="info-card">
         <h3>Contactos</h3>
         <a href="pagina.html?slug=contactos">Ler</a>
         </article>
-  /*   </div> */
 
   </div>
 </section>
 
 </main>
-
-<!--
-<footer class="site-footer">
-  <div class="container">
-    <p>Manual de Colheitas — ULS Coimbra</p>
-  </div>
-</footer>
--->
 
   <footer class="site-footer">
     <div class="container footer-inner">
@@ -586,9 +629,20 @@
       </div>
     </div>
   </footer>
-  
+
+  <!-- Menu hamburger toggle -->
+  <script>
+    const toggle = document.querySelector('.nav-toggle');
+    const nav    = document.querySelector('.main-nav');
+    toggle.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', open);
+      toggle.textContent = open ? '\u2715' : '\u2630';
+    });
+  </script>
+
   <script src="js/catalogo.js"></script>
- 
+
   <script>
   async function loadPages() {
     try {
@@ -623,7 +677,7 @@
   }
 
   loadPages();
-  
-  </script> 
+
+  </script>
 </body>
 </html>
