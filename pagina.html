@@ -292,20 +292,67 @@
       gap: 6px;
     }
 
+    /* ── BOTÃO HAMBURGER (escondido em desktop) ── */
+    .nav-toggle {
+      display: none;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: var(--primary-dark);
+    }
+
+    /* ── MOBILE ── */
     @media (max-width: 720px) {
+
+      /* HEADER */
       .site-header-inner {
-        align-items: flex-start;
         flex-direction: column;
+        align-items: flex-start;
       }
 
-      .main-nav {
+      /* NAV → hamburger */
+      .nav-toggle         { display: block; }
+      .main-nav           {
+        display: none;
         width: 100%;
-        justify-content: flex-start;
+        flex-direction: column;
+        gap: 6px;
+        padding-top: 10px;
+      }
+      .main-nav.open       { display: flex; }
+      .main-nav a,
+      .editor-link          {
+        width: 100%;
+        padding: 12px 14px;
+        text-align: left;
       }
 
-      .page-title {
-        font-size: 1.65rem;
-      }
+      /* PAGE HERO */
+      .page-hero          { padding: 24px 0 16px; }
+      .page-title         { font-size: 1.6rem; }
+
+      /* CONTENT CARDS */
+      .content-card,
+      .message-card,
+      .nav-card           { padding: 16px; }
+
+      /* NAV LINKS (botões secundários) */
+      .nav-links          { flex-direction: column; }
+      .btn-secondary      { width: 100%; text-align: center; }
+
+      /* TIPOGRAFIA & TOUCH */
+      a, button           { min-height: 44px; }
+
+      /* FOOTER */
+      .footer-inner       { flex-direction: column; gap: 14px; }
+    }
+
+    /* ── MOBILE PEQUENO ── */
+    @media (max-width: 400px) {
+      .container          { padding: 0 12px; }
     }
   </style>
 </head>
@@ -320,6 +367,8 @@
           <p class="brand-subtitle">Serviço de Patologia Clínica, ULS de Coimbra</p>
         </div>
       </a>
+
+      <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">&#9776;</button>
 
       <nav class="main-nav" aria-label="Navegação principal">
         <a href="index.html">Início</a>
@@ -359,6 +408,7 @@
         <h3 class="footer-title">Microbiologia</h3>
         <p class="footer-text">Serviço de Patologia Clínica, ULS de Coimbra</p>
       </div>
+    </div>
   </footer>
 
   
@@ -381,6 +431,17 @@
     </div>
   </footer>
 -->
+
+  <!-- Menu hamburger toggle -->
+  <script>
+    const toggle = document.querySelector('.nav-toggle');
+    const nav    = document.querySelector('.main-nav');
+    toggle.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', open);
+      toggle.textContent = open ? '\u2715' : '\u2630';
+    });
+  </script>
       
   <script>
     function getSlugFromUrl() {
@@ -597,7 +658,7 @@
     const slug = getSlugFromUrl();
 
     if (!slug) {
-      showError('Falta o parâmetro “slug” no URL. Exemplo: /pagina.html?slug=sobre');
+      showError('Falta o parâmetro "slug" no URL. Exemplo: /pagina.html?slug=sobre');
       return;
     }
 
