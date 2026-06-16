@@ -378,15 +378,15 @@
         <p class="footer-text">Serviço de Patologia Clínica, ULS de Coimbra</p>
       </div>
       <div class="footer-block footer-links">
-        <a href="/">Início</a>
-        <a href="/catalogo.html">Catálogo de Testes</a>
-        <a href="/pagina.html?slug=utentes">Informações</a>
-        <a href="/pagina.html?slug=contactos">Contactos</a>
+        <a href="index.html">Início</a>
+        <a href="catalogo.html">Catálogo de Testes</a>
+        <a href="pagina.html?slug=utentes">Informações</a>
+        <a href="pagina.html?slug=contactos">Contactos</a>
       </div>
       <div class="footer-block">
         <h3 class="footer-title">Acesso de editores</h3>
         <p class="footer-text">
-          <a href="/admin/">Entrar no Decap CMS</a>
+          <a href="admin/">Entrar no Decap CMS</a>
         </p>
       </div>
     </div>
@@ -529,8 +529,8 @@
       areaEl.textContent = area;
 
       breadcrumbsEl.innerHTML = `
-        <a href="/">Início</a> &gt;
-        <a href="/catalogo.html">Testes</a> &gt;
+        <a href="index.html">Início</a> &gt;
+        <a href="catalogo.html">Testes</a> &gt;
         <span>${escapeHtml(title)}</span>
       `;
 
@@ -597,7 +597,7 @@
           <h2>Não foi possível apresentar este teste</h2>
           <p>${escapeHtml(message)}</p>
           <div class="nav-links" style="justify-content:center; margin-top:18px;">
-            <a class="btn-secondary" href="/catalogo.html">Voltar ao catálogo</a>
+            <a class="btn-secondary" href="catalogo.html">Voltar ao catálogo</a>
           </div>
         </div>
       `;
