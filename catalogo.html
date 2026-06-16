@@ -111,15 +111,15 @@
       color: var(--primary-dark);
       font-size: 1.5rem;
       line-height: 1.2;
-      font-weight: bold;      
+      font-weight: bold;
     }
-    
+
     .section-subtitle {
       margin: 0 0 18px;
       color: var(--muted);
       max-width: 70ch;
     }
-    
+
     .breadcrumbs {
       margin-bottom: 12px;
       font-size: 0.95rem;
@@ -342,14 +342,85 @@
       flex-direction: column;
       gap: 6px;
     }
-    @media (max-width: 900px) {
-      .test-list { grid-template-columns: 1fr; }
+
+    /* ── BOTÃO HAMBURGER (escondido em desktop) ── */
+    .nav-toggle {
+      display: none;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: var(--primary-dark);
     }
+
+    /* ── TABLET ── */
+    @media (max-width: 900px) {
+      .test-list    { grid-template-columns: 1fr; }
+      .az-grid      { grid-template-columns: repeat(9, minmax(0,1fr)); }
+    }
+
+    /* ── MOBILE ── */
     @media (max-width: 720px) {
-      .site-header-inner { align-items: flex-start; flex-direction: column; }
-      .main-nav { width: 100%; justify-content: flex-start; }
-      .page-title { font-size: 1.6rem; }
-      .search-form { flex-direction: column; }
+
+      /* HEADER */
+      .site-header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      /* NAV → hamburger */
+      .nav-toggle         { display: block; }
+      .main-nav           {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        gap: 6px;
+        padding-top: 10px;
+      }
+      .main-nav.open       { display: flex; }
+      .main-nav a,
+      .editor-link          {
+        width: 100%;
+        padding: 12px 14px;
+        text-align: left;
+      }
+
+      /* PAGE HERO */
+      .page-hero          { padding: 24px 0 16px; }
+      .page-title         { font-size: 1.6rem; }
+
+      /* PESQUISA */
+      .search-form        { flex-direction: column; }
+      .search-form input[type="search"] {
+        flex: 1 1 auto;
+        min-width: 0;
+        width: 100%;
+      }
+
+      /* CONTROLS CARD */
+      .controls-card      { padding: 16px; }
+
+      /* A–Z  →  7 colunas */
+      .az-grid            { grid-template-columns: repeat(7, minmax(0,1fr)); gap: 8px; }
+      .pill, .az-link     { min-width: 36px; padding: 10px 6px; font-size: 0.9rem; }
+
+      /* RESULTADOS */
+      .results-card       { padding: 16px; }
+
+      /* TIPOGRAFIA & TOUCH */
+      .section-title      { font-size: 1.25rem; }
+      a, button           { min-height: 44px; }
+
+      /* FOOTER */
+      .footer-inner       { flex-direction: column; gap: 14px; }
+    }
+
+    /* ── MOBILE PEQUENO ── */
+    @media (max-width: 400px) {
+      .az-grid            { grid-template-columns: repeat(5, minmax(0,1fr)); }
+      .container          { padding: 0 12px; }
     }
   </style>
 </head>
@@ -364,6 +435,8 @@
           <p class="brand-subtitle">Serviço de Patologia Clínica, ULS de Coimbra</p>
         </div>
       </a>
+
+      <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">&#9776;</button>
 
       <nav class="main-nav" aria-label="Navegação principal">
         <a href="index.html">Início</a>
@@ -438,7 +511,7 @@
     </section>
   </main>
 
- 
+
   <footer class="site-footer">
     <div class="container footer-inner">
       <div class="footer-block">
@@ -447,7 +520,7 @@
       </div>
     </div>
   </footer>
-      
+
 <!--
   <footer class="site-footer">
       <div class="footer-block footer-links">
@@ -466,9 +539,20 @@
     </div>
   </footer>
 -->
-  
+
+  <!-- Menu hamburger toggle -->
+  <script>
+    const toggle = document.querySelector('.nav-toggle');
+    const nav    = document.querySelector('.main-nav');
+    toggle.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', open);
+      toggle.textContent = open ? '\u2715' : '\u2630';
+    });
+  </script>
+
   <script src="js/catalogo.js"></script>
 
-  
+
 </body>
 </html>
