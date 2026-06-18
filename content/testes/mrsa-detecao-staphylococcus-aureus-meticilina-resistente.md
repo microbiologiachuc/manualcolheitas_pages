@@ -8,6 +8,8 @@ material_colheita: |+
 
   ![](uploads/mrsa_small.png)
 
+  ![](uploads/direita_white.png)
+
   ![](uploads/mrsa_teste.png)
 
 
