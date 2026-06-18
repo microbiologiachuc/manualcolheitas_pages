@@ -10,6 +10,10 @@ material_colheita: |+
 
   ![](uploads/mrsa_teste.png)
 
+
+
+  ![](uploads/direita.png)
+
 transporte_estabilidade: Envio imediato
 tempo_resposta: Até 2 dias
 setor: L.MIC
