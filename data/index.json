@@ -1414,7 +1414,7 @@
     "title": "Pesquisa de Streptococcus grupo B",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
-    "amostra": "Zaragatoa rectal e vaginal",
+    "amostra": "Zaragatoa rectal e vaginal\n\n![](uploads/strepb.png)",
     "material_colheita": "Zaragatoa com meio de transporte líquido (Amies)",
     "descricao_clinica": "",
     "indicacao": "",
