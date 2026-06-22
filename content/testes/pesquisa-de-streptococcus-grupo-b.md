@@ -8,8 +8,8 @@ amostra: |+
   ![](uploads/strepb.png)
 
 material_colheita: Zaragatoa com meio de transporte líquido (Amies)
-transporte_estabilidade: Imediato/ 72h a 4ºC
-tempo_resposta: Até 4h
+transporte_estabilidade: Imediato / 72 horas a 4ºC
+tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: STRB
 ---
