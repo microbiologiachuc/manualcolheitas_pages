@@ -5,12 +5,15 @@ metodo: PCR em tempo real
 amostra: |-
   LCR, Urina  
   Sangue total
-material_colheita: |-
+material_colheita: |+
   LCR, Urina - Contentor estéril
 
   ![](uploads/contentores_hp.png)
 
   Sangue total - Tubo de EDTA (Tubo de hemograma)
+
+  ![](uploads/tubo_edta_small.png)
+
 transporte_estabilidade: imediato / 72 horas a 4ªC
 tempo_resposta: Até 72 horas
 setor: L.MIC
