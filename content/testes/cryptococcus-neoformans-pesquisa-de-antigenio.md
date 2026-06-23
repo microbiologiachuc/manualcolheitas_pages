@@ -16,6 +16,6 @@ material_colheita: |+
   ![](uploads/tubo_quimica_small.png)
 
 transporte_estabilidade: Envio imediato
-tempo_resposta: Imediato/ quantificação até 72H
+tempo_resposta: Imediato / quantificação até 72H
 setor: Microbiologia
 ---
