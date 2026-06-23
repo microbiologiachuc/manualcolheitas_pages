@@ -199,15 +199,15 @@
     "title": "Citomegalovírus (CMV), DNA Carga Viral",
     "area": "Virologia",
     "metodo": "PCR  em tempo real",
-    "amostra": "LCR, Urina, Líquido amniótico, Plasma",
-    "material_colheita": "LCR, Urina, Líquido amniótico - Contentor estéril  \n\n\n![](uploads/contentores_hp.png)\n\n\nPlasma - Tubo de EDTA (Tubo de hemograma). O tubo deve ser centrifugado após\nchegada ao laboratório.",
+    "amostra": "LCR, Urina, Líquido amniótico  \nPlasma",
+    "material_colheita": "LCR, Urina, Líquido amniótico - Contentor estéril  \n\n![](uploads/contentores_hp.png)\n\nPlasma - Tubo de EDTA (Tubo de hemograma).\n\n![](uploads/edta_vir.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "LCR - 4935\nUrina - 4935\nLíquido amniótico - 4935\nPlasma - 4914",
-    "observacoes": ""
+    "observacoes": "O tubo deve ser centrifugado após chegada ao laboratório."
   },
   {
     "slug": "citomegalovirus-cmv-dna-qualitativo",
