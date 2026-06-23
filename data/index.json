@@ -260,14 +260,14 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Biópsia cutânea, LCR, Líquido sinovial, Outras amostras  \nSangue total",
-    "material_colheita": "Biópsia cutânea, LCR, Líquido sinovial, Outras amostras - Contentor estéril  \n\n\n![](uploads/contentores_hp.png)\n\nSangue total - Tubo de EDTA (tubo de hemograma)  \n\n\n![](uploads/tubo_edta_small.png)",
+    "material_colheita": "Biópsia cutânea, LCR, Líquido sinovial, Outras amostras - Contentor estéril  \n\n![](uploads/contentores_hp.png)\n\nSangue total - Tubo de EDTA (tubo de hemograma)  \n\n![](uploads/tubo_edta_small.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Biópsia cutânea - TICKBC\nLCR - TICKLCR\nLíquido sinovial - TICKLS\nOutras amostras - TICKO\nSangue total - TICK",
-    "observacoes": "Microorganismos pesquisados: Rickettsia sp., Babesia microti, Babesia\ndivergens, Ehrlichia chafeensis, Ehrlichia muris, Borrelia burgdorferi sensu\nlato, Borrelia miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum e\nCoxiella burnetii"
+    "observacoes": "Microorganismos presentes no painel: Rickettsia sp., Babesia microti, Babesia\ndivergens, Ehrlichia chafeensis, Ehrlichia muris, Borrelia burgdorferi sensu\nlato, Borrelia miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum e\nCoxiella burnetii"
   },
   {
     "slug": "dst-chlamtrach-neissgono-dna-qualitativo",
