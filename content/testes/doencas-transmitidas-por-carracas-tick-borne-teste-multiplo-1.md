@@ -10,11 +10,9 @@ amostra: |-
 material_colheita: |+
   Biópsia cutânea, LCR, Líquido sinovial, Outras amostras - Contentor estéril  
 
-
   ![](uploads/contentores_hp.png)
 
   Sangue total - Tubo de EDTA (tubo de hemograma)  
-
 
   ![](uploads/tubo_edta_small.png)
 
@@ -28,7 +26,7 @@ codigo_interno: |-
   Outras amostras - TICKO
   Sangue total - TICK
 observacoes: >
-  Microorganismos pesquisados: Rickettsia sp., Babesia microti, Babesia
+  Microorganismos presentes no painel: Rickettsia sp., Babesia microti, Babesia
   divergens, Ehrlichia chafeensis, Ehrlichia muris, Borrelia burgdorferi sensu
   lato, Borrelia miyamotoi, Borrelia hermsii, Anaplasma phagocitophylum e
   Coxiella burnetii
