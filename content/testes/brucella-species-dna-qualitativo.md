@@ -5,12 +5,15 @@ metodo: PCR em tempo real
 amostra: |-
   Biópsia de gânglio, Líquido sinovial  
   Sangue total, Medula óssea
-material_colheita: |-
+material_colheita: |+
   Biópsia de gânglio, Líquido sinovial - Contentor estéril
 
   ![](uploads/contentores_hp.png)
 
   Sangue total, Medula óssea - Tubo de EDTA (tubo de hemograma)
+
+  ![](uploads/tubo_edta_small.png)
+
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
