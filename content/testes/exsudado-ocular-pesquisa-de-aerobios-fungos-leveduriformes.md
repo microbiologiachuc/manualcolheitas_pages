@@ -8,9 +8,10 @@ material_colheita: |-
 
   ![](uploads/contentores_chuc.png)
 
-  Tubo com  “Brain heart infusion”
+  Tubo com  “Brain heart infusion”  
 
-  ![](uploads/bhi_small_centro.png)
+
+  ![](uploads/bhi_small.png)
 
   Semear diretamente em meios de cultura fornecidos pelo  Laboratório 
 transporte_estabilidade: Envio imediato à temperatura ambiente
