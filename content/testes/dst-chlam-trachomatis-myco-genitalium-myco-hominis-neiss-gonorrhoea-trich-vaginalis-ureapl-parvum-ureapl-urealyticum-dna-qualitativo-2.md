@@ -16,7 +16,7 @@ material_colheita: >+
   Contentor estéril  
 
 
-  ![](uploads/contentores_hp.png)
+  ![](uploads/contentores_chuc.png)
 
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
