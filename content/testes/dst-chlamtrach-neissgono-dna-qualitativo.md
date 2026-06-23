@@ -6,10 +6,10 @@ amostra: "Exsudado uretral, Exsudado vaginal, Exsudado orofaringe, Exsudado reta
 material_colheita: |2+
    Zaragatoa com meio de transporte líquido (Amies)
 
-  ![](uploads/teste.png)
+  ![](uploads/teste2.png)
 
 transporte_estabilidade: Imediato / 72 horas a 4ºC
-tempo_resposta: Até 4h
+tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: |-
   Exsudado uretral - DMCU
