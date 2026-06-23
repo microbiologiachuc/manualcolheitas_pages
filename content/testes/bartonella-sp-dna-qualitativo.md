@@ -5,15 +5,18 @@ metodo: PCR em tempo real
 amostra: |-
   Biópsia, LCR, Líquido sinovial, Qualquer amostra ocular  
   Sangue total
-material_colheita: |-
+material_colheita: |+
   Biópsia, LCR, Líquido sinovial - Contentor estéril
 
   ![](uploads/contentores_hp.png)
 
   Qualquer amostra ocular - Tubo solicitado ao Laboratório de microbiologia  
   Sangue total - Tubo de EDTA (tubo de hemograma)
+
+  ![](uploads/tubo_edta_small.png)
+
 transporte_estabilidade: Imediato / 72 horas a 4ºC
-tempo_resposta: Até  72 horas
+tempo_resposta: Até 72 horas
 setor: L.MIC
 codigo_interno: |-
   Biópsia - BARTB
