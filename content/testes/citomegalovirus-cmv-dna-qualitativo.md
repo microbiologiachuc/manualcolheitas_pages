@@ -4,7 +4,7 @@ area: Virologia
 metodo: PCR em tempo real
 amostra: "Outros produtos, Secreções respiratórias, Lavado Broncoalveolar,
   Biópsias, Medula óssea "
-material_colheita: >-
+material_colheita: >+
   Outros produtos, Secreções respiratórias, Lavado Broncoalveolar, Biópsias -
   Contentor estéril
 
@@ -13,6 +13,10 @@ material_colheita: >-
 
 
   Medula óssea - Tubo de EDTA (Tubo de hemograma)
+
+
+  ![](uploads/tubo_edta_small.png)
+
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
