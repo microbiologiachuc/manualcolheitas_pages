@@ -7,7 +7,7 @@ material_colheita: |+
   Contentor estéril  
 
 
-  ![](uploads/contentores_chuc.png)
+  ![](uploads/contentores_hp.png)
 
     
   Tubo c/ gel  
