@@ -155,7 +155,7 @@
     "area": "Virologia",
     "metodo": "PCR em tempo real",
     "amostra": "Urina, Outros produtos, Plasma",
-    "material_colheita": "Urina, Outros produtos - Contentor estéril\n\n![](uploads/contentores_hp.png)\n\nPlasma - Tubo de EDTA com gel",
+    "material_colheita": "Urina, Outros produtos - Contentor estéril\n\n![](uploads/contentores_hp.png)\n\nPlasma - Tubo de EDTA com gel\n\n![](uploads/edta_vir.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
