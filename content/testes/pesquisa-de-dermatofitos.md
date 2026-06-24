@@ -3,8 +3,12 @@ title: Pesquisa de Dermatófitos
 area: Micologia
 metodo: PCR acoplado a array e cultura
 amostra: Cabelos, pelos, pele, unhas
-material_colheita: Contentor estéril
-transporte_estabilidade: Imediato / 72h a temperatura  ambiente
+material_colheita: |+
+  Contentor estéril
+
+  ![](uploads/contentores_chuc.png)
+
+transporte_estabilidade: Imediato / 72 horas a temperatura  ambiente
 tempo_resposta: Até 2 semanas
 setor: L.MIC
 codigo_interno: DERMAT
