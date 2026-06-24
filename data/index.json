@@ -1130,11 +1130,11 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real e Nested PCR",
     "amostra": "Fezes líquídas",
-    "material_colheita": "Contentor estéril",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72h a 4ºC",
-    "tempo_resposta": "Até 4h",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "Até 4 horas",
     "setor": "L.MIC",
     "codigo_interno": "GASTR (HUC) / 4949 (HP)",
     "observacoes": "Microorganismos no Painel:  \n\nCampylobacter (C. jejuni / C. coli / C. upsaliensis), Clostridioides\n(Clostridium) difficile (toxin A/B), Plesiomonas shigelloides, Salmonella,\nYersinia enterocolitica, Vibrio (V. parahaemolyticus / V. vulnificus / V.\ncholerae), Vibrio cholerae, Enteroaggregative E. coli (EAEC), Enteropathogenic\nE. coli (EPEC), Enterotoxigenic E. coli (ETEC) lt/st, Shiga-like\ntoxin-producing E. coli (STEC) stx1/stx2, E. coli O157,\nShigella/Enteroinvasive, E. coli (EIEC), Cryptosporidium, Cyclospora\ncayetanensis, Entamoeba histolytica, Giardia lamblia"
@@ -1145,14 +1145,14 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real e nested PCR",
     "amostra": "Liquido sinovial",
-    "material_colheita": "Contentor estéril",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_hp.png)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72H a 4ºC",
-    "tempo_resposta": "Até 4h",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "Até 4 horas",
     "setor": "L.MIC",
     "codigo_interno": "BFJI",
-    "observacoes": "Microrganismos pesquisados: ·     *Bacteroides fragilis, Citrobacter,\nEnterobacter cloacae complex, Escherichia coli, Haemophilus influenzae,\nKingella kingae, Klebsiella aerogenes, Klebsiella pneumoniae group, Morganella\nmorganii, Neisseria gonorrhoeae, Proteus spp., Pseudomonas aeruginosa,\nSalmonella spp., Serratia marcescens, Anaerococcus prevotii/vaginalis,\nClostridium perfringens, Cutibacterium avidum/granulosum, Enterococcus\nfaecalis, Enterococcus faecium, Finegoldia magna, Parvimonas micra,\nPeptoniphilus, Peptostreptococcus anaerobius, Staphylococcus aureus,\nStaphylococcus lugdunensis, Streptococcus spp., Streptococcus agalactiae,\nStreptococcus pneumoniae, Streptococcus pyogenes*"
+    "observacoes": "Microrganismos pesquisados: \n\nBacteroides fragilis, Citrobacter, Enterobacter cloacae complex, Escherichia\ncoli, Haemophilus influenzae, Kingella kingae, Klebsiella aerogenes,\nKlebsiella pneumoniae group, Morganella morganii, Neisseria gonorrhoeae,\nProteus spp., Pseudomonas aeruginosa, Salmonella spp., Serratia marcescens,\nAnaerococcus prevotii/vaginalis, Clostridium perfringens, Cutibacterium\navidum/granulosum, Enterococcus faecalis, Enterococcus faecium, Finegoldia\nmagna, Parvimonas micra, Peptoniphilus, Peptostreptococcus anaerobius,\nStaphylococcus aureus, Staphylococcus lugdunensis, Streptococcus spp.,\nStreptococcus agalactiae, Streptococcus pneumoniae, Streptococcus pyogenes*"
   },
   {
     "slug": "pan-bacteriano-16srrna",
