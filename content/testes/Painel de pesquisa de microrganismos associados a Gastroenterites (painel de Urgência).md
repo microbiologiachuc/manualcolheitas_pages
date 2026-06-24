@@ -3,9 +3,13 @@ title: Painel Diagnóstico de Gastroenterites (Urgência)
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e Nested PCR
 amostra: "Fezes líquídas "
-material_colheita: Contentor estéril
-transporte_estabilidade: Imediato / 72h a 4ºC
-tempo_resposta: Até 4h
+material_colheita: |+
+  Contentor estéril
+
+  ![](uploads/contentores_chuc.png)
+
+transporte_estabilidade: Imediato / 72 horas a 4ºC
+tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: GASTR (HUC) / 4949 (HP)
 observacoes: >-
