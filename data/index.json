@@ -1355,7 +1355,7 @@
     "area": "Parasitologia",
     "metodo": "Microscopia óptica",
     "amostra": "Sangue total",
-    "material_colheita": "Tubo c/ EDTA",
+    "material_colheita": "Tubo c/ EDTA\n\n![](uploads/tubo_edta_small.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "3h, ambiente",
