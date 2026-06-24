@@ -710,7 +710,7 @@
     "area": "Virologia",
     "metodo": "Sequenciação de nova geração",
     "amostra": "LCR  \nPlasma",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_hp.png)\n\n\n\nTubo de EDTA com gel",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_hp.png)\n\nTubo de EDTA com gel\n\n![](uploads/edta_vir.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato/ 72H a 4ºC",
