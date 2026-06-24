@@ -6,7 +6,7 @@ amostra: |-
   Líquido sinovial  
   Líquido sinovial em frasco de hemocultura
 material_colheita: |+
-  Contentor estéril, 
+  Contentor estéril
 
   ![](uploads/contentores_chuc.png)
 
@@ -15,7 +15,6 @@ material_colheita: |+
   ![](uploads/portagermen_small.png)
 
   Líquido sinovial em frasco de hemocultura  
-
 
   ![](uploads/hemocult.png)
 
