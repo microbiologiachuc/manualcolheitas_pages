@@ -5,14 +5,15 @@ metodo: Sequenciação de nova geração
 amostra: |-
   LCR  
   Plasma
-material_colheita: |-
+material_colheita: |+
   Contentor estéril
 
   ![](uploads/contentores_hp.png)
 
-
-
   Tubo de EDTA com gel
+
+  ![](uploads/edta_vir.png)
+
 transporte_estabilidade: Imediato/ 72H a 4ºC
 tempo_resposta: Até 1 mês
 setor: L.MIC
