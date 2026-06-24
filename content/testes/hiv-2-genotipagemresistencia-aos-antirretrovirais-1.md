@@ -14,7 +14,7 @@ material_colheita: |+
 
   ![](uploads/edta_vir.png)
 
-transporte_estabilidade: Imediato/ 72H a 4ºC
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 1 mês
 setor: L.MIC
 codigo_interno: |-
