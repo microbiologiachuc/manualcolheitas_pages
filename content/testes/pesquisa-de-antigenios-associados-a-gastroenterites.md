@@ -2,10 +2,14 @@
 title: Pesquisa de Antigénios Associados a Gastroenterites
 area: Virologia
 metodo: Imunoensaio
-amostra: Fezes
+amostra: |+
+  Fezes
+
+  ![](uploads/contentores_chuc.png)
+
 material_colheita: Contentor estéril
-transporte_estabilidade: Imediato /72H a 4ºC
-tempo_resposta: Até 4h
+transporte_estabilidade: Imediato / 72 horas a 4ºC
+tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: AGGAS
 observacoes: "Microrganismos pesquisados: Norovirus GII.4 & GI, rotavirus,
