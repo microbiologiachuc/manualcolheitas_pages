@@ -9,7 +9,7 @@ material_colheita: |+
   ![](uploads/lcr_left.png)
 
 transporte_estabilidade: Imediato / 72 horas a 4ºC
-tempo_resposta: Até 72 horas
+tempo_resposta: "Até 72 horas "
 setor: L.MIC
 codigo_interno: TAQVIR
 observacoes: >-
