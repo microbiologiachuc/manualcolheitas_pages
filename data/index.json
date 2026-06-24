@@ -770,7 +770,7 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Exsudado da nasofaringe/ orofaringe",
-    "material_colheita": "Zaragatoa com meio de transporte vírico, com inactivador",
+    "material_colheita": "Zaragatoa com meio de transporte vírico, com inactivador\n\n![](uploads/respiratorios.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
