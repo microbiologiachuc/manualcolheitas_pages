@@ -6,7 +6,7 @@ amostra: Exsudado uretral
 material_colheita: |+
   Zaragatoa c/ meio transporte
 
-  ![](uploads/teste2.png)
+  ![](uploads/exsudado_uret.png)
 
 transporte_estabilidade: Envio imediato
 tempo_resposta: 3 dias
