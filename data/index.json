@@ -500,7 +500,7 @@
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Exsudado uretral",
-    "material_colheita": "Zaragatoa e meio de transporte específicos fornecidos pelo laboratório",
+    "material_colheita": "Zaragatoa e meio de transporte específicos fornecidos pelo laboratório\n\n![](uploads/ureaplasma.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Envio imediato / Conservar a 2-4ºC até envio (< 12 horas)",
