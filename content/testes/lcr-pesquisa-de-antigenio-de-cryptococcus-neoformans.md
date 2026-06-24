@@ -4,7 +4,7 @@ area: Micologia
 metodo: Imunocromatográfico
 amostra: LCR
 material_colheita: |+
-  Tubo estéril tampa verde
+  Tubo estéril tampa verde 
 
   ![](uploads/lcr_left.png)
 
