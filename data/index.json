@@ -860,7 +860,7 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Biópsia da pele  \nSangue total, Medula óssea  \nZaragatoa de lesão",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\nTubo de EDTA (Tubo de hemograma)  \nZaragatoa com meio de transporte vírico com inactivador",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)\n\nTubo de EDTA (Tubo de hemograma)\n\n![](uploads/tubo_edta_small.png)\n\n  \nZaragatoa com meio de transporte vírico com inactivador\n\n![](uploads/respiratorios.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
