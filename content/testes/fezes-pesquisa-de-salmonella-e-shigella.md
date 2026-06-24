@@ -3,7 +3,12 @@ title: Fezes - Salmonella e Shigella
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Fezes
-material_colheita: Contentor estéril
+material_colheita: |+
+  Contentor estéril  
+
+
+  ![](uploads/contentores_chuc.png)
+
 transporte_estabilidade: Envio imediato / Temperatura ambiente
 tempo_resposta: Até 1 semana
 setor: L.MIC
