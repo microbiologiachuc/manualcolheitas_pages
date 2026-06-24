@@ -1035,6 +1035,21 @@
     "observacoes": ""
   },
   {
+    "slug": "neisseria-gonorrhoeae-chlamydia-trachomatis",
+    "title": "Neisseria gonorrhoeae / Chlamydia trachomatis",
+    "area": "Microbiologia",
+    "metodo": "Teste",
+    "amostra": "Teste",
+    "material_colheita": "Teste",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Teste",
+    "tempo_resposta": "Teste",
+    "setor": "L.MIC",
+    "codigo_interno": "Teste",
+    "observacoes": ""
+  },
+  {
     "slug": "painel-agentes-infecao-respiratoria-inferior-disponivel-apos-consulta-pat-clinico-escala-de-microbiologia",
     "title": "Painel Agentes Infeção Respiratória Inferior",
     "area": "Bacteriologia - Biologia Molecular",
