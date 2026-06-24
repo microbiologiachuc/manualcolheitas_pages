@@ -6,15 +6,22 @@ amostra: |-
   Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar  
   Sangue total  
   Zaragatoa orofaringe
-material_colheita: |-
+material_colheita: |+
   Contentor estéril
 
   ![](uploads/contentores_chuc.png)
 
 
 
-  Tubo de EDTA (tubo de hemograma)  
+  Tubo de EDTA (tubo de hemograma)
+
+  ![](uploads/tubo_edta_small.png)
+
+    
   Zaragatoa com meio de transporte vírico com inactivador
+
+  ![](uploads/respiratorios.png)
+
 transporte_estabilidade: Imediato / 72 horas a 4ºc
 tempo_resposta: Até 72 horas
 setor: L.MIC
