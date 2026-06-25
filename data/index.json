@@ -1160,7 +1160,7 @@
     "area": "Micologia",
     "metodo": "PCR em tempo real",
     "amostra": "Qualquer amostra biológica",
-    "material_colheita": "Contentor estéril / Zaragatoa com meio de transporte líquido",
+    "material_colheita": "Contentor estéril \n\n![](uploads/contentores_chuc.png)\n\nZaragatoa com meio de transporte líquido (Amies) \n\n![](uploads/mrsa_small.png)\n\nZaragatoa com meio de transporte vírico com inactivador\n\n![](uploads/respiratorios.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "",
