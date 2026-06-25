@@ -1,5 +1,5 @@
 ---
-title: Serologia de Fasciolose
+title: Serologia de Fasciolose (Fasciola hepatica)
 area: Parasitologia
 metodo: Hemaglutinação indireta; Western Blot
 amostra: Soro
