@@ -1,5 +1,5 @@
 ---
-title: Pesquisa de Isospora belli (Cistoisosporíase)
+title: Pesquisa de Cystoisospora belli (Cistoisosporíase)
 area: Parasitologia
 metodo: Microscopia óptica
 amostra: Fezes
