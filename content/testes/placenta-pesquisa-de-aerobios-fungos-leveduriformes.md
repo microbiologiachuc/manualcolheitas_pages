@@ -11,5 +11,5 @@ material_colheita: |+
 transporte_estabilidade: Envio imediato
 tempo_resposta: 3 dias
 setor: L.MIC
-codigo_interno: PL. PLA
+codigo_interno: PL, PLA
 ---
