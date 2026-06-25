@@ -3,8 +3,8 @@ title: Vírus Epstein Barr (EBV), DNA Carga Viral
 area: Virologia
 metodo: PCR em tempo real
 amostra: Plasma
-material_colheita: |2+
-   Tubo de EDTA com gel
+material_colheita: |+
+  Tubo de EDTA com gel
 
   ![](uploads/edta_vir.png)
 
