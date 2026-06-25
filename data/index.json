@@ -330,6 +330,36 @@
     "observacoes": ""
   },
   {
+    "slug": "giardia-detecao-de-antigenio",
+    "title": "Exame parasitológico de Fezes",
+    "area": "Parasitologia",
+    "metodo": "Imunocromatografia, Microscopia ótica",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Giardia - 3 horas, ambiente / manter a temperatura ambiente  \nGordura nas fezes - 5 dias / 2-8ºC  \nGrau de digestão - 2 dias / 2-8ºC  \nLeucócitos - 5 dias / 2-8ºC",
+    "tempo_resposta": "Até 1 semana",
+    "setor": "L.MIC",
+    "codigo_interno": "Giardia - \nGordura nas fezes - PPG\nGrau de digestão - GDIG\nLeucócitos -",
+    "observacoes": "Giardia: pesquisa de antigénio"
+  },
+  {
+    "slug": "exame-parasitologico-de-urina",
+    "title": "Exame parasitológico de Urina",
+    "area": "Parasitologia",
+    "metodo": "Exame microscópico",
+    "amostra": "Urina",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "5 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "expectoracao-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Expectoração - Aeróbios, anaeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
@@ -493,21 +523,6 @@
     "setor": "L.MIC",
     "codigo_interno": "EXV",
     "observacoes": ""
-  },
-  {
-    "slug": "giardia-detecao-de-antigenio",
-    "title": "Fezes",
-    "area": "Parasitologia",
-    "metodo": "Imunocromatografia, Microscopia ótica",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Giardia - 3 horas, ambiente / manter a temperatura ambiente  \nGordura nas fezes - 5 dias / 2-8ºC  \nGrau de digestão - 2 dias / 2-8ºC  \nLeucócitos - 5 dias / 2-8ºC",
-    "tempo_resposta": "Até 1 semana",
-    "setor": "L.MIC",
-    "codigo_interno": "Giardia - \nGordura nas fezes - PPG\nGrau de digestão - GDIG\nLeucócitos -",
-    "observacoes": "Giardia: pesquisa de antigénio"
   },
   {
     "slug": "fezes-pesquisa-de-campylobacter",
