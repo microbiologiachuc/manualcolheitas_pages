@@ -17,4 +17,5 @@ setor: L.MIC
 codigo_interno: |-
   LCR, Outros produtos - 4934
   Medula óssea - 4934M
+observacoes: .
 ---
