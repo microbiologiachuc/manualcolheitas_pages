@@ -6,7 +6,9 @@ amostra: LCR, Outros produtos
 material_colheita: |+
   Contentor estéril
 
-transporte_estabilidade: Imediato / 72h a 4ºC
+  ![](uploads/contentores_hp.png)
+
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 96H
 setor: L.MIC
 codigo_interno: "4946"
