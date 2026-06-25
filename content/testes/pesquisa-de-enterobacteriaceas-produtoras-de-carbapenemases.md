@@ -1,6 +1,6 @@
 ---
 title: Rastreio - Enterobacteriáceas Produtoras de Carbapenemases (EPC)
-area: Bacteriologia - Biologia Molecular
+area: Bacteriologia - Bacteriologia Geral
 metodo: PCR em tempo real
 amostra: |+
   Zaragatoa retal
