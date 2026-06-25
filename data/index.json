@@ -1245,6 +1245,21 @@
     "observacoes": "Critério de exclusão: fezes moldadas ou sólidas"
   },
   {
+    "slug": "pesquisa-de-cyclospora",
+    "title": "Pesquisa de Cyclospora",
+    "area": "Parasitologia",
+    "metodo": ".",
+    "amostra": ".",
+    "material_colheita": ".\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": ".",
+    "tempo_resposta": ".",
+    "setor": ".",
+    "codigo_interno": ".",
+    "observacoes": ""
+  },
+  {
     "slug": "isospora-belli-pesquisa",
     "title": "Pesquisa de Cystoisospora belli (Cistoisosporíase)",
     "area": "Parasitologia",
