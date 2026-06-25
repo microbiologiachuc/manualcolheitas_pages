@@ -1185,6 +1185,21 @@
     "observacoes": ""
   },
   {
+    "slug": "pesquisa-de-antigenio-de-giardia",
+    "title": "Pesquisa de antigénio de Giardia",
+    "area": "Parasitologia",
+    "metodo": ".",
+    "amostra": "Fezes  \n\n\n![](uploads/contentores_chuc.png)",
+    "material_colheita": ".",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": ".",
+    "tempo_resposta": ".",
+    "setor": "L.MIC",
+    "codigo_interno": ".",
+    "observacoes": ""
+  },
+  {
     "slug": "biopsia-gastrica-pesquisa-de-antigenio-de-helicobacter-pylori",
     "title": "Pesquisa de antigénio de Helicobacter pylori",
     "area": "Bacteriologia - Geral",
