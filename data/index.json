@@ -1305,21 +1305,6 @@
     "observacoes": "Deteção de anticorpos IgG"
   },
   {
-    "slug": "fasciolose-detecao-ac-igg",
-    "title": "Pesquisa de Fasciola spp",
-    "area": "Parasitologia",
-    "metodo": "Hemaglutinação indireta; Western Blot",
-    "amostra": "Soro",
-    "material_colheita": "Tubo c/ gel",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "3d, 2-8 ºC\n1m, -20ºC",
-    "tempo_resposta": "Até 1 mês",
-    "setor": "L.MIC",
-    "codigo_interno": "PSF",
-    "observacoes": ""
-  },
-  {
     "slug": "leishmania-pesquisa-de",
     "title": "Pesquisa de Leishmania (Leishmaniose)",
     "area": "Parasitologia",
@@ -1527,6 +1512,21 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Fluidos cavidade oral - SARCO\nZaragatoa orofaringe - SARZO",
+    "observacoes": ""
+  },
+  {
+    "slug": "fasciolose-detecao-ac-igg",
+    "title": "Serologia de Fasciolose",
+    "area": "Parasitologia",
+    "metodo": "Hemaglutinação indireta; Western Blot",
+    "amostra": "Soro",
+    "material_colheita": "Tubo c/ gel\n\n![](uploads/tubo_quimica_small.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "3d, 2-8 ºC\n1m, -20ºC",
+    "tempo_resposta": "Até 1 mês",
+    "setor": "L.MIC",
+    "codigo_interno": "PSF",
     "observacoes": ""
   },
   {
