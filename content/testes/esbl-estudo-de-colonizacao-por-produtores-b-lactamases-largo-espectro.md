@@ -1,5 +1,5 @@
 ---
-title: ESBL - Estudo de colonização por produtores β-lactamases largo espectro
+title: Rastreio - Colonização por produtores β-lactamases largo espectro (ESBL)
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Fezes
