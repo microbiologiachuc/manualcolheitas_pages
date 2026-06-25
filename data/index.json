@@ -1290,21 +1290,6 @@
     "observacoes": "Microrganismos pesquisados: \n\nEpidermophyton floccosum, Microsporum audouinii, Microsporum ferrugineum,\nTrichophyton bullosum, Trichophyton erinacei, Trichophyton interdigitale,\nTrichophyton quinckeanum (T. mentagrophytes), Trichophyton rubrum,\nTrichophyton schoenleinii, Trichophyton tonsurans, Trichophyton violaceum,\nMicrosporum canis, Nannizzia fulva (Microsporum fulvum), Trichophyton\nbenhamiae, Trichophyton concentricum, Trichophyton equinum, Trichophyton\neriotrephon, Trichophyton simii, Trichophyton verrucosum, Nannizzia gypsea\n(Microsporum gypseum), Nannizzia incurvata (Microsporum incurvatum), Nannizzia\npersicolor (Microsporum persicolor) e Trichophyton mentagrophytes,* além das\nleveduras  *Candida albicans, Candida parapsilosis, Candida guilliermondii,\nFusarium oxysporum, Fusarium solani e Scopulariopsis brevicaulis."
   },
   {
-    "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
-    "title": "Pesquisa de Echinococcus granulosus (Hidatidose)",
-    "area": "Parasitologia",
-    "metodo": "IFI, Western Blot",
-    "amostra": "Soro",
-    "material_colheita": "Tubo c/ gel\n\n![](uploads/tuboteste.jpg)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "5d, 2-8ºC\n6m, -20ºC",
-    "tempo_resposta": "Até 1 mês",
-    "setor": "L.MIC",
-    "codigo_interno": "PSQH",
-    "observacoes": "Deteção de anticorpos IgG"
-  },
-  {
     "slug": "leishmania-pesquisa-de",
     "title": "Pesquisa de Leishmania (Leishmaniose)",
     "area": "Parasitologia",
@@ -1528,6 +1513,21 @@
     "setor": "L.MIC",
     "codigo_interno": "PSF",
     "observacoes": ""
+  },
+  {
+    "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
+    "title": "Serologia de Hidatidose (Echinococose)",
+    "area": "Parasitologia",
+    "metodo": "IFI, Western Blot",
+    "amostra": "Soro",
+    "material_colheita": "Tubo c/ gel\n\n![](uploads/tubo_quimica_small.png)\n\n![](uploads/tuboteste.jpg)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "5d, 2-8ºC\n6m, -20ºC",
+    "tempo_resposta": "Até 1 mês",
+    "setor": "L.MIC",
+    "codigo_interno": "PSQH",
+    "observacoes": "Deteção de anticorpos IgG"
   },
   {
     "slug": "toxoplasma-gondii-dna-qualitativo",
