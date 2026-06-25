@@ -1290,21 +1290,6 @@
     "observacoes": "Microrganismos pesquisados: \n\nEpidermophyton floccosum, Microsporum audouinii, Microsporum ferrugineum,\nTrichophyton bullosum, Trichophyton erinacei, Trichophyton interdigitale,\nTrichophyton quinckeanum (T. mentagrophytes), Trichophyton rubrum,\nTrichophyton schoenleinii, Trichophyton tonsurans, Trichophyton violaceum,\nMicrosporum canis, Nannizzia fulva (Microsporum fulvum), Trichophyton\nbenhamiae, Trichophyton concentricum, Trichophyton equinum, Trichophyton\neriotrephon, Trichophyton simii, Trichophyton verrucosum, Nannizzia gypsea\n(Microsporum gypseum), Nannizzia incurvata (Microsporum incurvatum), Nannizzia\npersicolor (Microsporum persicolor) e Trichophyton mentagrophytes,* além das\nleveduras  *Candida albicans, Candida parapsilosis, Candida guilliermondii,\nFusarium oxysporum, Fusarium solani e Scopulariopsis brevicaulis."
   },
   {
-    "slug": "leishmania-pesquisa-de",
-    "title": "Pesquisa de Leishmania (Leishmaniose)",
-    "area": "Parasitologia",
-    "metodo": "Microscopia óptica",
-    "amostra": "Esfregaço de medula óssea",
-    "material_colheita": "Tubo c/ EDTA",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "3h, ambiente",
-    "tempo_resposta": "<5d",
-    "setor": "L.MIC",
-    "codigo_interno": "PPL",
-    "observacoes": ""
-  },
-  {
     "slug": "microfilarias-pesquisa-de",
     "title": "Pesquisa de Microfilárias",
     "area": "Parasitologia",
@@ -1528,6 +1513,21 @@
     "setor": "L.MIC",
     "codigo_interno": "PSQH",
     "observacoes": "Deteção de anticorpos IgG"
+  },
+  {
+    "slug": "leishmania-pesquisa-de",
+    "title": "Serologia de Leishmania (Leishmaniose)",
+    "area": "Parasitologia",
+    "metodo": "Microscopia óptica",
+    "amostra": "Esfregaço de medula óssea",
+    "material_colheita": "Tubo c/ EDTA\n\n![](uploads/tubo_quimica_small.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "3h, ambiente",
+    "tempo_resposta": "<5d",
+    "setor": "L.MIC",
+    "codigo_interno": "PPL",
+    "observacoes": ""
   },
   {
     "slug": "toxoplasma-gondii-dna-qualitativo",
