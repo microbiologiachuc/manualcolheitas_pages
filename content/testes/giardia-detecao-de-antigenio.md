@@ -1,5 +1,5 @@
 ---
-title: Fezes
+title: Exame parasitológico de Fezes
 area: Parasitologia
 metodo: Imunocromatografia, Microscopia ótica
 amostra: Fezes
