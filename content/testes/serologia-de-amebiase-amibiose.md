@@ -1,9 +1,9 @@
 ---
-title: Serologia de Amebiase (Amibiose)
+title: Serologia de Amibiose (Entamoeba histolytica)
 area: Parasitologia
 metodo: IFI, Western Blot
 amostra: Soro
-material_colheita: |+
+material_colheita: |
   .
 
   ![](uploads/tubo_quimica_small.png)
