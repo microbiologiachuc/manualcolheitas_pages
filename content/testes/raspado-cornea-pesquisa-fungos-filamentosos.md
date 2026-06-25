@@ -8,8 +8,7 @@ material_colheita: >+
   estéril  
 
 
-
-  ![](uploads/bhi_small_centro.png)
+  ![](uploads/bhi_small.png)
 
 
   ![](uploads/contentores_chuc.png)
