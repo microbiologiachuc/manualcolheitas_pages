@@ -1219,15 +1219,15 @@
     "title": "Pesquisa de Antigénios Associados a Gastroenterites",
     "area": "Virologia",
     "metodo": "Imunoensaio",
-    "amostra": "Fezes\n\n![](uploads/contentores_chuc.png)",
-    "material_colheita": "Contentor estéril",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 4 horas",
     "setor": "L.MIC",
     "codigo_interno": "AGGAS",
-    "observacoes": "\"Microrganismos pesquisados: Norovirus GII.4 & GI, rotavirus,"
+    "observacoes": "Microrganismos pesquisados: \n\nNorovirus GII.4 & GI, rotavirus, adenovirus e Campylobacter spp.\n(Campylobacter jejuni, Campylobacter coli, Campylobacter hyoilei e\nCampylobacter upsaliensis)."
   },
   {
     "slug": "pesquisa-de-antigenios-associados-a-infecoes-respiratorias-superiores",
