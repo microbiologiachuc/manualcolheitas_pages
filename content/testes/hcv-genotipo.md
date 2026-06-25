@@ -12,4 +12,5 @@ transporte_estabilidade: Imediato / 72 horas a 4ºC após centrifugação
 tempo_resposta: Até 1 mês
 setor: L.MIC
 codigo_interno: "188"
+observacoes: .
 ---
