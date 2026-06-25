@@ -2,7 +2,7 @@
 title: Pneumocystis jirovecii, DNA qualitativo
 area: Micologia
 metodo: PCR em tempo real
-amostra: Aspirado bronco-alveolar, Lavado bronco-alveolar
+amostra: Aspirado traqueobrônquico, Lavado bronco-alveolar
 material_colheita: |+
   Contentor estéril
 
@@ -12,6 +12,6 @@ transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
 codigo_interno: |-
-  Aspirado bronco-alveolar - PNCYA
+  Aspirado traqueobrônquico - PNCYA
   Lavado bronco-alveolar - PNCY
 ---
