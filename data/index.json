@@ -375,6 +375,21 @@
     "observacoes": ""
   },
   {
+    "slug": "exame-parasitologico-de-produtos-varios",
+    "title": "Exame parasitológico de Produtos Vários",
+    "area": "Parasitologia",
+    "metodo": "Imunocromatografia, Microscopia ótica",
+    "amostra": "Produtos Vários",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "5 dias",
+    "setor": "",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "exame-parasitologico-de-urina",
     "title": "Exame parasitológico de Urina",
     "area": "Parasitologia",
