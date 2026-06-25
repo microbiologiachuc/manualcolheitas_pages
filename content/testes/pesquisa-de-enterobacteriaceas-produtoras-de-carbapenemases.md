@@ -14,4 +14,6 @@ transporte_estabilidade: Imediato
 tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: ZPCE
+observacoes: |+
+  ![](uploads/epc_amostra_ideal.png)
 ---
