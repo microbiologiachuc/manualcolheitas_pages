@@ -1516,10 +1516,10 @@
   },
   {
     "slug": "ulceras-genitais-hducreyilvenereumcmvhsv12vzvtpallidum-2",
-    "title": "Ulceras genitais (H.ducreyi,L.venereum,CMV,HSV,1/2,VZV,T.pallidum)",
+    "title": "Ulceras genitais (H. ducreyi, L. venereum, CMV, HSV1/2, VZV, T. pallidum)",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
-    "amostra": "Urina\n\n![](uploads/contentores_chuc.png)\n\n  \nExsudado oral, Zaragatoa rectal, Zaragatoa Vaginal",
+    "amostra": "Urina\n\n![](uploads/contentores_chuc.png)\n\nExsudado oral, Zaragatoa rectal, Zaragatoa Vaginal",
     "material_colheita": "Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa com meio de\ntransporte vírico com inactivador",
     "descricao_clinica": "",
     "indicacao": "",
@@ -1527,7 +1527,7 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Urina - ULGEU\nExsudado oral - ULGEEO\nZaragatoa rectal - ULGEER\nZaragatoa Vaginal - ULGEEA",
-    "observacoes": "\"Microrganismos pesquisados: ·     *Cytomegalovirus, Haemophilus"
+    "observacoes": "Microrganismos pesquisados: \n\nCytomegalovirus, Haemophilus ducreyi, Herpes simplex virus type 1, Herpes\nsimplex virus type 2, Lymphogranuloma venereum, Treponema pallidum,\nVaricella-zoster virus"
   },
   {
     "slug": "urocultura-aerobios-fungos-leveduriformes",
