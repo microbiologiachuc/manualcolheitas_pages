@@ -1,8 +1,8 @@
 ---
-title: Aspirado brônquico - Aeróbios, anaeróbios e de fungos leveduriformes
+title: Aspirado traqueobrônquico - Aeróbios, anaeróbios e de fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
-amostra: Aspirado brônquico
+amostra: Aspirado traqueobrônquico
 material_colheita: |+
   Contentor estéril
 
