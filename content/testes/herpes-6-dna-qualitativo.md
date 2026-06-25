@@ -9,7 +9,7 @@ material_colheita: |+
   ![](uploads/contentores_hp.png)
 
 transporte_estabilidade: Imediato / 72 horas a 4ºC
-tempo_resposta: Até 96H
+tempo_resposta: Até 96 horas
 setor: L.MIC
 codigo_interno: "4946"
 ---
