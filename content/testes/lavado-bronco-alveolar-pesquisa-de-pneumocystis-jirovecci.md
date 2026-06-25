@@ -1,7 +1,7 @@
 ---
 title: "Pesquisa de Pneumocystis jirovecci "
-area: Parasitologia
-metodo: IFI
+area: Micologia
+metodo: .
 amostra: Lavado bronco-alveolar
 material_colheita: |+
   Contentor estéril
