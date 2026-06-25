@@ -1245,6 +1245,21 @@
     "observacoes": ""
   },
   {
+    "slug": "pesquisa-de-antigenio-de-plasmodium",
+    "title": "Pesquisa de antigénio de Plasmodium",
+    "area": "Parasitologia",
+    "metodo": ".",
+    "amostra": "Sangue",
+    "material_colheita": "Tubo de hemograma\n\n![](uploads/tubo_edta_small.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": ".",
+    "tempo_resposta": ".",
+    "setor": "L.MIC",
+    "codigo_interno": ".",
+    "observacoes": ""
+  },
+  {
     "slug": "pesquisa-de-antigenios-associados-a-gastroenterites",
     "title": "Pesquisa de Antigénios Associados a Gastroenterites",
     "area": "Virologia",
