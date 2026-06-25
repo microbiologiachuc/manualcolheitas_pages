@@ -330,21 +330,6 @@
     "observacoes": ""
   },
   {
-    "slug": "estudo-de-colonizacao-produtores-de-carbapenemases",
-    "title": "Estudo de colonização - Produtores de carbapenemases",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR",
-    "amostra": "Fezes",
-    "material_colheita": "Zaragatoa rectal c/ meio de transporte  adequado  \n\n![](uploads/mrsa_small.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "2 dias",
-    "setor": "L.MIC",
-    "codigo_interno": "ZPCE",
-    "observacoes": ""
-  },
-  {
     "slug": "expectoracao-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Expectoração - Aeróbios, anaeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
