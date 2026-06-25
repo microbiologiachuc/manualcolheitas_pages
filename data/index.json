@@ -1230,21 +1230,6 @@
     "observacoes": ""
   },
   {
-    "slug": "pesquisa-de-cisticercose-taenia-solium",
-    "title": "Pesquisa de Cisticercose (Taenia solium)",
-    "area": "Parasitologia",
-    "metodo": "",
-    "amostra": "",
-    "material_colheita": ".\n\n![](uploads/tubo_quimica_small.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "",
-    "tempo_resposta": "",
-    "setor": "L.MIC",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "pesquisa-de-clostridium-difficile",
     "title": "Pesquisa de Clostridium difficile",
     "area": "Bacteriologia - Biologia Molecular",
@@ -1481,6 +1466,21 @@
     "transporte_estabilidade": "",
     "tempo_resposta": "",
     "setor": "",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
+    "slug": "pesquisa-de-cisticercose-taenia-solium",
+    "title": "Serologia de Cisticercose (Taenia solium)",
+    "area": "Parasitologia",
+    "metodo": ".",
+    "amostra": ".",
+    "material_colheita": ".\n\n![](uploads/tubo_quimica_small.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "",
+    "tempo_resposta": ".",
+    "setor": "L.MIC",
     "codigo_interno": "",
     "observacoes": ""
   },
