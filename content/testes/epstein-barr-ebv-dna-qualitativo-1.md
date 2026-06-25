@@ -5,8 +5,8 @@ metodo: PCR em tempo real
 amostra: |-
   LCR, Outros produtos  
   Medula óssea
-material_colheita: |2-
-   Contentor estéril
+material_colheita: |-
+  Contentor estéril
 
   ![](uploads/contentores_hp.png)
 
@@ -17,5 +17,4 @@ setor: L.MIC
 codigo_interno: |-
   LCR, Outros produtos - 4934
   Medula óssea - 4934M
-observacoes: .
 ---
