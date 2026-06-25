@@ -1,5 +1,5 @@
 ---
-title: Serologia de Leishmania (Leishmaniose)
+title: Serologia de Leishmaniose (Leishmania)
 area: Parasitologia
 metodo: Microscopia óptica
 amostra: Esfregaço de medula óssea
