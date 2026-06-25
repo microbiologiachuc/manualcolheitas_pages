@@ -18,6 +18,6 @@ observacoes: "Microrganismos pesquisados: Adenovirus, Coronavirus 229E,
   Rhinovirus/Enterovirus, Influenza A vírus, Influenza A virus A/H1, Influenza A
   virus A/H3, Influenza A virus A/H1-2009, Influenza B vírus, Parainfluenza
   virus 1, Parainfluenza virus 2, Parainfluenza virus 3, Parainfluenza virus 4,
-  Respiratory syncytial vírus, *Bordetella parapertussis, Bordetella pertússis, 
+  Respiratory syncytial vírus, Bordetella parapertussis, Bordetella pertússis, 
   Chlamydia pneumoniae, Mycoplasma pneumoniae"
 ---
