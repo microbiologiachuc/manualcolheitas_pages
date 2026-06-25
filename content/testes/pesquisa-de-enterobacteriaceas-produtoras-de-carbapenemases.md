@@ -1,5 +1,5 @@
 ---
-title: Pesquisa de Enterobacteriáceas Produtoras de Carbapenemases (EPC)
+title: Rastreio - Enterobacteriáceas Produtoras de Carbapenemases (EPC)
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
