@@ -1640,7 +1640,7 @@
     "area": "Virologia",
     "metodo": "Sequenciação de nova geração",
     "amostra": "Plasma",
-    "material_colheita": "|2+",
+    "material_colheita": "Tubo de EDTA com gel\n\n![](uploads/edta_vir.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC após centrifugação",
