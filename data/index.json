@@ -345,6 +345,21 @@
     "observacoes": "Giardia: pesquisa de antigénio"
   },
   {
+    "slug": "exame-parasitologico-de-liquido-de-quisto",
+    "title": "Exame parasitológico de Líquido de Quisto",
+    "area": "Parasitologia",
+    "metodo": "Imunocromatografia, Microscopia ótica",
+    "amostra": "Líquido de Quisto",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "5 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "exame-parasitologico-de-urina",
     "title": "Exame parasitológico de Urina",
     "area": "Parasitologia",
