@@ -1185,6 +1185,21 @@
     "observacoes": ""
   },
   {
+    "slug": "pesquisa-de-antigenio-de-cryptosporidium",
+    "title": "Pesquisa de antigénio de Cryptosporidium",
+    "area": "Parasitologia",
+    "metodo": ".",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": ".",
+    "tempo_resposta": ".",
+    "setor": "L.MIC",
+    "codigo_interno": ".",
+    "observacoes": ""
+  },
+  {
     "slug": "pesquisa-de-antigenio-de-giardia",
     "title": "Pesquisa de antigénio de Giardia",
     "area": "Parasitologia",
