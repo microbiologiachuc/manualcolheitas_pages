@@ -5,12 +5,15 @@ metodo: PCR em tempo real
 amostra: |-
   Biópsia, LCR, Líquido amniótico  
   Sangue total, Sangue total do cordão
-material_colheita: |-
+material_colheita: |+
   Contentor estéril
 
   ![](uploads/contentores_chuc.png)
 
   Tubo de EDTA (tubo de hemograma)
+
+  ![](uploads/tubo_edta_small.png)
+
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
