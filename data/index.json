@@ -1395,21 +1395,6 @@
     "observacoes": ""
   },
   {
-    "slug": "pesquisa-de-mrsa-staphylococcus-aureus-resistente-a-meticilina",
-    "title": "Pesquisa de Staphylococcus aureus resistente à meticilina (MRSA)",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Zaragatoa nasal",
-    "material_colheita": "|2+",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
-    "tempo_resposta": "Até 4 horas",
-    "setor": "L.MIC",
-    "codigo_interno": "PMRSA",
-    "observacoes": ""
-  },
-  {
     "slug": "pesquisa-de-streptococcus-grupo-b",
     "title": "Pesquisa de Streptococcus grupo B",
     "area": "Bacteriologia - Biologia Molecular",
