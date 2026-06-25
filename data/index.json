@@ -330,6 +330,21 @@
     "observacoes": ""
   },
   {
+    "slug": "exame-parasitologico-de-aspirado-duodenal",
+    "title": "Exame parasitológico de Aspirado Duodenal",
+    "area": "Parasitologia",
+    "metodo": "Imunocromatografia, Microscopia ótica",
+    "amostra": "Aspirado Duodenal",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "5 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
     "slug": "giardia-detecao-de-antigenio",
     "title": "Exame parasitológico de Fezes",
     "area": "Parasitologia",
