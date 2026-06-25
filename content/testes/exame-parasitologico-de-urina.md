@@ -1,7 +1,7 @@
 ---
 title: Exame parasitológico de Urina
 area: Parasitologia
-metodo: Exame microscópico
+metodo: Imunocromatografia, Microscopia ótica
 amostra: Urina
 material_colheita: |+
   Contentor estéril
