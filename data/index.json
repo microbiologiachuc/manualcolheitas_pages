@@ -1275,21 +1275,6 @@
     "observacoes": "Deteção de anticorpos IgG"
   },
   {
-    "slug": "pesquisa-de-enterobacteriaceas-produtoras-de-carbapenemases",
-    "title": "Pesquisa de Enterobacteriáceas Produtoras de Carbapenemases (EPC)",
-    "area": "Bacteriologia - Biologia Molecular",
-    "metodo": "PCR em tempo real",
-    "amostra": "Zaragatoa retal",
-    "material_colheita": "Zaragatoa com meio de transporte líquido (Amies)\n\n![](uploads/mrsa_small.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
-    "tempo_resposta": "Até 4 horas",
-    "setor": "L.MIC",
-    "codigo_interno": "ZPCE",
-    "observacoes": ""
-  },
-  {
     "slug": "fasciolose-detecao-ac-igg",
     "title": "Pesquisa de Fasciola spp",
     "area": "Parasitologia",
@@ -1467,6 +1452,21 @@
     "tempo_resposta": "<14 dias",
     "setor": "L.MIC",
     "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
+    "slug": "pesquisa-de-enterobacteriaceas-produtoras-de-carbapenemases",
+    "title": "Rastreio - Enterobacteriáceas Produtoras de Carbapenemases (EPC)",
+    "area": "Bacteriologia - Biologia Molecular",
+    "metodo": "PCR em tempo real",
+    "amostra": "Zaragatoa retal",
+    "material_colheita": "Zaragatoa com meio de transporte líquido (Amies)\n\n![](uploads/mrsa_small.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "tempo_resposta": "Até 4 horas",
+    "setor": "L.MIC",
+    "codigo_interno": "ZPCE",
     "observacoes": ""
   },
   {
