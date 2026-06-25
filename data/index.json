@@ -45,21 +45,6 @@
     "observacoes": ""
   },
   {
-    "slug": "aspirado-bronquico-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes-1",
-    "title": "Aspirado brônquico - Aeróbios, anaeróbios e de fungos leveduriformes",
-    "area": "Bacteriologia - Geral",
-    "metodo": "Cultura",
-    "amostra": "Aspirado brônquico",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "3 dias",
-    "setor": "L.MIC",
-    "codigo_interno": "ASB",
-    "observacoes": ""
-  },
-  {
     "slug": "aspirado-de-ferida-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes-1",
     "title": "Aspirado de ferida - Aeróbios, anaeróbios e de fungos leveduriformes",
     "area": "Bacteriologia - Geral",
@@ -87,6 +72,21 @@
     "tempo_resposta": "3 dias",
     "setor": "L.MIC",
     "codigo_interno": "ASMH",
+    "observacoes": ""
+  },
+  {
+    "slug": "aspirado-bronquico-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes-1",
+    "title": "Aspirado traqueobrônquico - Aeróbios, anaeróbios e de fungos leveduriformes",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Aspirado traqueobrônquico",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "3 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "ASB",
     "observacoes": ""
   },
   {
