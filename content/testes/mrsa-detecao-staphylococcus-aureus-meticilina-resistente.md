@@ -1,5 +1,5 @@
 ---
-title: Deteção Staphylococcus aureus meticilina resistente (MRSA)
+title: Rastreio - Staphylococcus aureus meticilina resistente (MRSA)
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: "Zaragatoa nasal "
