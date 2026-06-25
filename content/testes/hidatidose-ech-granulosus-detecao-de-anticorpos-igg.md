@@ -1,10 +1,12 @@
 ---
-title: Pesquisa de Echinococcus granulosus (Hidatidose)
+title: Serologia de Hidatidose (Echinococose)
 area: Parasitologia
 metodo: IFI, Western Blot
 amostra: Soro
 material_colheita: |+
   Tubo c/ gel
+
+  ![](uploads/tubo_quimica_small.png)
 
   ![](uploads/tuboteste.jpg)
 
