@@ -1292,8 +1292,8 @@
   {
     "slug": "lavado-bronco-alveolar-pesquisa-de-pneumocystis-jirovecci",
     "title": "Pesquisa de Pneumocystis jirovecci",
-    "area": "Parasitologia",
-    "metodo": "IFI",
+    "area": "Micologia",
+    "metodo": ".",
     "amostra": "Lavado bronco-alveolar",
     "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
