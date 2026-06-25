@@ -315,21 +315,6 @@
     "observacoes": ""
   },
   {
-    "slug": "esbl-estudo-de-colonizacao-por-produtores-b-lactamases-largo-espectro",
-    "title": "ESBL - Estudo de colonização por produtores β-lactamases largo espectro",
-    "area": "Bacteriologia - Geral",
-    "metodo": "Cultura",
-    "amostra": "Fezes",
-    "material_colheita": "Zaragatoa rectal\n\n![](uploads/mrsa_small.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "2 dias",
-    "setor": "L.MIC",
-    "codigo_interno": "CESBL",
-    "observacoes": ""
-  },
-  {
     "slug": "esperma-pesquisa-de-aerobios-e-fungos-leveduriformes",
     "title": "Esperma - Aeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
@@ -1452,6 +1437,21 @@
     "tempo_resposta": "<14 dias",
     "setor": "L.MIC",
     "codigo_interno": "",
+    "observacoes": ""
+  },
+  {
+    "slug": "esbl-estudo-de-colonizacao-por-produtores-b-lactamases-largo-espectro",
+    "title": "Rastreio - Colonização por produtores β-lactamases largo espectro (ESBL)",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Cultura",
+    "amostra": "Fezes",
+    "material_colheita": "Zaragatoa rectal\n\n![](uploads/mrsa_small.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato",
+    "tempo_resposta": "2 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "CESBL",
     "observacoes": ""
   },
   {
