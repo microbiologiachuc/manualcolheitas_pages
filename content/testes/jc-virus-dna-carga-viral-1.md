@@ -2,11 +2,9 @@
 title: Vírus JC, DNA Carga viral
 area: Virologia
 metodo: PCR em tempo real
-amostra: |+
-  LCR
-
-material_colheita: |2+
-   Contentor estéril
+amostra: LCR
+material_colheita: |+
+  Contentor estéril
 
   ![](uploads/contentores_hp.png)
 
