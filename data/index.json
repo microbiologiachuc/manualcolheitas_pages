@@ -225,21 +225,6 @@
     "observacoes": ""
   },
   {
-    "slug": "cryptococcus-neoformans-pesquisa-de-antigenio",
-    "title": "Cryptococcus neoformans, Pesquisa de antigénio - LCR, Soro",
-    "area": "Micologia",
-    "metodo": "Imunocromatografia",
-    "amostra": "LCR, Soro",
-    "material_colheita": "Contentor estéril  \n\n\n![](uploads/contentores_hp.png)\n\n  \nTubo c/ gel  \n\n\n![](uploads/tubo_quimica_small.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "Imediato / quantificação até 72H",
-    "setor": "Microbiologia",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "doencas-transmitidas-por-carracas-tick-borne-teste-multiplo-1",
     "title": "Doenças transmitidas por carraças (Tick-borne), DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
