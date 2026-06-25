@@ -1245,6 +1245,21 @@
     "observacoes": "Critério de exclusão: fezes moldadas ou sólidas"
   },
   {
+    "slug": "pesquisa-de-cryptosporidium-spp",
+    "title": "Pesquisa de Cryptosporidium spp",
+    "area": "Parasitologia",
+    "metodo": ".",
+    "amostra": ".\n\n![](uploads/contentores_chuc.png)",
+    "material_colheita": ".",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": ".",
+    "tempo_resposta": ".",
+    "setor": ".",
+    "codigo_interno": ".",
+    "observacoes": ""
+  },
+  {
     "slug": "pesquisa-de-cyclospora",
     "title": "Pesquisa de Cyclospora",
     "area": "Parasitologia",
