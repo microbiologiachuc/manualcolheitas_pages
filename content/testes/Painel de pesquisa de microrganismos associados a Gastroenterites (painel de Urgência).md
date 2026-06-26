@@ -13,6 +13,10 @@ tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: GASTR (HUC) / 4949 (HP)
 observacoes: >-
+  Critério de exclusão: amostra constituída por fezes macroscopicamente moldadas
+  ou sólidas
+
+
   Microorganismos no Painel:  
 
   Campylobacter (C. jejuni / C. coli / C. upsaliensis), Clostridioides
