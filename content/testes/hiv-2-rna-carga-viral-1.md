@@ -2,15 +2,13 @@
 title: HIV-2, RNA Carga viral
 area: Virologia
 metodo: PCR em tempo real
-amostra: |-
-  LCR, Outros produtos  
-  Plasma
+amostra: LCR, Outros produtos, Plasma
 material_colheita: |+
-  Contentor estéril
+  Se LCR, Outros produtos - Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_hp.png)
 
-  Tubo de EDTA com gel
+  Se Plasma - Tubo de EDTA com gel
 
   ![](uploads/edta_vir.png)
 
