@@ -311,8 +311,8 @@
     "transporte_estabilidade": "Envio imediato ou Conservar a 4 ºC / até 7 dias a 4 ºC",
     "tempo_resposta": "7 dias",
     "setor": "L.MIC",
-    "codigo_interno": "Giardia - \nGordura nas fezes - PPG\nGrau de digestão - GDIG\nLeucócitos -",
-    "observacoes": "Colheita ótima: um terço da altura do contentor preenchida com fezes"
+    "codigo_interno": "PEF, PEF2, PEF3",
+    "observacoes": "Colheita de 3 amostras em dias alternados  \nColheita ótima: um terço da altura do contentor preenchida com fezes"
   },
   {
     "slug": "exame-parasitologico-de-liquido-de-quisto",
@@ -348,15 +348,15 @@
     "slug": "exame-parasitologico-de-urina",
     "title": "Exame parasitológico de Urina",
     "area": "Parasitologia",
-    "metodo": "Imunocromatografia, Microscopia ótica",
+    "metodo": "Observação microscópica de sedimento",
     "amostra": "Urina",
     "material_colheita": "Contentor estéril (de preferência estanque)\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "5 dias",
+    "transporte_estabilidade": "Envio imediato ou Conservar a 4 ºC / até 7 dias a 4 ºC",
+    "tempo_resposta": "7 dias",
     "setor": "L.MIC",
-    "codigo_interno": "",
+    "codigo_interno": "PEU",
     "observacoes": ""
   },
   {
