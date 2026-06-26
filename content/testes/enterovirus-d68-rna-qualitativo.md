@@ -2,9 +2,9 @@
 title: Enterovirus D68, RNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: "LCR / Outros produtos "
+amostra: "LCR, Outros produtos "
 material_colheita: |+
-  Contentor estéril
+  Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_hp.png)
 
