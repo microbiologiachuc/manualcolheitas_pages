@@ -4,17 +4,16 @@ area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Fezes
 material_colheita: |+
-  Contentor estéril
+  Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_chuc.png)
 
-transporte_estabilidade: Imediato / 72 horas a 4ºC
+transporte_estabilidade: Envio imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
 codigo_interno: TAQGAS
 observacoes: >-
-  Microorganismos no Painel:
-
+  Microorganismos no Painel:  
 
   C. jejuni / coli / upsaliensis, C. difficile, P. shigelloides, Salmonella
   spp., Y. enterocolitica, Vibrio parahaemolyticus / vulnificus / cholerae, E.
