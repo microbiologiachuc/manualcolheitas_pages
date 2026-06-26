@@ -1,5 +1,5 @@
 ---
-title: Pesquisa de antigénio de Cryptosporidium
+title: Pesquisa de antigénio de Cryptosporidium spp
 area: Parasitologia
 metodo: Imunocromatográfico
 amostra: Fezes
