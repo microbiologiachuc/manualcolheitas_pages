@@ -4,16 +4,16 @@ area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: LCR
 material_colheita: |+
-  Contentor estéril
+  Tubo estéril de tampa verde
 
   ![](uploads/lcr_left.png)
 
-transporte_estabilidade: Imediato / 72 horas a 4ºC
+transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
 tempo_resposta: "Até 72 horas "
 setor: L.MIC
 codigo_interno: TAQVIR
 observacoes: >-
-  Microrganismos  pesquisados:   
+  Microrganismos  pesquisados:  
 
   **Virus:** Adenovirus (AdV) , Astrovirus, Chikungunya vírus, Coxsackievirus
   types A9, Coxsackievirus types B2, Coxsackievirus types B5, Cytomegalovirus,
