@@ -4,11 +4,11 @@ area: Virologia
 metodo: PCR em tempo real
 amostra: Urina, Outros produtos, Plasma
 material_colheita: |+
-  Urina, Outros produtos - Contentor estéril
+  Se Urina, Outros produtos - Contentor estéril
 
   ![](uploads/contentores_hp.png)
 
-  Plasma - Tubo de EDTA com gel
+  Se Plasma - Tubo de EDTA com gel
 
   ![](uploads/edta_vir.png)
 
