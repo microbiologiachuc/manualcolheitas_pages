@@ -2,15 +2,16 @@
 title: Enterovirus, RNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: |-
-  LCR, Secreções respiratórias, Outros produtos  
-  Plasma
-material_colheita: |+
-  Contentor estéril
+amostra: LCR, Secreções respiratórias, Outros produtos, Plasma
+material_colheita: >+
+  Se LCR, Secreções respiratórias, Outros produtos - Contentor estéril (de
+  preferência estanque)
+
 
   ![](uploads/contentores_hp.png)
 
-  Tubo de EDTA com gel  
+
+  Se Plasma - Tubo de EDTA com gel  
 
 
   ![](uploads/edta_vir.png)
