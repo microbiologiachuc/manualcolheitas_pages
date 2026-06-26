@@ -4,7 +4,7 @@ area: Virologia
 metodo: PCR  em tempo real
 amostra: LCR, Urina, Líquido amniótico, Plasma
 material_colheita: |+
-  Se LCR, Urina, Líquido amniótico - Contentor estéril  
+  Se LCR, Urina, Líquido amniótico - Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_hp.png)
 
