@@ -2,15 +2,13 @@
 title: Citomegalovírus (CMV), DNA Carga Viral
 area: Virologia
 metodo: PCR  em tempo real
-amostra: |-
-  LCR, Urina, Líquido amniótico  
-  Plasma
+amostra: LCR, Urina, Líquido amniótico, Plasma
 material_colheita: |+
-  LCR, Urina, Líquido amniótico - Contentor estéril  
+  Se LCR, Urina, Líquido amniótico - Contentor estéril  
 
   ![](uploads/contentores_hp.png)
 
-  Plasma - Tubo de EDTA (Tubo de hemograma).
+  Se Plasma - Tubo de EDTA (Tubo de hemograma)
 
   ![](uploads/edta_vir.png)
 
