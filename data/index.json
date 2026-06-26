@@ -1587,18 +1587,18 @@
     "tempo_resposta": "Até 1 mês",
     "setor": "L.MIC",
     "codigo_interno": "PSF",
-    "observacoes": ""
+    "observacoes": "Deteção de anticorpos IgG"
   },
   {
     "slug": "hidatidose-ech-granulosus-detecao-de-anticorpos-igg",
-    "title": "Serologia de Hidatidose (Echinococose)",
+    "title": "Serologia de Hidatidose/Echinococose",
     "area": "Parasitologia",
-    "metodo": "IFI, Western Blot",
+    "metodo": "ELISA; Western Blot",
     "amostra": "Soro",
-    "material_colheita": "Tubo c/ gel\n\n![](uploads/tubo_quimica_small.png)\n\n![](uploads/tuboteste.jpg)",
+    "material_colheita": "Tubo sem preparação com gel (Tubo de Química)\n\n![](uploads/tubo_quimica_small.png)\n\n![](uploads/tuboteste.jpg)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "5d, 2-8ºC\n6m, -20ºC",
+    "transporte_estabilidade": "Envio imediato / 3 dias, 2-8 ºC; 6 mês, -20ºC",
     "tempo_resposta": "Até 1 mês",
     "setor": "L.MIC",
     "codigo_interno": "PSQH",
