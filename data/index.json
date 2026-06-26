@@ -950,7 +950,7 @@
     "area": "Parasitologia",
     "metodo": "Microscopia ótica, luz polarizada",
     "amostra": "Líquido sinovial",
-    "material_colheita": "Contentor estéril",
+    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Temperatura ambiente",
