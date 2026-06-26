@@ -2,15 +2,13 @@
 title: HIV-2, Genotipagem/Resistência aos antirretrovirais
 area: Virologia
 metodo: Sequenciação de nova geração
-amostra: |-
-  LCR  
-  Plasma
+amostra: LCR, Plasma
 material_colheita: |+
-  Contentor estéril
+  Se LCR - Contentor estéril (de preferência estanque)
 
-  ![](uploads/contentores_hp.png)
+  ![](uploads/lcr_left.png)
 
-  Tubo de EDTA com gel
+  Se Plasma - Tubo de EDTA com gel
 
   ![](uploads/edta_vir.png)
 
