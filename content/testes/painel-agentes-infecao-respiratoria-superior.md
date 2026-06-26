@@ -2,13 +2,13 @@
 title: Painel Agentes Infeção Respiratória Superior
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e nested PCR
-amostra: Exsudado da nasofaringe/ exsudado da orofaringe
+amostra: Exsudado da nasofaringe, Exsudado da orofaringe
 material_colheita: |+
   Zaragatoa com meio de transporte vírico com inactivador
 
   ![](uploads/respiratorios.png)
 
-transporte_estabilidade: Imediato
+transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
 tempo_resposta: Até 4h
 setor: L.MIC
 codigo_interno: RESSU (HUC) / 4945 (HP)
