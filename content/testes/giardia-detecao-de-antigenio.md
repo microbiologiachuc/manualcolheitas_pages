@@ -20,5 +20,10 @@ codigo_interno: |-
   Gordura nas fezes - PPG
   Grau de digestão - GDIG
   Leucócitos - 
-observacoes: "Giardia: pesquisa de antigénio"
+observacoes: >-
+  Giardia: pesquisa de antigénio
+
+
+  Colheita ótima corresponde a um terço da altura do contentor preenchida com
+  fezes
 ---
