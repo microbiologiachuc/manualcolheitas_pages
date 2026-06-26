@@ -6,7 +6,7 @@ amostra: LCR, Plasma
 material_colheita: |+
   Se LCR - Contentor estéril (de preferência estanque)
 
-  ![](uploads/contentores_hp.png)
+  ![](uploads/lcr_left.png)
 
   Se Plasma - Tubo de EDTA com gel
 
