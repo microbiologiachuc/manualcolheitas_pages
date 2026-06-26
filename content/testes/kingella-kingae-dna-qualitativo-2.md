@@ -2,23 +2,25 @@
 title: Kingella kingae, DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: |-
-  Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar  
-  Sangue total  
-  Zaragatoa orofaringe
-material_colheita: |+
-  Contentor estéril
+amostra: Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar, Sangue
+  total, Zaragatoa orofaringe
+material_colheita: >+
+  Se Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar - Contentor
+  estéril (de preferência estanque)
+
 
   ![](uploads/contentores_chuc.png)
 
 
+  Se Sangue total - Tubo de EDTA (tubo de hemograma)
 
-  Tubo de EDTA (tubo de hemograma)
 
   ![](uploads/tubo_edta_small.png)
 
-    
-  Zaragatoa com meio de transporte vírico com inactivador
+
+  Se Zaragatoa orofaringe - Zaragatoa com meio de transporte vírico com
+  inactivador
+
 
   ![](uploads/respiratorios.png)
 
