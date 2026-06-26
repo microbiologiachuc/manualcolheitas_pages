@@ -11,10 +11,8 @@ material_colheita: |+
 transporte_estabilidade: Envio imediato ou Conservar a 4 ºC / até 7 dias a 4 ºC
 tempo_resposta: 7 dias
 setor: L.MIC
-codigo_interno: |-
-  Giardia - 
-  Gordura nas fezes - PPG
-  Grau de digestão - GDIG
-  Leucócitos - 
-observacoes: "Colheita ótima: um terço da altura do contentor preenchida com fezes"
+codigo_interno: PEF, PEF2, PEF3
+observacoes: |-
+  Colheita de 3 amostras em dias alternados  
+  Colheita ótima: um terço da altura do contentor preenchida com fezes
 ---
