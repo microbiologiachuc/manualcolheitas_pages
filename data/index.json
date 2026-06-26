@@ -244,14 +244,14 @@
     "title": "DST (Chlam.trach; Neiss.gono), DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
-    "amostra": "Exsudado uretral, Exsudado vaginal, Exsudado orofaringe, Exsudado retal",
-    "material_colheita": "Zaragatoa com meio de transporte líquido (Amies)  \n\n\n![](uploads/teste.png)",
+    "amostra": "Exsudado vaginal, Exsudado orofaringe, Exsudado retal, Exsudado uretral",
+    "material_colheita": "Se Exsudado vaginal, Exsudado orofaringe, Exsudado retal - Zaragatoa com meio\nde transporte líquido (Amies)\n\n\n![](uploads/mrsa_small.png)\n\n\nSe Exsudado uretral - Zaragatoa com meio de transporte líquido (Amies)\nadaptada ao Doente\n\n\n![](uploads/teste.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 4 horas",
     "setor": "L.MIC",
-    "codigo_interno": "Exsudado uretral - DMCU\nExsudado vaginal - DMCV\nExsudado orofaringe - DMCO\nExsudado retal - DMCR",
+    "codigo_interno": "Exsudado vaginal - DMCV\nExsudado orofaringe - DMCO\nExsudado retal - DMCR\nExsudado uretral - DMCU",
     "observacoes": ""
   },
   {
