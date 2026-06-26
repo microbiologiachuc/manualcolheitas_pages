@@ -1,7 +1,7 @@
 ---
 title: "Serologia de Amibiose "
 area: Parasitologia
-metodo: IFI, Western Blot
+metodo: Hemaglutinação indireta
 amostra: Soro
 material_colheita: |+
   Tubo sem preparação com gel (Tubo de Química)
