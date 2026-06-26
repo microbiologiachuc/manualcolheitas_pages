@@ -4,16 +4,16 @@ area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e Nested PCR
 amostra: LCR
 material_colheita: |+
-  Contentor estéril
+  Tubo estéril de tampa verde
 
   ![](uploads/lcr_left.png)
 
-transporte_estabilidade: Imediato / 72 horas a 4ºC
+transporte_estabilidade: Envio imediato / 72 horas a 4ºC
 tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: MENIN (HUC) / 4987 (HP)
 observacoes: >-
-  Microrganismos pesquisados:   
+  Microrganismos pesquisados:  
 
   Escherichia coli K1, Haemophilus influenzae, Listeria monocytogenes, Neisseria
   meningitidis, Streptococcus agalactiae, Streptococcus pneumoniae,
