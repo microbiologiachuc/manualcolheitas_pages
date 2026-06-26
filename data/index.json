@@ -1335,6 +1335,21 @@
     "observacoes": "Microrganismos pesquisados: \n\nEpidermophyton floccosum, Microsporum audouinii, Microsporum ferrugineum,\nTrichophyton bullosum, Trichophyton erinacei, Trichophyton interdigitale,\nTrichophyton quinckeanum (T. mentagrophytes), Trichophyton rubrum,\nTrichophyton schoenleinii, Trichophyton tonsurans, Trichophyton violaceum,\nMicrosporum canis, Nannizzia fulva (Microsporum fulvum), Trichophyton\nbenhamiae, Trichophyton concentricum, Trichophyton equinum, Trichophyton\neriotrephon, Trichophyton simii, Trichophyton verrucosum, Nannizzia gypsea\n(Microsporum gypseum), Nannizzia incurvata (Microsporum incurvatum), Nannizzia\npersicolor (Microsporum persicolor) e Trichophyton mentagrophytes,* além das\nleveduras  *Candida albicans, Candida parapsilosis, Candida guilliermondii,\nFusarium oxysporum, Fusarium solani e Scopulariopsis brevicaulis."
   },
   {
+    "slug": "pesquisa-de-enterobius-vermicularis",
+    "title": "Pesquisa de Enterobius vermicularis",
+    "area": "Parasitologia",
+    "metodo": "Método de Graham (método de fita adesiva)",
+    "amostra": "Colheita com Fita Adesiva",
+    "material_colheita": "Fita Adesiva, segundo método apresentado em Observações",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato / até 7 dias a 4 ºC",
+    "tempo_resposta": "7 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "",
+    "observacoes": "Colher segundo Técnica de Graham, como apresentado de seguida (retirado de\n0873-9781/12/43-1/35, Protocolo de Parasitoses Intestinais, in Acta Pediátrica\nPortuguesa).  \n\n\n\n![](uploads/graham.png)"
+  },
+  {
     "slug": "pesquisa-de-leishmania",
     "title": "Pesquisa de Leishmania",
     "area": "Parasitologia",
