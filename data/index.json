@@ -312,7 +312,7 @@
     "tempo_resposta": "7 dias",
     "setor": "L.MIC",
     "codigo_interno": "PEF, PEF2, PEF3",
-    "observacoes": "Colheita de 3 amostras em dias alternados  \nColheita ótima: um terço da altura do contentor preenchida com fezes"
+    "observacoes": "Colheita de 3 amostras em dias alternados  \n\nColheita ótima: um terço da altura do contentor preenchida com fezes  \n\nSe suspeita de Entamoeba histolytica enviar de imediato ao Laboratório sem\nrefrigerar a amostra (manter à temperatura ambiente ou idealmente a 37 ºC)"
   },
   {
     "slug": "exame-parasitologico-de-liquido-de-quisto",
