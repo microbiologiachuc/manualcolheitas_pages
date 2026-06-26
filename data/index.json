@@ -945,21 +945,6 @@
     "observacoes": ""
   },
   {
-    "slug": "liquido-sinovial-pesquisa-de-cristais",
-    "title": "Líquido sinovial - Cristais",
-    "area": "Parasitologia",
-    "metodo": "Microscopia ótica, luz polarizada",
-    "amostra": "Líquido sinovial",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Temperatura ambiente",
-    "tempo_resposta": "1 dia",
-    "setor": "L.MIC",
-    "codigo_interno": "",
-    "observacoes": ""
-  },
-  {
     "slug": "material-necropsia-pesquisa-de-aerobios-anaerobios-fungos-leveduriformes",
     "title": "Material necropsia - Aeróbios, anaeróbios, fungos leveduriformes",
     "area": "Bacteriologia - Geral",
