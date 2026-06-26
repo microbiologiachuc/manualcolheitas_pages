@@ -94,14 +94,14 @@
     "title": "Bartonella sp., DNA qualitativo",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
-    "amostra": "Biópsia, LCR, Líquido sinovial, Qualquer amostra ocular  \nSangue total",
-    "material_colheita": "Biópsia, LCR, Líquido sinovial - Contentor estéril\n\n![](uploads/contentores_hp.png)\n\nQualquer amostra ocular - Tubo solicitado ao Laboratório de microbiologia  \nSangue total - Tubo de EDTA (tubo de hemograma)\n\n![](uploads/tubo_edta_small.png)",
+    "amostra": "Biópsia, LCR, Líquido sinovial, Sangue total, Qualquer amostra ocular",
+    "material_colheita": "Se Biópsia, LCR, Líquido sinovial - Contentor estéril (de preferência\nestanque)\n\n\n![](uploads/contentores_hp.png)\n\n\nSe Sangue total - Tubo de EDTA (tubo de hemograma)\n\n\n![](uploads/tubo_edta_small.png)\n\n\nSe Qualquer amostra ocular - Tubo solicitado ao Laboratório de Microbiologia",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
-    "codigo_interno": "Biópsia - BARTB\nLCR - BARTLCR\nLíquido sinovial - BARTLS\nQualquer amostra ocular - BARTOC\nSangue total - BAERTST",
+    "codigo_interno": "Biópsia - BARTB\nLCR - BARTLCR\nLíquido sinovial - BARTLS\nSangue total - BAERTST\nQualquer amostra ocular - BARTOC",
     "observacoes": ""
   },
   {
