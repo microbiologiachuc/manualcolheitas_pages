@@ -8,7 +8,7 @@ material_colheita: |+
 
   ![](uploads/respiratorios.png)
 
-transporte_estabilidade: Imediato / 72 horas a 4ºC
+transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
 tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: COVFLU/COV19
