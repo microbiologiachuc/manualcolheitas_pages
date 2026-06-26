@@ -1,18 +1,16 @@
 ---
-title: Serologia de Hidatidose (Echinococose)
+title: Serologia de Hidatidose/Echinococose
 area: Parasitologia
-metodo: IFI, Western Blot
+metodo: ELISA; Western Blot
 amostra: Soro
 material_colheita: |+
-  Tubo c/ gel
+  Tubo sem preparação com gel (Tubo de Química)
 
   ![](uploads/tubo_quimica_small.png)
 
   ![](uploads/tuboteste.jpg)
 
-transporte_estabilidade: |-
-  5d, 2-8ºC
-  6m, -20ºC
+transporte_estabilidade: Envio imediato / 3 dias, 2-8 ºC; 6 mês, -20ºC
 tempo_resposta: Até 1 mês
 setor: L.MIC
 codigo_interno: PSQH
