@@ -8,7 +8,7 @@ material_colheita: |-
 
   ![](uploads/contentores_hp.png)
 
-  Se qualquer amostra ocular - Tubo solicitado ao lab de microbiologia
+  Se Qualquer amostra ocular - Tubo solicitado ao Laboratório de microbiologia
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
