@@ -4,7 +4,7 @@ area: Parasitologia
 metodo: Microscopia, pesquisa de anticorpos IgG, pesquisa de antigénio
 amostra: Fezes (para todos), Soro (para amebíase, cisticercose, fasciolose, hidatidose)
 material_colheita: |+
-  Contentor estéril ou Tubo com gel 
+  Contentor estéril (de preferência estanque) ou Tubo com gel 
 
   ![](uploads/contentores_chuc.png)
 
