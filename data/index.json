@@ -1085,14 +1085,14 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Fezes",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "material_colheita": "Contentor estéril (de preferência estanque)\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "transporte_estabilidade": "Envio imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "TAQGAS",
-    "observacoes": "Microorganismos no Painel:\n\n\nC. jejuni / coli / upsaliensis, C. difficile, P. shigelloides, Salmonella\nspp., Y. enterocolitica, Vibrio parahaemolyticus / vulnificus / cholerae, E.\ncoli Enteroaggregative, E. coli Enteropathogenic, E. coli Enterotoxigenic, E.\ncoli Shiga-like toxin-producing Stx1/Stx2, E. coli Enteroinvasive / Shigella,\nL. monocytogenes, E. coli O157, Adenovirus F40/41, Astrovirus, Norovirus GI,\nNorovirus GII, Rotavirus A, Rotavirus B, Rotavirus C, Sapovirus (I, II, IV),\nSapovirus G.V (V), Ancylostoma duodenale, A. lumbricoides / suum, B. coli,\nBlastocystis spp., Clonorchis sinensis / Opisthorchis spp. / Metorchis spp.,\nCryptosporidium spp., Cyclospora cayetanensis, Cystoisospora belli,\nDientamoeba fragilis, Encephalitozoon spp., E. histolytica, E. vermicularis,\nE. bieneusi, Fasciola spp., Fasciolopsis buski, G. lamblia, Hymenolepis\ndiminuta, Hymenolepis nana, Necator americanus, Schistosoma mansoni,\nSchistosoma spp., S. stercoralis, T. saginata / asiatica, T. solium, Trichuris\nspp., DNA qualitativo"
+    "observacoes": "Microorganismos no Painel:  \n\nC. jejuni / coli / upsaliensis, C. difficile, P. shigelloides, Salmonella\nspp., Y. enterocolitica, Vibrio parahaemolyticus / vulnificus / cholerae, E.\ncoli Enteroaggregative, E. coli Enteropathogenic, E. coli Enterotoxigenic, E.\ncoli Shiga-like toxin-producing Stx1/Stx2, E. coli Enteroinvasive / Shigella,\nL. monocytogenes, E. coli O157, Adenovirus F40/41, Astrovirus, Norovirus GI,\nNorovirus GII, Rotavirus A, Rotavirus B, Rotavirus C, Sapovirus (I, II, IV),\nSapovirus G.V (V), Ancylostoma duodenale, A. lumbricoides / suum, B. coli,\nBlastocystis spp., Clonorchis sinensis / Opisthorchis spp. / Metorchis spp.,\nCryptosporidium spp., Cyclospora cayetanensis, Cystoisospora belli,\nDientamoeba fragilis, Encephalitozoon spp., E. histolytica, E. vermicularis,\nE. bieneusi, Fasciola spp., Fasciolopsis buski, G. lamblia, Hymenolepis\ndiminuta, Hymenolepis nana, Necator americanus, Schistosoma mansoni,\nSchistosoma spp., S. stercoralis, T. saginata / asiatica, T. solium, Trichuris\nspp., DNA qualitativo"
   },
   {
     "slug": "Painel de pesquisa de microrganismos associados a Gastroenterites (painel de Urgência)",
