@@ -4,7 +4,7 @@ area: Parasitologia
 metodo: Imunocromatografia, Microscopia ótica
 amostra: Produtos Vários
 material_colheita: |+
-  Contentor estéril
+  Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_chuc.png)
 
