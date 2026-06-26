@@ -6,7 +6,7 @@ amostra: "Secreções respiratórias, Lavado Broncoalveolar, Biópsias, Outros
   produtos, Medula óssea "
 material_colheita: >+
   Se Secreções respiratórias, Lavado Broncoalveolar, Biópsias, Outros produtos -
-  Contentor estéril
+  Contentor estéril (de preferência estanque)
 
 
   ![](uploads/contentores_hp.png)
