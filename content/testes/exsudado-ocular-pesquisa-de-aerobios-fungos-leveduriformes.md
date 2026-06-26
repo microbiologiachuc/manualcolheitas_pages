@@ -13,7 +13,7 @@ material_colheita: >+
 
   ![](uploads/bhi_small.png)
 
-transporte_estabilidade: Envio imediato à temperatura ambiente
+transporte_estabilidade: Envio imediato à temperatura ambiente / até 7 dias a 4 ºC
 tempo_resposta: Até 1 semana
 setor: L.MIC
 codigo_interno: EXOC
