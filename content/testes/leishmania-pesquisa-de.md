@@ -1,15 +1,16 @@
 ---
 title: Serologia de Leishmaniose
 area: Parasitologia
-metodo: Microscopia óptica
-amostra: Esfregaço de medula óssea
+metodo: Imunofluorescência indireta (IFI); Western blot
+amostra: Soro
 material_colheita: |+
-  Tubo c/ EDTA
+  Tubo sem preparação com gel (Tubo de Química)
 
   ![](uploads/tubo_quimica_small.png)
 
-transporte_estabilidade: 3h, ambiente
-tempo_resposta: <5d
+transporte_estabilidade: Envio imediato / 3 dias, 2-8 ºC; 6 mês, -20ºC
+tempo_resposta: Até 1 mês
 setor: L.MIC
-codigo_interno: PPL
+codigo_interno: PSL
+observacoes: " Deteção de anticorpos IgG"
 ---
