@@ -1,27 +1,20 @@
 ---
 title: Exame parasitológico de Fezes
 area: Parasitologia
-metodo: Imunocromatografia, Microscopia ótica
+metodo: Método de concentração de Ritchie
+amostra: "Fezes "
 material_colheita: |+
   Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_chuc.png)
 
-transporte_estabilidade: |-
-  Giardia - 3 horas, ambiente / manter a temperatura ambiente    
-  Gordura nas fezes - 5 dias / 2-8ºC    
-  Grau de digestão - 2 dias / 2-8ºC    
-  Leucócitos - 5 dias / 2-8ºC
-tempo_resposta: Até 1 semana
+transporte_estabilidade: Envio imediato ou Conservar a 4 ºC / até 7 dias a 4 ºC
+tempo_resposta: 7 dias
 setor: L.MIC
 codigo_interno: |-
   Giardia - 
   Gordura nas fezes - PPG
   Grau de digestão - GDIG
   Leucócitos - 
-observacoes: >-
-  Giardia: pesquisa de antigénio  
-
-  Colheita ótima corresponde a um terço da altura do contentor preenchida com
-  fezes
+observacoes: "Colheita ótima: um terço da altura do contentor preenchida com fezes"
 ---
