@@ -1,7 +1,7 @@
 ---
 title: Pesquisa de Microfilárias
 area: Parasitologia
-metodo: Microscopia óptica
+metodo: Microscopia ótica
 amostra: Sangue total
 material_colheita: |+
   Tubo c/ EDTA
