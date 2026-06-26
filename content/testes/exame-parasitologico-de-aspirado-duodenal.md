@@ -4,7 +4,7 @@ area: Parasitologia
 metodo: Imunocromatografia, Microscopia ótica
 amostra: Aspirado Duodenal
 material_colheita: |+
-  Contentor estéril
+  Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_chuc.png)
 
