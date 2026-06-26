@@ -1,7 +1,7 @@
 ---
 title: Exame parasitológico de Fezes
 area: Parasitologia
-metodo: Método de concentração de Ritchie
+metodo: Exame macroscópico; Método de concentração de Ritchie; Exame direto a fresco
 amostra: "Fezes "
 material_colheita: |+
   Contentor estéril (de preferência estanque)
