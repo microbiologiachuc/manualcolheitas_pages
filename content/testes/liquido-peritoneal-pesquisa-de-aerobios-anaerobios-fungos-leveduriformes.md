@@ -2,27 +2,24 @@
 title: Líquido peritoneal - Aeróbios, anaeróbios, fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
-amostra: |-
-  Líquido peritoneal  
-  Líquido peritoneal em frasco de hemocultura
-material_colheita: |+
-  Contentor estéril
+amostra: Líquido peritoneal, Líquido peritoneal em frasco de hemocultura
+material_colheita: >+
+  Líquido peritoneal - Contentor estéril (de preferência estanque)
 
-  ![](uploads/contentores_chuc.png)
-
-  Meio de transporte anaeróbios
 
   ![](uploads/portagermen_small.png)
 
-  Líquido peritoneal em frasco de hemocultura  
+
+  Líquido peritoneal em frasco de hemocultura - Frasco de hemocultura, adaptado
+  ao Doente (Adulto ou Criança)
+
 
   ![](uploads/hemocult.png)
 
-transporte_estabilidade: |-
-  Envio imediato  
-  <1h, ambiente  
-  <24h, 2-4ºC (até envio)
+transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
 tempo_resposta: 3 dias
 setor: L.MIC
-codigo_interno: LIA, LIAA, LIAH
+codigo_interno: |-
+  Líquido peritoneal - LIA, LIAA
+  Líquido peritoneal em frasco de hemocultura - LIAH
 ---
