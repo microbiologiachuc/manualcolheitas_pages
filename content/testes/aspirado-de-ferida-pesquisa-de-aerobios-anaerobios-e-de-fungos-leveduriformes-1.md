@@ -3,12 +3,13 @@ title: Aspirado de ferida - Aeróbios, anaeróbios e de fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Aspirado ferida
-material_colheita: |+
-  Contentor estéril
+material_colheita: >+
+  Contentor estéril (de preferência estanque) + Meio de transporte para
+  anaeróbios
+
 
   ![](uploads/contentores_chuc.png)
 
-  Meio de transporte anaeróbios
 
   ![](uploads/portagermen_small.png)
 
