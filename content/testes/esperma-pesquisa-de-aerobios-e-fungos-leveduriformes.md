@@ -4,7 +4,7 @@ area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Esperma
 material_colheita: |+
-  Contentor estéril
+  Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_chuc.png)
 
