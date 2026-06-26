@@ -13,6 +13,10 @@ tempo_resposta: Até 72 horas
 setor: L.MIC
 codigo_interno: TAQGAS
 observacoes: >-
+  Critério de exclusão: amostra constituída por fezes macroscopicamente moldadas
+  ou sólidas
+
+
   Microorganismos no Painel:  
 
   C. jejuni / coli / upsaliensis, C. difficile, P. shigelloides, Salmonella
