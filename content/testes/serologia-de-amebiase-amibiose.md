@@ -12,4 +12,5 @@ transporte_estabilidade: Envio imediato / 3 dias, 2-8 ºC; 6 mês, -20ºC
 tempo_resposta: 1 mês
 setor: L.MIC
 codigo_interno: PSAM
+observacoes: " Deteção de anticorpos IgG"
 ---
