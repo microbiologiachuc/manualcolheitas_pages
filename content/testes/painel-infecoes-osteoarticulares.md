@@ -4,11 +4,11 @@ area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e nested PCR
 amostra: Liquido sinovial
 material_colheita: |+
-  Contentor estéril
+  Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_hp.png)
 
-transporte_estabilidade: Imediato / 72 horas a 4ºC
+transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
 tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: BFJI
