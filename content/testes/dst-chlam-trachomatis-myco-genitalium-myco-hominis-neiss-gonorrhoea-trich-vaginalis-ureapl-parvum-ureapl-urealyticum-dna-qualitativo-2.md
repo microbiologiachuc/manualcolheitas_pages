@@ -4,16 +4,14 @@ area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Exsudado vaginal, Exsudado retal, Urina, Outros produtos
 material_colheita: >+
-  Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa com meio de
-  transporte vírico com inactivador  
+  Se Exsudado vaginal, Exsudado retal - Zaragatoa com meio de transporte líquido
+  (Amies)   
 
 
-  ![](uploads/teste2.png)
+  ![](uploads/mrsa_small.png)
 
 
-
-
-  Contentor estéril  
+  Se Urina, Outros produtos - Contentor estéril (de preferência estanque)
 
 
   ![](uploads/contentores_chuc.png)
@@ -26,7 +24,9 @@ codigo_interno: |-
   Exsudado retal - DSTZA, 4990
   Urina - DSTU, 4990
   Outros produtos - DSTO
-observacoes: "Microorganismos presentes no painel: Chlam. trachomatis, Myco.
-  genitalium, Myco. hominis, Neiss. gonorrhoea, Trich. vaginalis, Ureapl.
-  parvum, Ureapl. urealyticum"
+observacoes: >-
+  Microorganismos presentes no painel:   
+
+  Chlam. trachomatis, Myco. genitalium, Myco. hominis, Neiss. gonorrhoea, Trich.
+  vaginalis, Ureapl. parvum, Ureapl. urealyticum
 ---
