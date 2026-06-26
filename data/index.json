@@ -303,16 +303,16 @@
     "slug": "exame-parasitologico-de-fezes",
     "title": "Exame parasitológico de Fezes",
     "area": "Parasitologia",
-    "metodo": "Imunocromatografia, Microscopia ótica",
-    "amostra": "",
+    "metodo": "Método de concentração de Ritchie",
+    "amostra": "Fezes",
     "material_colheita": "Contentor estéril (de preferência estanque)\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Giardia - 3 horas, ambiente / manter a temperatura ambiente    \nGordura nas fezes - 5 dias / 2-8ºC    \nGrau de digestão - 2 dias / 2-8ºC    \nLeucócitos - 5 dias / 2-8ºC",
-    "tempo_resposta": "Até 1 semana",
+    "transporte_estabilidade": "Envio imediato ou Conservar a 4 ºC / até 7 dias a 4 ºC",
+    "tempo_resposta": "7 dias",
     "setor": "L.MIC",
     "codigo_interno": "Giardia - \nGordura nas fezes - PPG\nGrau de digestão - GDIG\nLeucócitos -",
-    "observacoes": "Giardia: pesquisa de antigénio  \n\nColheita ótima corresponde a um terço da altura do contentor preenchida com\nfezes"
+    "observacoes": "Colheita ótima: um terço da altura do contentor preenchida com fezes"
   },
   {
     "slug": "exame-parasitologico-de-liquido-de-quisto",
