@@ -12,4 +12,5 @@ transporte_estabilidade: Envio imediato / <12 horas
 tempo_resposta: 2 dias
 setor: L.MIC
 codigo_interno: PFIL
+observacoes: Realizar 2 colheitas, umas às 12h e outra às 23h
 ---
