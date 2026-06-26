@@ -4,8 +4,8 @@ area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Humor vítreo
 material_colheita: >+
-  Colheita da amostra para meio líquido “Brain heart infusion” ou contentor
-  estéril
+  Colheita da amostra para meio líquido “Brain heart infusion” ou Contentor
+  estéril (de preferência estanque)
 
 
   ![](uploads/bhi_small.png)
