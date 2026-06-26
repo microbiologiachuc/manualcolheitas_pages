@@ -12,7 +12,11 @@ transporte_estabilidade: Envio imediato ou Conservar a 4 ºC / até 7 dias a 4 �
 tempo_resposta: 7 dias
 setor: L.MIC
 codigo_interno: PEF, PEF2, PEF3
-observacoes: |-
+observacoes: >-
   Colheita de 3 amostras em dias alternados  
-  Colheita ótima: um terço da altura do contentor preenchida com fezes
+
+  Colheita ótima: um terço da altura do contentor preenchida com fezes  
+
+  Se suspeita de Entamoeba histolytica enviar de imediato ao Laboratório sem
+  refrigerar a amostra (manter à temperatura ambiente ou idealmente a 37 ºC)
 ---
