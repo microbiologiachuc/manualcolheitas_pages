@@ -1365,6 +1365,21 @@
     "observacoes": "Se esfregaços (no mínimo 3) realizados fora do Laboratório,"
   },
   {
+    "slug": "pesquisa-de-leucocitos",
+    "title": "Pesquisa de Leucócitos",
+    "area": "Parasitologia",
+    "metodo": "Exame microscópico a fresco ou coloração",
+    "amostra": "Fezes",
+    "material_colheita": "Contentor estéril (de preferência estanque)\n\n![](uploads/contentores_chuc.png)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Envio imediato / até 7 dias a 4 ºC",
+    "tempo_resposta": "7 dias",
+    "setor": "L.MIC",
+    "codigo_interno": "PLF",
+    "observacoes": ""
+  },
+  {
     "slug": "microfilarias-pesquisa-de",
     "title": "Pesquisa de Microfilárias",
     "area": "Parasitologia",
