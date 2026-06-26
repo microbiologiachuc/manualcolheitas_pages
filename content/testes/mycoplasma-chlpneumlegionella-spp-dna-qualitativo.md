@@ -8,7 +8,7 @@ material_colheita: >+
   estanque)
 
 
-  ![](uploads/contentores_chuc.png)
+  ![](uploads/contentores_hp.png)
 
 
   Se Sangue total - Tubo de EDTA (tubo de hemograma)
