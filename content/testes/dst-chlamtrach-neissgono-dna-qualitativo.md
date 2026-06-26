@@ -1,5 +1,6 @@
 ---
-title: DST (Chlam.trach; Neiss.gono), DNA qualitativo
+title: Infeções sexualmente transmissíveis (IST) (Chlam.trach; Neiss.gono), DNA
+  qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Exsudado vaginal, Exsudado orofaringe, Exsudado retal, Exsudado uretral
