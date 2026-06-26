@@ -11,4 +11,5 @@ material_colheita: |+
 transporte_estabilidade: Envio imediato ou Conservar a 4 ºC / até 7 dias a 4 ºC
 tempo_resposta: 7 dias
 setor: L.MIC
+codigo_interno: PEU
 ---
