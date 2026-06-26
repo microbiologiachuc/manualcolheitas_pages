@@ -2,19 +2,21 @@
 title: Bílis - Aeróbios, anaeróbios e fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: "Cultura "
-amostra: |-
-  Bílis  
-  Bílis em frasco de hemocultura
-material_colheita: |+
-  Contentor estéril
+amostra: Bílis, Bílis em frasco de hemocultura
+material_colheita: >+
+  Se Bílis - Contentor estéril (de preferência estanque) + Meio de transporte
+  para anaeróbios
+
 
   ![](uploads/contentores_chuc.png)
 
-  Meio de transporte anaeróbios  
 
   ![](uploads/portagermen_small.png)
 
-  Bílis em frasco de hemocultura
+
+  Se Bílis em frasco de hemocultura - Frasco de hemocultura, adaptado ao Doente
+  (Adulto ou Criança) 
+
 
   ![](uploads/hemocult.png)
 
@@ -22,6 +24,6 @@ transporte_estabilidade: Envio imediato
 tempo_resposta: Até 1 semana
 setor: Microbiologia
 codigo_interno: |-
-  BL, BLA
-  BLH
+  Bílis - BL, BLA
+  Bílis em frasco de hemocultura - BLH
 ---
