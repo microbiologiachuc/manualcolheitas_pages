@@ -1,5 +1,5 @@
 ---
-title: DST, DNA qualitativo
+title: Infeções sexualmente transmissíveis (IST), DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Exsudado vaginal, Exsudado retal, Urina, Outros produtos
