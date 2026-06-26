@@ -2,25 +2,27 @@
 title: Leishmania sp., DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: |-
-  Biópsia da pele  
-  Sangue total, Medula óssea  
-  Zaragatoa de lesão  
-material_colheita: |+
-  Contentor estéril
+amostra: Biópsia da pele, Medula óssea, Sangue total, Zaragatoa de lesão
+material_colheita: >+
+  Se Biópsia da pele - Contentor estéril (de preferência estanque)
+
 
   ![](uploads/contentores_chuc.png)
 
-  Tubo de EDTA (Tubo de hemograma)
+
+  Se Medula óssea, Sangue total - Tubo de EDTA (Tubo de hemograma)
+
 
   ![](uploads/tubo_edta_small.png)
 
-    
-  Zaragatoa com meio de transporte vírico com inactivador
+
+  Se Zaragatoa de lesão - Zaragatoa com meio de transporte vírico com
+  inactivador
+
 
   ![](uploads/respiratorios.png)
 
-transporte_estabilidade: Imediato / 72 horas a 4ºC
+transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
 tempo_resposta: Até 72 horas
 setor: Microbiologia
 codigo_interno: |
