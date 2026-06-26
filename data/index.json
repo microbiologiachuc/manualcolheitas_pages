@@ -1024,15 +1024,15 @@
     "title": "Painel Agentes Infeção Respiratória Inferior",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real e nested PCR",
-    "amostra": "Aspirado traqueobronquico e lavado bronco-alveolar",
-    "material_colheita": "Contentor estéril\n\n![](uploads/contentores_chuc.png)",
+    "amostra": "Aspirado traqueobronquico, Lavado bronco-alveolar",
+    "material_colheita": "Contentor estéril (de preferência estanque)\n\n![](uploads/contentores_chuc.png)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
+    "transporte_estabilidade": "Envio imediato / até 7 dias a 4 ºC",
     "tempo_resposta": "Até 4 horas",
     "setor": "L.MIC",
     "codigo_interno": "RESIN",
-    "observacoes": "Disponível apenas após consulta com Microbiologista de Serviço - segundo\nescala de microbiologia.\n\n\nMicrorganismos pesquisados: Adenovirus, Coronavirus, Human metapneumovirus,\nHuman rhinovirus/enterovirus, Influenza A vírus, Influenza B vírus,\nParainfluenza vírus, Respiratory syncytial vírus, Acinetobacter\ncalcoaceticus-baumannii complex, Enterobacter cloacae complex, Escherichia\ncoli, Haemophilus influenzae, Klebsiella aerogenes, Klebsiella oxytoca,\nKlebsiella pneumoniae group, Moraxella catarrhalis, Proteus spp., Pseudomonas\naeruginosa, Serratia marcescens, Staphylococcus aureus, Streptococcus\nagalactiae, Streptococcus pneumoniae, Streptococcus pyogenes"
+    "observacoes": "Disponível apenas após consulta com Microbiologista de Serviço - segundo\nescala de microbiologia.\n\n\nMicrorganismos pesquisados:   \n\nAdenovirus, Coronavirus, Human metapneumovirus, Human rhinovirus/enterovirus,\nInfluenza A vírus, Influenza B vírus, Parainfluenza vírus, Respiratory\nsyncytial vírus, Acinetobacter calcoaceticus-baumannii complex, Enterobacter\ncloacae complex, Escherichia coli, Haemophilus influenzae, Klebsiella\naerogenes, Klebsiella oxytoca, Klebsiella pneumoniae group, Moraxella\ncatarrhalis, Proteus spp., Pseudomonas aeruginosa, Serratia marcescens,\nStaphylococcus aureus, Streptococcus agalactiae, Streptococcus pneumoniae,\nStreptococcus pyogenes"
   },
   {
     "slug": "painel-agentes-infecao-respiratoria-superior",
