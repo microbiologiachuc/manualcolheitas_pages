@@ -8,7 +8,7 @@ material_colheita: |+
 
   ![](uploads/ureaplasma.png)
 
-transporte_estabilidade: Envio imediato / Conservar a 2-4ºC até envio (< 12 horas)
+transporte_estabilidade: Envio imediato ou conservar a 2-4ºC até envio / < 12 horas
 tempo_resposta: Até 1 semana
 setor: L.MIC
 codigo_interno: UMYC
