@@ -1,17 +1,23 @@
 ---
-title: Ulceras genitais (H. ducreyi, L. venereum, CMV, HSV1/2, VZV, T. pallidum)
+title: Úlceras genitais (H. ducreyi, L. venereum, CMV, HSV1/2, VZV, T. pallidum)
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: |+
-  Urina
+  Urina, Exsudado oral, Zaragatoa rectal, Zaragatoa Vaginal
+
+material_colheita: >+
+  Se Urina - Contentor estéril (de preferência estanque)
+
 
   ![](uploads/contentores_chuc.png)
 
-  Exsudado oral, Zaragatoa rectal, Zaragatoa Vaginal
 
-material_colheita: >+
-  Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa com meio de
-  transporte vírico com inactivador
+  Se Exsudado oral, Zaragatoa rectal, Zaragatoa Vaginal - Zaragatoa com meio de
+  transporte vírico com inactivador  
+
+
+
+  ![](uploads/respiratorios.png)
 
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
