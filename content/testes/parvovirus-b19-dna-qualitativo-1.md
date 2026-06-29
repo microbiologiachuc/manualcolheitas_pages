@@ -2,17 +2,13 @@
 title: Parvovírus B19, DNA  qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: |-
-  LCR, Outros produtos  
-  Medula óssea
+amostra: LCR, Outros produtos, Medula óssea
 material_colheita: |+
-  Contentor estéril
+  Se LCR, Outros produtos - Contentor estéril (de preferência estanque)
 
-  ![](uploads/contentores_chuc.png)
+  ![](uploads/contentores_hp.png)
 
-
-
-  Tubo de EDTA (Tubo de hemograma)
+  Se Medula óssea - Tubo de EDTA (Tubo de hemograma)
 
   ![](uploads/tubo_edta_small.png)
 
