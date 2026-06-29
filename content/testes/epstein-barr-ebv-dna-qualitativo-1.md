@@ -2,15 +2,13 @@
 title: Vírus Epstein Barr (EBV), DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: |-
-  LCR, Outros produtos  
-  Medula óssea
+amostra: LCR, Outros produtos, Medula óssea
 material_colheita: |-
-  Contentor estéril
+  Se LCR, Outros produtos - Contentor estéril (de preferência estanque)
 
   ![](uploads/contentores_hp.png)
 
-  Tubo de EDTA (tubo de hemograma)
+  Se Medula óssea - Tubo de EDTA (tubo de hemograma)
 transporte_estabilidade: Imediato / 72 horas a 4ºC após centrifugação
 tempo_resposta: Até 96 horas
 setor: L.MIC
