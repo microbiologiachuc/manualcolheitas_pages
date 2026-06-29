@@ -785,7 +785,7 @@
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar, Sangue",
-    "material_colheita": "Se Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar - Contentor\nestéril (de preferência estanque)\n\n\n![](uploads/contentores_chuc.png)\n\n\nSe Sangue total - Tubo de EDTA (tubo de hemograma)\n\n\n![](uploads/tubo_edta_small.png)\n\n\nSe Zaragatoa orofaringe - Zaragatoa com meio de transporte vírico com\ninactivador\n\n\n![](uploads/respiratorios.png)",
+    "material_colheita": "Se Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar - Contentor\nestéril (de preferência estanque)  \n\n\n\n![](uploads/contentores_hp.png)\n\n\nSe Sangue total - Tubo de EDTA (tubo de hemograma)\n\n\n![](uploads/tubo_edta_small.png)\n\n\nSe Zaragatoa orofaringe - Zaragatoa com meio de transporte vírico com\ninactivador\n\n\n![](uploads/respiratorios.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºc",
