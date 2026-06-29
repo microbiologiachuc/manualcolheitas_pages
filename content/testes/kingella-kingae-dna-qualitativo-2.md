@@ -6,10 +6,11 @@ amostra: Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar, Sangue
   total, Zaragatoa orofaringe
 material_colheita: >+
   Se Biópsia, Líquido sinovial, Lavado / Aspirado Broncoalveolar - Contentor
-  estéril (de preferência estanque)
+  estéril (de preferência estanque)  
 
 
-  ![](uploads/contentores_chuc.png)
+
+  ![](uploads/contentores_hp.png)
 
 
   Se Sangue total - Tubo de EDTA (tubo de hemograma)
