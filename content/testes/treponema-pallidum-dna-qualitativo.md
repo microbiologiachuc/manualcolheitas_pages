@@ -2,28 +2,24 @@
 title: Treponema pallidum, DNA qualitativo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
-amostra: |-
-  Biópsias cutâneas e de mucosas, LCR, Outros produtos  
-  Sangue total  
-  Zarag. lesões urogentiais, rectais e orais
+amostra: Biópsias cutâneas e de mucosas, LCR, Outros produtos, Sangue total,
+  Zaragatoa de lesões urogenitais, rectais e orais
 material_colheita: >+
-  Contentor estéril
+  Se Biópsias cutâneas e de mucosas, LCR, Outros produtos - Contentor estéril
+  (de preferência estanque)
 
 
   ![](uploads/contentores_chuc.png)
 
 
-  Tubo de EDTA (Tubo de Hemograma)
+  Se Sangue total - Tubo de EDTA (Tubo de Hemograma)
 
 
   ![](uploads/tubo_edta_small.png)
 
-    
-  Zaragatoa com meio de transporte líquido (Amies) ou Zaragatoa com meio de
+
+  Se Zaragatoa de lesões urogenitais, rectais e orais - Zaragatoa com meio de
   transporte vírico com inactivador
-
-
-  ![](uploads/mrsa_small.png)
 
 
   ![](uploads/respiratorios.png)
