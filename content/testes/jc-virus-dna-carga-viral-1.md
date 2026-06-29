@@ -6,7 +6,7 @@ amostra: LCR
 material_colheita: |+
   Contentor estéril
 
-  ![](uploads/contentores_hp.png)
+  ![](uploads/lcr_left.png)
 
 transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 96 horas
