@@ -1,5 +1,5 @@
 ---
-title: Influenza A e B, SARS-CoV-2 e RSV - Teste Triplo
+title: Influenza A e B + SARS-CoV-2 + RSV - Teste Triplo
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real
 amostra: Exsudado da nasofaringe/ orofaringe
