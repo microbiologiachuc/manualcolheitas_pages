@@ -1275,6 +1275,21 @@
     "observacoes": ""
   },
   {
+    "slug": "pesquisa-de-antigenios-sars-cov-2-flu-ab-rsv-adenovirus",
+    "title": "Pesquisa de antigénios SARS-CoV-2, FLU A/B, RSV, Adenovírus",
+    "area": "Bacteriologia - Geral",
+    "metodo": "Imunocromatográfico",
+    "amostra": "Exsudado nasofaringe",
+    "material_colheita": "Kit de colheita fornecido pelo Laboratório\n\n![](<uploads/COVID, FLU, RSV, Adeno.png>)",
+    "descricao_clinica": "",
+    "indicacao": "",
+    "transporte_estabilidade": "Imediato / 4 horas a temperatura ambiente",
+    "tempo_resposta": "2 hora",
+    "setor": "L.MIC",
+    "codigo_interno": "PAGRES",
+    "observacoes": ""
+  },
+  {
     "slug": "pesquisa-de-clostridium-difficile",
     "title": "Pesquisa de Clostridium difficile",
     "area": "Bacteriologia - Biologia Molecular",
