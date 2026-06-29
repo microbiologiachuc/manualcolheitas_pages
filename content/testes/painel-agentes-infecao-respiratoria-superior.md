@@ -2,7 +2,7 @@
 title: Painel Agentes Infeção Respiratória Superior
 area: Bacteriologia - Biologia Molecular
 metodo: PCR em tempo real e nested PCR
-amostra: Exsudado da nasofaringe, Exsudado da orofaringe
+amostra: Exsudado da naso/orofaringe
 material_colheita: |+
   Zaragatoa com meio de transporte vírico com inactivador
 
