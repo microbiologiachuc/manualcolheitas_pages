@@ -44,7 +44,7 @@
     const params = new URLSearchParams();
 
     if ((q || "").trim()) params.set(DEFAULTS.paramQuery, q.trim());
-    if (area && area !== DEFAULTS.allLabel) params.set(DEFAULTS.paramArea, area);
+    if (area) params.set(DEFAULTS.paramArea, area);
 
     const queryString = params.toString();
 
@@ -111,9 +111,7 @@
     const params = new URLSearchParams();
 
     if (activeQuery.trim()) params.set(DEFAULTS.paramQuery, activeQuery.trim());
-    if (activeArea && activeArea !== DEFAULTS.allLabel) {
-      params.set(DEFAULTS.paramArea, activeArea);
-    }
+    if (activeArea) params.set(DEFAULTS.paramArea, activeArea);
 
     const queryString = params.toString();
     const newUrl =
@@ -158,7 +156,7 @@
         link.textContent = area;
         link.href = buildCatalogHref({
           q: activeQuery,
-          area: area === DEFAULTS.allLabel ? "" : area
+          area: area
         });
 
         elements.areaFilters.appendChild(link);
