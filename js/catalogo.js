@@ -58,7 +58,7 @@
   // -------- State --------
   let allTests = [];
   let areas = [DEFAULTS.allLabel];
-  let activeArea = DEFAULTS.allLabel;
+  let activeArea = "";
   let activeQuery = "";
   let activeLetter = "";
 
@@ -89,7 +89,7 @@
     const params = new URLSearchParams(window.location.search);
 
     activeQuery = params.get(DEFAULTS.paramQuery) || "";
-    activeArea = params.get(DEFAULTS.paramArea) || DEFAULTS.allLabel;
+    activeArea = params.get(DEFAULTS.paramArea) || "";
 
     const hash = window.location.hash.replace("#", "").toUpperCase();
     activeLetter = /^[A-Z]$/.test(hash) ? hash : "";
@@ -137,8 +137,8 @@
     unique.sort((a, b) => a.localeCompare(b, "pt", { sensitivity: "base" }));
     areas = [DEFAULTS.allLabel, ...unique];
 
-    if (activeArea !== DEFAULTS.allLabel && !unique.includes(activeArea)) {
-      activeArea = DEFAULTS.allLabel;
+    if (activeArea && activeArea !== DEFAULTS.allLabel && !unique.includes(activeArea)) {
+      activeArea = "";
     }
   }
 
@@ -472,7 +472,7 @@
     if (exists(elements.clearLink)) {
       elements.clearLink.addEventListener("click", () => {
         activeQuery = "";
-        activeArea = DEFAULTS.allLabel;
+        activeArea = "";
         activeLetter = "";
       });
     }
