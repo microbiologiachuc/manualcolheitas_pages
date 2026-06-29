@@ -1215,21 +1215,6 @@
     "observacoes": ""
   },
   {
-    "slug": "biopsia-gastrica-pesquisa-de-antigenio-de-helicobacter-pylori",
-    "title": "Pesquisa de antigénio de Helicobacter pylori",
-    "area": "Bacteriologia - Geral",
-    "metodo": "Imunocromatográfico",
-    "amostra": "Fezes",
-    "material_colheita": "Contentor estéril \n\n![](uploads/contentores_chuc.png)",
-    "descricao_clinica": "",
-    "indicacao": "",
-    "transporte_estabilidade": "Envio imediato",
-    "tempo_resposta": "2 dias",
-    "setor": "L.MIC",
-    "codigo_interno": "HELICAG",
-    "observacoes": ""
-  },
-  {
     "slug": "pesquisa-de-antigenio-de-plasmodium",
     "title": "Pesquisa de antigénio de Plasmodium",
     "area": "Parasitologia",
