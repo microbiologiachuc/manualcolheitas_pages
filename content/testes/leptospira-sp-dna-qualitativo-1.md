@@ -8,7 +8,7 @@ material_colheita: |+
 
   ![](uploads/contentores_hp.png)
 
-  Tubo de EDTA (tubo de hemograma)
+  Se Sangue total - Tubo de EDTA (tubo de hemograma)
 
   ![](uploads/tubo_edta_small.png)
 
