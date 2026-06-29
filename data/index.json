@@ -1594,14 +1594,14 @@
     "title": "Sarampo (MeV), RNA qualitativo",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
-    "amostra": "Fluidos cavidade oral  \nZaragatoa orofaringe",
-    "material_colheita": "Zaragatoa com meio de transporte vírico com inactivador  \n\n\n![](uploads/respiratorios.png)\n\n  \nZaragatoa orofaringe\n\n![](uploads/ags_respiratorios_small.png)",
+    "amostra": "Zaragatoa orofaringe, Fluidos cavidade oral",
+    "material_colheita": "Se Zaragatoa orofaringe - Zaragatoa com meio de transporte vírico com\ninactivador  \n\n\n![](uploads/respiratorios.png)\n\n\nSe Fluidos cavidade oral - Zaragatoa nasal com meio de transporte adequado\n\n\n![](uploads/mrsa_small.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
-    "codigo_interno": "Fluidos cavidade oral - SARCO\nZaragatoa orofaringe - SARZO",
+    "codigo_interno": "Zaragatoa orofaringe - SARZO\nFluidos cavidade oral - SARCO",
     "observacoes": ""
   },
   {
