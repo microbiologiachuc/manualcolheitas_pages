@@ -8,7 +8,8 @@ material_colheita: |+
 
   ![](uploads/contentores_chuc.png)
 
-transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
+transporte_estabilidade: Envio imediato / até 7 dias a 4ºC
 tempo_resposta: 3 dias
 setor: Microbiologia
+codigo_interno: HELICAG
 ---
