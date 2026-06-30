@@ -8,7 +8,7 @@ material_colheita: |+
 
   ![](uploads/tubo_edta_small.png)
 
-transporte_estabilidade: Envio imediato / 1 dia a 4 ºC
+transporte_estabilidade: Envio imediato / 1 dia a 4ºC
 tempo_resposta: 5 dias
 setor: L.MIC
 codigo_interno: PPL
