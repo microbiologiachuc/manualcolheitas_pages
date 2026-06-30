@@ -16,6 +16,7 @@ material_colheita: |+
 
   ![](uploads/respiratorios.png)
 
+transporte_estabilidade: "Envio imediato "
 tempo_resposta: Até 72 horas
 setor: L.MIC
 codigo_interno: PANFUN
