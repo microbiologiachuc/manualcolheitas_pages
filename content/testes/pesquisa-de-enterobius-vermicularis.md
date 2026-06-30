@@ -4,7 +4,7 @@ area: Parasitologia
 metodo: Método de Graham (método de fita adesiva)
 amostra: Colheita com fita adesiva
 material_colheita: Fita Adesiva, segundo método apresentado abaixo em "Observações Importantes"
-transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
+transporte_estabilidade: Envio imediato / até 7 dias a 4ºC
 tempo_resposta: 7 dias
 setor: L.MIC
 observacoes: >+
