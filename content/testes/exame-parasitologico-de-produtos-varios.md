@@ -2,7 +2,7 @@
 title: Exame parasitológico de Produtos Vários
 area: Parasitologia
 metodo: Observação macroscópica; Observação microscópica direta ou após concentração
-amostra: Produtos Vários
+amostra: Produtos vários
 material_colheita: |+
   Contentor estéril (de preferência estanque)
 
