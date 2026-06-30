@@ -2,9 +2,9 @@
 title: Adenovírus,  DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: LCR/ Outros produtos, Medula óssea
+amostra: LCR, Outros produtos, Medula óssea
 material_colheita: |+
-  Se LCR/ Outros produtos - Contentor estéril
+  Se LCR, Outros produtos - Contentor estéril
 
   ![](uploads/contentores_hp.png)
 
