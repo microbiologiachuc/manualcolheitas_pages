@@ -8,9 +8,9 @@ material_colheita: |+
 
   ![](uploads/tubo_edta_small.png)
 
-transporte_estabilidade: Envio imediato / <12 horas
+transporte_estabilidade: Envio imediato / até 12 horas
 tempo_resposta: 2 dias
 setor: L.MIC
 codigo_interno: PFIL
-observacoes: Realizar 2 colheitas, umas às 12h e outra às 23h
+observacoes: Realizar 2 colheitas, umas às 12 horas e outra às 23 horas
 ---
