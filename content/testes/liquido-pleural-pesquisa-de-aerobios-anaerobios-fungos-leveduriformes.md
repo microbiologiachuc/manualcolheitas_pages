@@ -17,7 +17,7 @@ material_colheita: >+
   ![](uploads/hemocult.png)
 
 transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
-tempo_resposta: 3 dias
+tempo_resposta: Até 3 dias
 setor: L.MIC
 codigo_interno: |-
   Líquido pleural - LPL, LPLA
