@@ -9,7 +9,7 @@ material_colheita: |+
   ![](uploads/hemocult.png)
 
 transporte_estabilidade: Envio imediato
-tempo_resposta: 3 dias
+tempo_resposta: 5 dias
 setor: L.MIC
 codigo_interno: ASMH
 ---
