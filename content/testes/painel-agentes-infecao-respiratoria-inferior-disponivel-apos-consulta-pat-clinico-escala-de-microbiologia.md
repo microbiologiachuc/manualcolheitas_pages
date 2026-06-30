@@ -8,7 +8,7 @@ material_colheita: |+
 
   ![](uploads/contentores_chuc.png)
 
-transporte_estabilidade: Envio imediato / até 7 dias a 4 ºC
+transporte_estabilidade: Envio imediato / até 7 dias a 4ºC
 tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: RESIN
@@ -17,7 +17,7 @@ observacoes: >-
   escala de microbiologia.
 
 
-  Microrganismos pesquisados:   
+  Microrganismos pesquisados:  
 
   Adenovirus, Coronavirus, Human metapneumovirus, Human rhinovirus/enterovirus,
   Influenza A vírus, Influenza B vírus, Parainfluenza vírus, Respiratory
