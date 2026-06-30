@@ -1227,7 +1227,7 @@
     "tempo_resposta": "Até 4 horas",
     "setor": "L.MIC",
     "codigo_interno": "AGGAS",
-    "observacoes": "Microrganismos pesquisados: \n\nNorovirus GII.4 & GI, rotavirus, adenovirus e Campylobacter spp.\n(Campylobacter jejuni, Campylobacter coli, Campylobacter hyoilei e\nCampylobacter upsaliensis)."
+    "observacoes": "Microrganismos pesquisados:   \n\nNorovirus GII.4 & GI, Rotavirus, Adenovirus e Campylobacter spp (Campylobacter\njejuni, Campylobacter coli, Campylobacter hyoilei e Campylobacter\nupsaliensis)."
   },
   {
     "slug": "pesquisa-de-antigenios-associados-a-infecoes-respiratorias-superiores",
