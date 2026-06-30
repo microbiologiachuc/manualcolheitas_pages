@@ -9,7 +9,6 @@ material_colheita: >+
   estéril (de preferência estanque)  
 
 
-
   ![](uploads/contentores_hp.png)
 
 
@@ -25,7 +24,7 @@ material_colheita: >+
 
   ![](uploads/respiratorios.png)
 
-transporte_estabilidade: Imediato / 72 horas a 4ºc
+transporte_estabilidade: Imediato / 72 horas a 4ºC
 tempo_resposta: Até 72 horas
 setor: L.MIC
 codigo_interno: |-
