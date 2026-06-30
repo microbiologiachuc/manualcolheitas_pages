@@ -13,9 +13,9 @@ tempo_resposta: Até 4 horas
 setor: L.MIC
 codigo_interno: AGGAS
 observacoes: >-
-  Microrganismos pesquisados: 
+  Microrganismos pesquisados:   
 
-  Norovirus GII.4 & GI, rotavirus, adenovirus e Campylobacter spp.
-  (Campylobacter jejuni, Campylobacter coli, Campylobacter hyoilei e
-  Campylobacter upsaliensis).
+  Norovirus GII.4 & GI, Rotavirus, Adenovirus e Campylobacter spp (Campylobacter
+  jejuni, Campylobacter coli, Campylobacter hyoilei e Campylobacter
+  upsaliensis).
 ---
