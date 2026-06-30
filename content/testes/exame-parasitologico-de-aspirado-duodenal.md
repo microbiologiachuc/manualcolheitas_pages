@@ -2,7 +2,7 @@
 title: Exame parasitológico de Aspirado Duodenal
 area: Parasitologia
 metodo: Imunocromatografia, Microscopia ótica
-amostra: Aspirado Duodenal
+amostra: Aspirado duodenal
 material_colheita: |+
   Contentor estéril (de preferência estanque)
 
