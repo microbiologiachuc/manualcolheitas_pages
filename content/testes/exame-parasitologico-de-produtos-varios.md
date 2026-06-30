@@ -8,7 +8,7 @@ material_colheita: |+
 
   ![](uploads/contentores_chuc.png)
 
-transporte_estabilidade: Envio imediato ou Conservar a 4 ºC / até 7 dias a 4 ºC
+transporte_estabilidade: Envio imediato ou conservar a 4ºC / até 7 dias a 4ºC
 tempo_resposta: 7 dias
 setor: L.MIC
 codigo_interno: PEV
