@@ -1118,7 +1118,7 @@
     "material_colheita": "Contentor estéril \n\n![](uploads/contentores_chuc.png)\n\nZaragatoa com meio de transporte líquido (Amies) \n\n![](uploads/mrsa_small.png)\n\nZaragatoa com meio de transporte vírico com inactivador\n\n![](uploads/respiratorios.png)",
     "descricao_clinica": "",
     "indicacao": "",
-    "transporte_estabilidade": "",
+    "transporte_estabilidade": "Envio imediato",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "PANFUN",
