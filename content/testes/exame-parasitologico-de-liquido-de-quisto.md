@@ -2,7 +2,7 @@
 title: Exame parasitológico de Líquido de Quisto
 area: Parasitologia
 metodo: Observação microscópica direta e de sedimento
-amostra: Líquido de Quisto
+amostra: Líquido de quisto
 material_colheita: |+
   Contentor estéril (de preferência estanque)
 
