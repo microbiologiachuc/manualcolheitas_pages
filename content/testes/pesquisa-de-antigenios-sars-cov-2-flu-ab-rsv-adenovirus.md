@@ -6,10 +6,10 @@ amostra: Exsudado nasofaringe
 material_colheita: |+
   Kit de colheita, fornecido pelo Laboratório
 
+  teste
+
 transporte_estabilidade: |+
   Imediato / 4 horas a temperatura ambiente
-
-  ![](<uploads/COVID, FLU, RSV, Adeno.png>)
 
 tempo_resposta: 2 horas
 setor: L.MIC
