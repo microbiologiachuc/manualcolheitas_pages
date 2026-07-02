@@ -4,7 +4,7 @@ area: Bacteriologia - Geral
 metodo: Imunocromatográfico
 amostra: Exsudado nasofaringe
 material_colheita: |+
-  Kit de colheita fornecido pelo Laboratório
+  Kit de colheita, fornecido pelo Laboratório
 
   ![](<uploads/COVID, FLU, RSV, Adeno.png>)
 
