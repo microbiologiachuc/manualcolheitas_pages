@@ -6,7 +6,7 @@ amostra: Exsudado nasofaringe
 material_colheita: |+
   Kit de colheita, fornecido pelo Laboratório
 
-  teste
+  ![](uploads/COVID.png)
 
 transporte_estabilidade: |+
   Imediato / 4 horas a temperatura ambiente
