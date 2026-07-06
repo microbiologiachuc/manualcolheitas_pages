@@ -311,15 +311,20 @@
 
       /* HEADER */
       .site-header-inner {
-        flex-direction: column;
-        align-items: flex-start;
+        flex-direction: row;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 1px;
       }
 
       /* NAV → hamburger */
-      .nav-toggle         { display: block; }
+      .nav-toggle         { display: block; order: 1; }
+      .brand       { order: 2; flex: 1; }
+      
       .main-nav           {
         display: none;
-        width: 100%;
+        order: 3;
+        flex-basis: 100%;
         flex-direction: column;
         gap: 6px;
         padding-top: 10px;
