@@ -1579,15 +1579,15 @@
     "title": "Sarampo (MeV), RNA qualitativo",
     "area": "Virologia",
     "metodo": "PCR em tempo real",
-    "amostra": "Zaragatoa orofaringe, Fluidos cavidade oral",
-    "material_colheita": "Se Zaragatoa orofaringe - Zaragatoa com meio de transporte vírico com\ninactivador  \n\n\n![](uploads/respiratorios.png)\n\n\nSe Fluidos cavidade oral - Zaragatoa nasal com meio de transporte adequado\n\n\n![](uploads/mrsa_small.png)",
+    "amostra": "Zaragatoa da lesão + fluidos da cavidade oral",
+    "material_colheita": "Para Zaragatoa da lesão - Zaragatoa com meio de transporte vírico com\ninactivador  \n\n\n![](uploads/respiratorios.png)\n\n\nPara fluidos da cavidade oral - Zaragatoa nasal com meio de transporte\nadequado\n\n\n![](uploads/mrsa_small.png)",
     "descricao_clinica": "",
     "indicacao": "",
     "transporte_estabilidade": "Imediato / 72 horas a 4ºC",
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Zaragatoa orofaringe - SARZO\nFluidos cavidade oral - SARCO",
-    "observacoes": ""
+    "observacoes": "É obrigatório o envio simultâneo das duas amostras (lesão + fluidos"
   },
   {
     "slug": "serologia-de-amebiase-amibiose",
