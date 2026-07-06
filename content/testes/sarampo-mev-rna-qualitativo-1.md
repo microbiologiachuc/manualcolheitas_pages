@@ -23,5 +23,6 @@ setor: L.MIC
 codigo_interno: |-
   Zaragatoa orofaringe - SARZO
   Fluidos cavidade oral - SARCO
-observacoes: .
+observacoes: É obrigatório o envio simultâneo das duas amostras ao Laboratório,
+  lesão + fluidos da cavidade oral, acondicionadas em saco hermético
 ---
