@@ -305,9 +305,9 @@
       border-radius: 999px;
       background: #fff;
       color: var(--primary-dark);
-      font-family: inherit;   /* 👈 novo */
-      font-size: 1rem;        /* 👈 novo */
-      line-height: 1.6;       /* 👈 novo */
+      font-family: inherit;
+      font-size: 1rem;
+      line-height: 1.6;
       font-weight: 700;
       text-decoration: none;
       cursor: pointer;
@@ -466,24 +466,30 @@
     /* ── MOBILE ── */
     @media (max-width: 720px) {
 
-      /* HEADER */
+      /* HEADER — mantém em linha, hamburger à esquerda do brand */
       .site-header-inner {
-        flex-direction: column;
-        align-items: flex-start;
+        flex-direction: row;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10px;
       }
 
-      /* NAV → hamburger */
-      .nav-toggle         { display: block; }
-      .main-nav           {
+      /* NAV → hamburger à esquerda, brand a seguir */
+      .nav-toggle  { display: block; order: 1; }
+      .brand       { order: 2; flex: 1; }
+
+      .main-nav {
         display: none;
-        width: 100%;
+        order: 3;
+        flex-basis: 100%;
         flex-direction: column;
         gap: 6px;
         padding-top: 10px;
       }
-      .main-nav.open       { display: flex; }
+      .main-nav.open { display: flex; }
+
       .main-nav a,
-      .editor-link          {
+      .editor-link {
         width: 100%;
         padding: 12px 14px;
         text-align: left;
@@ -531,6 +537,8 @@
 
   <header class="site-header">
     <div class="container site-header-inner">
+      <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">&#9776;</button>
+
       <a class="brand" href="index.html" aria-label="Ir para a página inicial">
         <div class="logo" aria-hidden="true"></div>
         <div class="brand-text">
@@ -538,8 +546,6 @@
           <p class="brand-subtitle">Serviço de Patologia Clínica, ULS de Coimbra</p>
         </div>
       </a>
-
-      <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false">&#9776;</button>
 
       <nav class="main-nav">
         <a href="index.html">Início</a>
@@ -606,12 +612,12 @@
     <div class="cards-grid" id="pagesGrid">
         <article class="info-card">
         <h3>Sobre o serviço</h3>
-        <a href="pagina.html?slug=sobre">Ler</a>
+        obre">Ler</a>
         </article>
 
         <article class="info-card">
         <h3>Informações a utentes</h3>
-        <a href="pagina.html?slug=utentes">Ler</a>
+        es">Ler</a>
         </article>
 
         <article class="info-card">
@@ -644,7 +650,7 @@
     });
   </script>
 
-  <script src="js/catalogo.js"></script>
+  js/catalogo.js></script>
 
   <script>
   async function loadPages() {
@@ -668,7 +674,7 @@
         article.innerHTML = `
           <h3>${page.title}</h3>
           <p>${page.description}</p>
-          <a href="${BASE_PATH}pagina.html?slug=${page.slug}">Ver +</a>
+          ${BASE_PATH}pagina.html?slug=${page.slug}Ver +</a>
         `;
 
         grid.appendChild(article);
