@@ -1,5 +1,5 @@
 ---
-title: Aspirado de ferida - Aeróbios, anaeróbios e de fungos leveduriformes
+title: Aspirado de ferida - Aeróbios, anaeróbios e fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Aspirado ferida
