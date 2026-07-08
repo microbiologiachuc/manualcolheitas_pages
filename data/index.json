@@ -46,7 +46,7 @@
   },
   {
     "slug": "aspirado-de-ferida-pesquisa-de-aerobios-anaerobios-e-de-fungos-leveduriformes-1",
-    "title": "Aspirado de ferida - Aeróbios, anaeróbios e de fungos leveduriformes",
+    "title": "Aspirado de ferida - Aeróbios, anaeróbios e fungos leveduriformes",
     "area": "Bacteriologia - Geral",
     "metodo": "Cultura",
     "amostra": "Aspirado ferida",
@@ -736,7 +736,7 @@
   },
   {
     "slug": "dst-chlamtrach-neissgono-dna-qualitativo",
-    "title": "Infeções sexualmente transmissíveis (IST) (Chlam.trach; Neiss.gono), DNA Qualitativo",
+    "title": "Infeções sexualmente transmissíveis (IST) (Chlam.trach; Neiss.gono), DNA",
     "area": "Bacteriologia - Biologia Molecular",
     "metodo": "PCR em tempo real",
     "amostra": "Exsudado vaginal, Exsudado orofaringe, Exsudado retal, Exsudado uretral",
@@ -1587,7 +1587,7 @@
     "tempo_resposta": "Até 72 horas",
     "setor": "L.MIC",
     "codigo_interno": "Zaragatoa orofaringe - SARZO\nFluidos cavidade oral - SARCO",
-    "observacoes": "É obrigatório o envio simultâneo das duas amostras ao Laboratório, lesão + fluidos da cavidade oral, acondicionadas em saco hermético"
+    "observacoes": "É obrigatório o envio simultâneo das duas amostras ao Laboratório,"
   },
   {
     "slug": "serologia-de-amebiase-amibiose",
