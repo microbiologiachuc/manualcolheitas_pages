@@ -1,5 +1,5 @@
 ---
-title: Aspirado traqueobrônquico - Aeróbios, anaeróbios e de fungos leveduriformes
+title: Aspirado traqueobrônquico - Aeróbios, anaeróbios e fungos leveduriformes
 area: Bacteriologia - Geral
 metodo: Cultura
 amostra: Aspirado traqueobrônquico
