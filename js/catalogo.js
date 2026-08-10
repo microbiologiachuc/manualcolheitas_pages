@@ -239,7 +239,11 @@
 
     if (activeQuery.trim()) {
       const q = normalizeText(activeQuery);
-      tests = tests.filter((t) => normalizeText(t.title).includes(q));
+      tests = tests.filter((t) => 
+        normalizeText(t.title).includes(q) || 
+        normalizeText(t.observacoes || "").includes(q)
+      );     
+      //      tests = tests.filter((t) => normalizeText(t.title).includes(q));
     }
 
     if (activeLetter) {
