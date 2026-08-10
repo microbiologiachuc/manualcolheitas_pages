@@ -241,9 +241,10 @@
       const q = normalizeText(activeQuery);
       tests = tests.filter((t) => 
         normalizeText(t.title).includes(q) || 
-        normalizeText(t.observacoes).includes(q)
-      );     
+        normalizeText(t.observacoes).includes(q) // 👈 adicionei esta linha
       //      tests = tests.filter((t) => normalizeText(t.title).includes(q));
+    );     
+
     }
 
     if (activeLetter) {
@@ -417,6 +418,7 @@
           slug: item.slug,
           title: item.title,
           area: item.area
+          observacoes: item.observacoes || ""  // 👈 adicionei esta linha
         }));
 
       buildAreasFromTests(allTests);
