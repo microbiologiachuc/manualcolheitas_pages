@@ -378,7 +378,7 @@
     if (activeQuery.trim()) {
       const q = normalizeText(activeQuery);
       baseTestsForLetters = baseTestsForLetters.filter((t) =>
-        normalizeText(t.title).includes(q) ||
+        normalizeText(t.title).includes(q)
         normalizeText(t.observacoes).includes(q));
     }
 
