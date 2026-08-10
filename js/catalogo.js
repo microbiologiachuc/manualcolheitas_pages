@@ -240,10 +240,7 @@
     if (activeQuery.trim()) {
       const q = normalizeText(activeQuery);
       tests = tests.filter((t) => 
-        normalizeText(t.title).includes(q) || 
-        normalizeText(t.observacoes).includes(q) // 👈 adicionei esta linha
-      //      tests = tests.filter((t) => normalizeText(t.title).includes(q));
-    );     
+        normalizeText(t.title).includes(q));     
 
     }
 
@@ -418,7 +415,6 @@
           slug: item.slug,
           title: item.title,
           area: item.area
-          observacoes: item.observacoes || ""  // 👈 adicionei esta linha
         }));
 
       buildAreasFromTests(allTests);
