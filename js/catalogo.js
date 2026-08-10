@@ -379,8 +379,7 @@
       const q = normalizeText(activeQuery);
       baseTestsForLetters = baseTestsForLetters.filter((t) =>
         normalizeText(t.title).includes(q) ||
-        normalizeText(t.observacoes).includes(q)
-      );
+        normalizeText(t.observacoes).includes(q));
     }
 
     renderAZNav(baseTestsForLetters);
