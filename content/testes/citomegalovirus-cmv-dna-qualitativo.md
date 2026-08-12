@@ -2,8 +2,7 @@
 title: Citomegalovírus (CMV), DNA qualitativo
 area: Virologia
 metodo: PCR em tempo real
-amostra: "respiratórias, Lavado Broncoalveolar, Biópsias, Outros produtos,
-  Medula óssea "
+amostra: ...
 material_colheita: >+
   Se Secreções respiratórias, Lavado Broncoalveolar, Biópsias, Outros produtos -
   Contentor estéril (de preferência estanque)
